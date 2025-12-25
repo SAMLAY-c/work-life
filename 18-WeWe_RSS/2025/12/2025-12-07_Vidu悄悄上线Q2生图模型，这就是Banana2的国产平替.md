@@ -1,0 +1,1 @@
+{"content":"---\ncreated: 2025-12-07 17:11:32\npublish_date: 2025-12-07\nsource_url: https://mp.weixin.qq.com/s/p1_DxJdqiJ0xFdK-0oufIQ\nauthor: 卡尔的AI沃茨\ntags:\n  - 公众号\n  - 卡尔的AI沃茨\n---\n\n# Vidu悄悄上线Q2生图模型，这就是Banana2的国产平替\n\n> [!abstract] 摘要\n> 暂无摘要\n\n---\n\n## 正文内容\n\n\n\n---\n[查看原文](https://mp.weixin.qq.com/s/p1_DxJdqiJ0xFdK-0oufIQ)\n"}

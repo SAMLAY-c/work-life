@@ -1,0 +1,12 @@
+views:
+  - type: table
+    name: 表格
+    filters:
+      and:
+        - file.folder == "插件"
+    order:
+      - file.name
+      - plugin_name
+      - plugin_type
+      - pricing
+      - source_url
