@@ -1,0 +1,1 @@
+{"content":"---\ncreated: 2025-12-07 17:11:30\npublish_date: 2025-12-07\nsource_url: https://mp.weixin.qq.com/s/R-Dnlk3edRUTfTqTdXz2yg\nauthor: 卡尔的AI沃茨\ntags:\n  - 公众号\n  - 卡尔的AI沃茨\n---\n\n# 有了Banana2后，我想看看电商设计Agent还有没有机会能活下来\n\n> [!abstract] 摘要\n> 暂无摘要\n\n---\n\n## 正文内容\n\n\n\n---\n[查看原文](https://mp.weixin.qq.com/s/R-Dnlk3edRUTfTqTdXz2yg)\n"}

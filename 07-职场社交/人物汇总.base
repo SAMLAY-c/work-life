@@ -1,0 +1,29 @@
+filters:
+  and:
+    - file.folder == "07-职场社交/人物"
+formulas:
+  未命名: ""
+views:
+  - type: table
+    name: 表格
+    order:
+      - file.name
+      - character_trait
+      - current_focus
+      - hobby
+      - title
+      - formula.未命名
+    sort:
+      - property: character_trait
+        direction: DESC
+      - property: current_focus
+        direction: DESC
+      - property: department
+        direction: ASC
+      - property: title
+        direction: DESC
+      - property: role
+        direction: ASC
+    columnSize:
+      note.character_trait: 506
+      note.current_focus: 271
