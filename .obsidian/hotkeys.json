@@ -7,5 +7,13 @@
       ],
       "key": "I"
     }
+  ],
+  "editor:open-search-replace": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "H"
+    }
   ]
 }
