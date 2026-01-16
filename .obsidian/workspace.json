@@ -11,10 +11,14 @@
             "id": "03f467db44e2b040",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "10-AI_Dev/02-Knowledge/Bilibili_Library/Assets/Video_Template.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "新标签页"
+              "title": "Video_Template"
             }
           }
         ]
@@ -183,8 +187,19 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "9abe4040a46c48a5",
+  "active": "03f467db44e2b040",
   "lastOpenFiles": [
+    "10-AI_Dev/02-Knowledge/Bilibili_Library/Bilibili_Knowledge_Map.canvas",
+    "10-AI_Dev/02-Knowledge/Bilibili_Library/Video_Tracker.base.md",
+    "10-AI_Dev/02-Knowledge/tool/00-ob-1.md",
+    "10-AI_Dev/02-Knowledge/Bilibili_Library/Assets/Video_Template.md",
+    "10-AI_Dev/02-Knowledge/Bilibili_Library/Inbox",
+    "10-AI_Dev/02-Knowledge/Bilibili_Library/Assets",
+    "10-AI_Dev/02-Knowledge/Bilibili_Library",
+    "Bilibili_Library/Inbox",
+    "Bilibili_Library/Assets",
+    "Bilibili_Library",
+    "10-AI_Dev/02-Knowledge/00-知识库/未命名.md",
     "10-AI_Dev/02-Knowledge/tool",
     "20-Work_Archive/锦书在线/测试/长期短期对比.md",
     "20-Work_Archive/锦书在线/测试/2-qwen max.md",
@@ -215,20 +230,9 @@
     "测试/2-qwen max.md",
     "测试/1-doubao.md",
     "qwen-max.md",
-    "测试",
     "doubao-1.6.md",
     "蔡柯豪的学情诊断与规划.md",
-    "00-知识库/参考知识/Knowledge_Base/2025/12/2025-10-25_实测腾讯元宝新出的AI录音笔，突破物理限制后更好用了.md",
-    "00-资源/账号/未命名.md",
-    "00-系统/任务管理教程/03_任务全流程管理.md",
-    "00-系统/任务管理教程/文件夹整理方案.md",
-    "00-系统/任务管理教程",
     "00-临时/Untitled.canvas",
-    "00-临时/Untitled",
-    "00-临时",
-    "00-归档/其他/心桥/video_env/lib/python3.9/site-packages/pip/_vendor/urllib3/contrib/_securetransport/__init__.py",
-    "00-归档/其他/心桥/video_env/lib/python3.9/site-packages/pip/_vendor/urllib3/packages/backports/__init__.py",
-    "00-归档/其他/心桥/video_env/lib/python3.9/site-packages/pip/_vendor/urllib3/packages/ssl_match_hostname/_implementation.py",
     "00-归档/其他/心桥/三年级英语/frame_19_20251027112521254147.jpg",
     "00-归档/其他/心桥/三年级英语/frame_20_20251027112459557895.jpg",
     "00-归档/其他/心桥/三年级英语/frame_18_2025110510540198371.jpg",
