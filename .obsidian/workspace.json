@@ -4,21 +4,33 @@
     "type": "split",
     "children": [
       {
-        "id": "ebaee0e9d74ef341",
+        "id": "71ad1d6243dfa207",
         "type": "tabs",
         "children": [
           {
-            "id": "03f467db44e2b040",
+            "id": "5c80082420ab792a",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "10-AI_Dev/11-小智/00-到手必看.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "00-到手必看"
+              "title": "新标签页"
+            }
+          }
+        ]
+      },
+      {
+        "id": "7ebaf4b360184907",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "33bd38c495f0a2e9",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "新标签页"
             }
           }
         ]
@@ -187,10 +199,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "03f467db44e2b040",
+  "active": "33bd38c495f0a2e9",
   "lastOpenFiles": [
-    "AI绘画风格提取三步法.flowchart.md",
+    "10-AI_Dev/11-小智/未命名.md",
     "10-AI_Dev/11-小智/00-到手必看.md",
+    "10-AI_Dev/11-小智/01-常见问题.md",
+    "10-AI_Dev/11-小智/03-视频指导.md",
+    "AI绘画风格提取三步法.flowchart.md",
     "10-AI_Dev/11-小智",
     "10-AI_Dev/02-Knowledge/Bilibili_Library/Video_Tracker.base.md",
     "10-AI_Dev/02-Knowledge/Bilibili_Library/Bilibili_Knowledge_Map.canvas",
@@ -230,9 +245,6 @@
     "00-工具/网站/北京颐堤港附近游玩攻略.md",
     "测试/长期短期对比.md",
     "测试/2-qwen max.md",
-    "测试/1-doubao.md",
-    "qwen-max.md",
-    "doubao-1.6.md",
     "00-临时/Untitled.canvas",
     "00-归档/其他/心桥/三年级英语/frame_19_20251027112521254147.jpg",
     "00-归档/其他/心桥/三年级英语/frame_20_20251027112459557895.jpg",
