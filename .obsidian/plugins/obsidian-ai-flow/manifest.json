@@ -1,0 +1,10 @@
+{
+  "id": "obsidian-ai-flow",
+  "name": "AI Flow",
+  "version": "1.0.0",
+  "minAppVersion": "0.15.0",
+  "description": "使用 SiliconFlow AI 自动整理讲稿至知识库",
+  "author": "samlay-c",
+  "authorUrl": "https://github.com/samlay-c",
+  "isDesktopOnly": false
+}
