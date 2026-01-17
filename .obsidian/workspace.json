@@ -202,8 +202,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a41ac10ef604ebe4",
+  "active": "9abe4040a46c48a5",
   "lastOpenFiles": [
+    "10-AI_Dev/04-vibeCoding/未命名.md",
+    "00-Inbox/01-B站/好好一个产品经理，怎么活成了一个IP-完整版.md",
     "10-AI_Dev/04-vibeCoding",
     "10-AI_Dev/11-小智/小智API二次开发方案.md",
     "Knowledge Base/好好一个产品经理，怎么活成了一个IP-完整版_AI.md",
@@ -219,7 +221,6 @@
     "10-AI_Dev/11-小智/5、小智AI客户资料/5、3D打印源文件/2、方头方脑版本打印文件/1、Q版/2、打印文件/自行选择对应的前盖打印！！！.md",
     "10-AI_Dev/11-小智/5、小智AI客户资料/5、3D打印源文件/2、方头方脑版本打印文件/电池会爆炸！！！.md",
     "10-AI_Dev/11-小智/5、小智AI客户资料/1、常见问题.md",
-    "00-Inbox/01-B站/好好一个产品经理，怎么活成了一个IP-完整版.md",
     "Knowledge Base/好好一个产品经理，怎么活成了一个IP_AI.md",
     "Excalidraw/Drawing 2026-01-17 10.41.02.excalidraw.md",
     "Excalidraw",
@@ -232,7 +233,6 @@
     "10-AI_Dev/11-小智/5、小智AI客户资料/4、源代码/3、基于1.6版本修改的代码/源码/xiaozhi-esp32/build/esp-idf/mbedtls/mbedtls/library/CMakeFiles/mbedcrypto.dir/D_/Espressif/frameworks/esp-idf-v5.3.2/components/mbedtls/port/aes/dma/esp_aes.c.obj",
     "10-AI_Dev/11-小智/5、小智AI客户资料/4、源代码/3、基于1.6版本修改的代码/源码/xiaozhi-esp32/build/esp-idf/mbedtls/mbedtls/library/CMakeFiles/mbedcrypto.dir/D_/Espressif/frameworks/esp-idf-v5.3.2/components/mbedtls/port/aes/dma/esp_aes_dma_core.c.obj",
     "10-AI_Dev/11-小智/5、小智AI客户资料/4、源代码/3、基于1.6版本修改的代码/源码/xiaozhi-esp32/build/esp-idf/mbedtls/mbedtls/library/CMakeFiles/mbedcrypto.dir/D_/Espressif/frameworks/esp-idf-v5.3.2/components/mbedtls/port/sha/dma/esp_sha1.c.obj",
-    "10-AI_Dev/11-小智/5、小智AI客户资料/4、源代码/3、基于1.6版本修改的代码/源码/xiaozhi-esp32/build/esp-idf/mbedtls/mbedtls/library/CMakeFiles/mbedcrypto.dir/D_/Espressif/frameworks/esp-idf-v5.3.2/components/mbedtls/port/aes/dma/esp_aes_gdma_impl.c.obj",
     "10-AI_Dev/11-小智/5、小智AI客户资料/4、源代码/3、基于1.6版本修改的代码/源码/xiaozhi-esp32/managed_components/espressif__esp-dsp/examples/applications/azure_board_apps/graphics/img_to_3d_matrix/example/image/cpu_logo.png",
     "10-AI_Dev/11-小智/5、小智AI客户资料/4、源代码/3、基于1.6版本修改的代码/源码/xiaozhi-esp32/managed_components/espressif__esp-dsp/examples/applications/azure_board_apps/graphics/img_to_3d_matrix/example/converted_image/cpu_logo_conv.png",
     "10-AI_Dev/11-小智/5、小智AI客户资料/4、源代码/3、基于1.6版本修改的代码/源码/xiaozhi-esp32/managed_components/espressif__esp-dsp/examples/applications/azure_board_apps/graphics/img_to_3d_matrix/example/converted_image/cpu_logo_invert_conv.png",
