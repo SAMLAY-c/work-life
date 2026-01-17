@@ -4,36 +4,39 @@
     "type": "split",
     "children": [
       {
-        "id": "71ad1d6243dfa207",
+        "id": "c706224b674fa9e8",
         "type": "tabs",
         "children": [
           {
-            "id": "5c80082420ab792a",
+            "id": "4fba64cc79240a93",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "00-Inbox/01-B站/好好一个产品经理，怎么活成了一个IP-完整版.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "新标签页"
+              "title": "好好一个产品经理，怎么活成了一个IP-完整版"
             }
-          }
-        ]
-      },
-      {
-        "id": "7ebaf4b360184907",
-        "type": "tabs",
-        "children": [
+          },
           {
-            "id": "33bd38c495f0a2e9",
+            "id": "a41ac10ef604ebe4",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "00-Inbox/01-B站/好好一个产品经理，怎么活成了一个IP-完整版.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "新标签页"
+              "title": "好好一个产品经理，怎么活成了一个IP-完整版"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -199,57 +202,57 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "33bd38c495f0a2e9",
+  "active": "a41ac10ef604ebe4",
   "lastOpenFiles": [
-    "10-AI_Dev/11-小智/未命名.md",
-    "10-AI_Dev/11-小智/00-到手必看.md",
-    "10-AI_Dev/11-小智/01-常见问题.md",
-    "10-AI_Dev/11-小智/03-视频指导.md",
-    "AI绘画风格提取三步法.flowchart.md",
-    "10-AI_Dev/11-小智",
-    "10-AI_Dev/02-Knowledge/Bilibili_Library/Video_Tracker.base.md",
+    "10-AI_Dev/04-vibeCoding",
+    "10-AI_Dev/11-小智/小智API二次开发方案.md",
+    "Knowledge Base/好好一个产品经理，怎么活成了一个IP-完整版_AI.md",
+    "10-AI_Dev/11-小智/5、小智AI客户资料/4、源代码/5、音乐播放固件(严禁商用，仅供学习交流)/音乐固件下载地址.md",
+    "10-AI_Dev/11-小智/5、小智AI客户资料/4、源代码/0、1.72及以上版本/下载链接.md",
+    "10-AI_Dev/11-小智/5、小智AI客户资料/5、3D打印源文件/0、电池会爆炸！！！.md",
+    "10-AI_Dev/11-小智/5、小智AI客户资料/5、3D打印源文件/1、小四方形的打印文件/装配说明 必看！！！.md",
+    "10-AI_Dev/11-小智/5、小智AI客户资料/5、3D打印源文件/1、小四方形的打印文件/0、电池会爆炸！！！.md",
+    "10-AI_Dev/11-小智/5、小智AI客户资料/5、3D打印源文件/1、小四方形的打印文件/0、装配说明 必看！！！.md",
+    "10-AI_Dev/11-小智/5、小智AI客户资料/5、3D打印源文件/2、方头方脑版本打印文件/装配说明 必看！！！.md",
+    "10-AI_Dev/11-小智/5、小智AI客户资料/5、3D打印源文件/2、方头方脑版本打印文件/1、Q版/装配说明 必看！！！.md",
+    "10-AI_Dev/11-小智/5、小智AI客户资料/5、3D打印源文件/2、方头方脑版本打印文件/1、Q版/电池会爆炸！！！.md",
+    "10-AI_Dev/11-小智/5、小智AI客户资料/5、3D打印源文件/2、方头方脑版本打印文件/1、Q版/2、打印文件/自行选择对应的前盖打印！！！.md",
+    "10-AI_Dev/11-小智/5、小智AI客户资料/5、3D打印源文件/2、方头方脑版本打印文件/电池会爆炸！！！.md",
+    "10-AI_Dev/11-小智/5、小智AI客户资料/1、常见问题.md",
+    "00-Inbox/01-B站/好好一个产品经理，怎么活成了一个IP-完整版.md",
+    "Knowledge Base/好好一个产品经理，怎么活成了一个IP_AI.md",
+    "Excalidraw/Drawing 2026-01-17 10.41.02.excalidraw.md",
+    "Excalidraw",
+    "00-Inbox/01-B站/好好一个产品经理，怎么活成了一个IP.md",
+    "00-Inbox/03-小红书",
+    "00-Inbox/02-抖音",
+    "10-AI_Dev/11-小智/5、小智AI客户资料/4、源代码/3、基于1.6版本修改的代码/源码/xiaozhi-esp32/build/esp-idf/mbedtls/mbedtls/library/CMakeFiles/mbedcrypto.dir/D_/Espressif/frameworks/esp-idf-v5.3.2/components/mbedtls/port/sha/dma/sha.c.obj",
+    "10-AI_Dev/11-小智/5、小智AI客户资料/4、源代码/3、基于1.6版本修改的代码/源码/xiaozhi-esp32/build/esp-idf/mbedtls/mbedtls/library/CMakeFiles/mbedcrypto.dir/D_/Espressif/frameworks/esp-idf-v5.3.2/components/mbedtls/port/sha/dma/esp_sha512.c.obj",
+    "10-AI_Dev/11-小智/5、小智AI客户资料/4、源代码/3、基于1.6版本修改的代码/源码/xiaozhi-esp32/build/esp-idf/mbedtls/mbedtls/library/CMakeFiles/mbedcrypto.dir/D_/Espressif/frameworks/esp-idf-v5.3.2/components/mbedtls/port/sha/dma/esp_sha256.c.obj",
+    "10-AI_Dev/11-小智/5、小智AI客户资料/4、源代码/3、基于1.6版本修改的代码/源码/xiaozhi-esp32/build/esp-idf/mbedtls/mbedtls/library/CMakeFiles/mbedcrypto.dir/D_/Espressif/frameworks/esp-idf-v5.3.2/components/mbedtls/port/aes/dma/esp_aes.c.obj",
+    "10-AI_Dev/11-小智/5、小智AI客户资料/4、源代码/3、基于1.6版本修改的代码/源码/xiaozhi-esp32/build/esp-idf/mbedtls/mbedtls/library/CMakeFiles/mbedcrypto.dir/D_/Espressif/frameworks/esp-idf-v5.3.2/components/mbedtls/port/aes/dma/esp_aes_dma_core.c.obj",
+    "10-AI_Dev/11-小智/5、小智AI客户资料/4、源代码/3、基于1.6版本修改的代码/源码/xiaozhi-esp32/build/esp-idf/mbedtls/mbedtls/library/CMakeFiles/mbedcrypto.dir/D_/Espressif/frameworks/esp-idf-v5.3.2/components/mbedtls/port/sha/dma/esp_sha1.c.obj",
+    "10-AI_Dev/11-小智/5、小智AI客户资料/4、源代码/3、基于1.6版本修改的代码/源码/xiaozhi-esp32/build/esp-idf/mbedtls/mbedtls/library/CMakeFiles/mbedcrypto.dir/D_/Espressif/frameworks/esp-idf-v5.3.2/components/mbedtls/port/aes/dma/esp_aes_gdma_impl.c.obj",
+    "10-AI_Dev/11-小智/5、小智AI客户资料/4、源代码/3、基于1.6版本修改的代码/源码/xiaozhi-esp32/managed_components/espressif__esp-dsp/examples/applications/azure_board_apps/graphics/img_to_3d_matrix/example/image/cpu_logo.png",
+    "10-AI_Dev/11-小智/5、小智AI客户资料/4、源代码/3、基于1.6版本修改的代码/源码/xiaozhi-esp32/managed_components/espressif__esp-dsp/examples/applications/azure_board_apps/graphics/img_to_3d_matrix/example/converted_image/cpu_logo_conv.png",
+    "10-AI_Dev/11-小智/5、小智AI客户资料/4、源代码/3、基于1.6版本修改的代码/源码/xiaozhi-esp32/managed_components/espressif__esp-dsp/examples/applications/azure_board_apps/graphics/img_to_3d_matrix/example/converted_image/cpu_logo_invert_conv.png",
+    "10-AI_Dev/11-小智/5、小智AI客户资料/4、源代码/3、基于1.6版本修改的代码/源码/xiaozhi-esp32/managed_components/espressif__esp-dsp/examples/azure_board_apps/graphics/img_to_3d_matrix/example/image/cpu_logo.png",
+    "10-AI_Dev/11-小智/5、小智AI客户资料/4、源代码/3、基于1.6版本修改的代码/源码/xiaozhi-esp32/managed_components/espressif__esp-dsp/examples/azure_board_apps/graphics/img_to_3d_matrix/example/converted_image/cpu_logo_invert_conv.png",
+    "10-AI_Dev/11-小智/5、小智AI客户资料/4、源代码/3、基于1.6版本修改的代码/源码/xiaozhi-esp32/managed_components/espressif__esp-dsp/examples/azure_board_apps/graphics/img_to_3d_matrix/example/converted_image/cpu_logo_conv.png",
+    "10-AI_Dev/11-小智/5、小智AI客户资料/4、源代码/3、基于1.6版本修改的代码/源码/xiaozhi-esp32/managed_components/espressif__esp-dsp/examples/applications/azure_board_apps/graphics/img_to_3d_matrix/example/README.md",
+    "10-AI_Dev/11-小智/5、小智AI客户资料/4、源代码/3、基于1.6版本修改的代码/源码/xiaozhi-esp32/managed_components/espressif__esp-dsp/applications/azure_board_apps/graphics/img_to_3d_matrix/example/image/cpu_logo.png",
+    "10-AI_Dev/11-小智/5、小智AI客户资料/4、源代码/3、基于1.6版本修改的代码/源码/xiaozhi-esp32/managed_components/espressif__esp-dsp/applications/azure_board_apps/graphics/img_to_3d_matrix/example/converted_image/cpu_logo_invert_conv.png",
+    "10-AI_Dev/11-小智/5、小智AI客户资料/4、源代码/3、基于1.6版本修改的代码/源码/xiaozhi-esp32/managed_components/espressif__esp-dsp/applications/azure_board_apps/graphics/img_to_3d_matrix/example/converted_image/cpu_logo_conv.png",
+    "文件夹结构.md",
+    "10-AI_Dev/11-小智/5、小智AI客户资料/4、源代码/3、基于1.6版本修改的代码/源码/xiaozhi-esp32/managed_components/lvgl__lvgl/tests/src/test_libs/rnd_unicodes/rnd_unicodes/README.md",
+    "10-AI_Dev/11-小智/5、小智AI客户资料/4、源代码/3、基于1.6版本修改的代码/源码/xiaozhi-esp32/managed_components/lvgl__lvgl/tests/ref_imgs_vg_lite/draw/render/xrgb8888/demo_render_line_opa_255.png",
+    "10-AI_Dev/11-小智/5、小智AI客户资料/4、源代码/3、基于1.6版本修改的代码/源码/xiaozhi-esp32/managed_components/espressif__esp-dsp/examples/azure_board_apps/graphics/img_to_3d_matrix/example/README.md",
+    "10-AI_Dev/11-小智/5、小智AI客户资料/4、源代码/3、基于1.6版本修改的代码/源码/xiaozhi-esp32/managed_components/espressif__esp-dsp/examples/applications/m5stack_core_s3/apps/3d_graphics/README.md",
+    "10-AI_Dev/11-小智/5、小智AI客户资料/4、源代码/3、基于1.6版本修改的代码/源码/xiaozhi-esp32/managed_components/espressif__esp-dsp/examples/applications/m5stack_core_s3/apps/kalman_filter/README.md",
+    "10-AI_Dev/11-小智/5、小智AI客户资料/4、源代码/3、基于1.6版本修改的代码/源码/xiaozhi-esp32/managed_components/espressif__esp-dsp/examples/applications/azure_board_apps/apps/kalman_filter/README.md",
     "10-AI_Dev/02-Knowledge/Bilibili_Library/Bilibili_Knowledge_Map.canvas",
-    "10-AI_Dev/02-Knowledge/Bilibili_Library/Assets/Video_Template.md",
-    "10-AI_Dev/02-Knowledge/tool/00-ob-1.md",
-    "10-AI_Dev/02-Knowledge/Bilibili_Library/Inbox",
-    "10-AI_Dev/02-Knowledge/Bilibili_Library/Assets",
-    "10-AI_Dev/02-Knowledge/Bilibili_Library",
-    "Bilibili_Library/Inbox",
-    "Bilibili_Library/Assets",
-    "Bilibili_Library",
-    "10-AI_Dev/02-Knowledge/00-知识库/未命名.md",
-    "10-AI_Dev/02-Knowledge/tool",
-    "20-Work_Archive/锦书在线/测试/长期短期对比.md",
-    "20-Work_Archive/锦书在线/测试/2-qwen max.md",
-    "20-Work_Archive/锦书在线/测试/1-doubao.md",
-    "20-Work_Archive/锦书在线/测试",
-    "未命名 1.md",
-    "未命名 4.md",
-    "未命名 3.md",
-    "附件/Pasted image 20251230155354.png",
-    "蔡柯豪的学情诊断与规划-qwen max.md",
     "未命名.canvas",
-    "Welcome.md",
-    "00-知识库/AI研究/非技术岗的ai.md",
-    "00-知识库/AI研究/AI技术发展核心知识.md",
-    "00-知识库/AI研究/对应讲解.md",
-    "00-知识库/AI研究/未命名.md",
-    "附件/Pasted image 20251228111648.png",
-    "附件/Pasted image 20251228111618.png",
-    "附件/Pasted Image 20251228110756_569.png",
-    "附件/Pasted Image 20251228110756_561.png",
-    "附件/Pasted Image 20251228110756_441.png",
-    "附件/终版：AI演义，36篇论文开启你的探索之旅.pdf",
-    "00-知识库/未命名.md",
-    "00-工具/网站/Drawing 2025-12-27 10.52.24.excalidraw.md",
-    "00-工具/网站/北京颐堤港附近游玩攻略.md",
-    "测试/长期短期对比.md",
-    "测试/2-qwen max.md",
     "00-临时/Untitled.canvas",
-    "00-归档/其他/心桥/三年级英语/frame_19_20251027112521254147.jpg",
-    "00-归档/其他/心桥/三年级英语/frame_20_20251027112459557895.jpg",
-    "00-归档/其他/心桥/三年级英语/frame_18_2025110510540198371.jpg",
-    "00-归档/其他/心桥/三年级英语/frame_17_20251105105536410738.jpg",
     "00-临时文件/Untitled.canvas",
     "Untitled.canvas"
   ]

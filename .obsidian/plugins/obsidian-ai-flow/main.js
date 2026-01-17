@@ -66,10 +66,18 @@ var AIFlowPlugin = class extends import_obsidian.Plugin {
     this.addSettingTab(new AIFlowSettingTab(this.app, this));
   }
   async processNote(sourceFile) {
-    new import_obsidian.Notice(`\u{1F916} \u6B63\u5728\u6DF1\u5EA6\u5206\u6790\u8BB2\u7A3F: ${sourceFile.basename}...`);
+    new import_obsidian.Notice(`\u{1F680} \u5F00\u59CB\u6574\u7406\u8BB2\u7A3F: ${sourceFile.basename}`);
+    new import_obsidian.Notice(`\u{1F4D6} (1/6) \u6B63\u5728\u8BFB\u53D6\u6E90\u6587\u4EF6...`);
+    const sourceContent = await this.app.vault.read(sourceFile);
+    const contentLength = sourceContent.length;
+    new import_obsidian.Notice(`\u2705 \u5DF2\u8BFB\u53D6 ${contentLength} \u5B57\u7B26`);
     try {
-      const sourceContent = await this.app.vault.read(sourceFile);
+      new import_obsidian.Notice(`\u{1F916} (2/6) \u6B63\u5728\u8C03\u7528 DeepSeek AI \u5206\u6790...`);
+      const startTime = Date.now();
       const aiResult = await this.callSiliconFlow(sourceContent);
+      const elapsed = ((Date.now() - startTime) / 1e3).toFixed(1);
+      new import_obsidian.Notice(`\u2705 AI \u5206\u6790\u5B8C\u6210 (\u8017\u65F6 ${elapsed} \u79D2)`);
+      new import_obsidian.Notice(`\u{1F4CB} (3/6) \u6B63\u5728\u89E3\u6790 AI \u7ED3\u679C...`);
       let aiData;
       try {
         const cleanJson = aiResult.replace(/```json/g, "").replace(/```/g, "").trim();
@@ -79,6 +87,8 @@ var AIFlowPlugin = class extends import_obsidian.Plugin {
         new import_obsidian.Notice("\u26A0\uFE0F AI \u8FD4\u56DE\u683C\u5F0F\u5F02\u5E38\uFF0C\u8BF7\u67E5\u770B\u63A7\u5236\u53F0\u65E5\u5FD7");
         return;
       }
+      new import_obsidian.Notice(`\u2705 \u6570\u636E\u89E3\u6790\u6210\u529F`);
+      new import_obsidian.Notice(`\u{1F4C4} (4/6) \u6B63\u5728\u8BFB\u53D6\u6A21\u677F...`);
       const templateFile = this.app.vault.getAbstractFileByPath(this.settings.templatePath);
       if (!(templateFile instanceof import_obsidian.TFile)) {
         new import_obsidian.Notice(`\u274C \u627E\u4E0D\u5230\u6A21\u677F\u6587\u4EF6: ${this.settings.templatePath}`);
@@ -88,7 +98,10 @@ var AIFlowPlugin = class extends import_obsidian.Plugin {
       const platform = this.detectPlatform(sourceFile.path);
       const sourceTag = platform ? `  - source/${platform}
 ` : "";
+      new import_obsidian.Notice(`\u{1F3F7}\uFE0F \u8BC6\u522B\u6765\u6E90: ${platform}`);
+      new import_obsidian.Notice(`\u270D\uFE0F  (5/6) \u6B63\u5728\u751F\u6210\u6587\u6863...`);
       const finalContent = templateContent.replace(/\{\{title\}\}/g, sourceFile.basename).replace(/\{\{date\}\}/g, (/* @__PURE__ */ new Date()).toISOString().split("T")[0]).replace(/\{\{model_name\}\}/g, this.settings.model).replace(/\{\{source_file\}\}/g, sourceFile.path).replace(/\{\{SOURCE_TAG\}\}/g, sourceTag).replace(/\{\{AI_TAGS\}\}/g, aiData.suggested_tags || "  - \u5F85\u5206\u7C7B").replace(/\{\{AI_TABLE\}\}/g, aiData.analysis_table || "\u8868\u683C\u751F\u6210\u5931\u8D25").replace(/\{\{AI_DETAILED_CONTENT\}\}/g, aiData.detailed_content || "\u751F\u6210\u5931\u8D25").replace(/\{\{AI_ACTION_ITEMS\}\}/g, aiData.action_items || "\u65E0");
+      new import_obsidian.Notice(`\u{1F4BE} (6/6) \u6B63\u5728\u4FDD\u5B58\u6587\u4EF6...`);
       if (!this.app.vault.getAbstractFileByPath(this.settings.destinationFolder)) {
         await this.app.vault.createFolder(this.settings.destinationFolder);
       }
@@ -98,7 +111,10 @@ var AIFlowPlugin = class extends import_obsidian.Plugin {
         await this.app.vault.delete(existFile);
       }
       const newFile = await this.app.vault.create(destPath, finalContent);
-      new import_obsidian.Notice(`\u2705 \u8BB2\u7A3F\u5206\u6790\u5B8C\u6210\uFF01`);
+      new import_obsidian.Notice(`\u{1F389} \u8BB2\u7A3F\u6574\u7406\u5B8C\u6210\uFF01\u5DF2\u4FDD\u5B58\u81F3 Knowledge Base`);
+      const wordCount = finalContent.length;
+      const lineCount = finalContent.split("\n").length;
+      console.log(`\u751F\u6210\u6587\u4EF6\u7EDF\u8BA1: ${wordCount} \u5B57\u7B26, ${lineCount} \u884C`);
       this.app.workspace.getLeaf("tab").openFile(newFile);
     } catch (error) {
       new import_obsidian.Notice(`\u5904\u7406\u51FA\u9519: ${error.message}`);

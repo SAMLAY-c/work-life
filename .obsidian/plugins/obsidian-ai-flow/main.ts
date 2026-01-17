@@ -59,16 +59,26 @@ export default class AIFlowPlugin extends Plugin {
     }
 
     async processNote(sourceFile: TFile) {
-        new Notice(`🤖 正在深度分析讲稿: ${sourceFile.basename}...`);
+        new Notice(`🚀 开始整理讲稿: ${sourceFile.basename}`);
+
+        // 步骤 1: 读取源文件
+        new Notice(`📖 (1/6) 正在读取源文件...`);
+        const sourceContent = await this.app.vault.read(sourceFile);
+        const contentLength = sourceContent.length;
+        new Notice(`✅ 已读取 ${contentLength} 字符`);
 
         try {
-            // A. 读取源文件
-            const sourceContent = await this.app.vault.read(sourceFile);
+            // 步骤 2: 调用 SiliconFlow API
+            new Notice(`🤖 (2/6) 正在调用 DeepSeek AI 分析...`);
+            const startTime = Date.now();
 
-            // B. 调用 SiliconFlow API
             const aiResult = await this.callSiliconFlow(sourceContent);
 
-            // 解析 JSON
+            const elapsed = ((Date.now() - startTime) / 1000).toFixed(1);
+            new Notice(`✅ AI 分析完成 (耗时 ${elapsed} 秒)`);
+
+            // 步骤 3: 解析 JSON
+            new Notice(`📋 (3/6) 正在解析 AI 结果...`);
             let aiData;
             try {
                 // 清理可能存在的 markdown 代码块标记 (兼容性处理)
@@ -79,8 +89,10 @@ export default class AIFlowPlugin extends Plugin {
                 new Notice("⚠️ AI 返回格式异常，请查看控制台日志");
                 return;
             }
+            new Notice(`✅ 数据解析成功`);
 
-            // C. 读取模板文件
+            // 步骤 4: 读取模板文件
+            new Notice(`📄 (4/6) 正在读取模板...`);
             const templateFile = this.app.vault.getAbstractFileByPath(this.settings.templatePath);
             if (!(templateFile instanceof TFile)) {
                 new Notice(`❌ 找不到模板文件: ${this.settings.templatePath}`);
@@ -88,11 +100,13 @@ export default class AIFlowPlugin extends Plugin {
             }
             let templateContent = await this.app.vault.read(templateFile);
 
-            // D. 自动识别来源平台
+            // 步骤 5: 自动识别来源平台
             const platform = this.detectPlatform(sourceFile.path);
             const sourceTag = platform ? `  - source/${platform}\n` : "";
+            new Notice(`🏷️ 识别来源: ${platform}`);
 
-            // E. 填充模板 (对应新的 JSON 字段)
+            // 步骤 6: 填充模板
+            new Notice(`✍️  (5/6) 正在生成文档...`);
             const finalContent = templateContent
                 .replace(/\{\{title\}\}/g, sourceFile.basename)
                 .replace(/\{\{date\}\}/g, new Date().toISOString().split('T')[0])
@@ -105,7 +119,8 @@ export default class AIFlowPlugin extends Plugin {
                 .replace(/\{\{AI_DETAILED_CONTENT\}\}/g, aiData.detailed_content || "生成失败")
                 .replace(/\{\{AI_ACTION_ITEMS\}\}/g, aiData.action_items || "无");
 
-            // E. 写入目标文件
+            // 步骤 7: 写入目标文件
+            new Notice(`💾 (6/6) 正在保存文件...`);
             // 确保目标文件夹存在
             if (!this.app.vault.getAbstractFileByPath(this.settings.destinationFolder)) {
                 await this.app.vault.createFolder(this.settings.destinationFolder);
@@ -121,7 +136,12 @@ export default class AIFlowPlugin extends Plugin {
 
             const newFile = await this.app.vault.create(destPath, finalContent);
 
-            new Notice(`✅ 讲稿分析完成！`);
+            new Notice(`🎉 讲稿整理完成！已保存至 Knowledge Base`);
+
+            // 显示生成内容的统计信息
+            const wordCount = finalContent.length;
+            const lineCount = finalContent.split('\n').length;
+            console.log(`生成文件统计: ${wordCount} 字符, ${lineCount} 行`);
 
             // 打开新文件
             this.app.workspace.getLeaf('tab').openFile(newFile);
