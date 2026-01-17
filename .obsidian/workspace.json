@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AI绘画风格提取三步法.flowchart.md",
+                "file": "10-AI_Dev/11-小智/00-到手必看.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "AI绘画风格提取三步法.flowchart"
+              "title": "00-到手必看"
             }
           }
         ]
@@ -190,6 +190,8 @@
   "active": "03f467db44e2b040",
   "lastOpenFiles": [
     "AI绘画风格提取三步法.flowchart.md",
+    "10-AI_Dev/11-小智/00-到手必看.md",
+    "10-AI_Dev/11-小智",
     "10-AI_Dev/02-Knowledge/Bilibili_Library/Video_Tracker.base.md",
     "10-AI_Dev/02-Knowledge/Bilibili_Library/Bilibili_Knowledge_Map.canvas",
     "10-AI_Dev/02-Knowledge/Bilibili_Library/Assets/Video_Template.md",
@@ -227,7 +229,6 @@
     "00-工具/网站/Drawing 2025-12-27 10.52.24.excalidraw.md",
     "00-工具/网站/北京颐堤港附近游玩攻略.md",
     "测试/长期短期对比.md",
-    "00-工具/网站",
     "测试/2-qwen max.md",
     "测试/1-doubao.md",
     "qwen-max.md",
