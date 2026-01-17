@@ -6,7 +6,7 @@ model: DeepSeek-V3
 status: 🟢 已整理
 tags:
   - 知识库/讲稿
-{{SOURCE_TAG}}  - 产品管理
+  - 产品管理
   - 数字营销
   - 企业数字化转型
   - AI工具应用

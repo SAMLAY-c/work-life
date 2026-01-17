@@ -6,8 +6,7 @@ model: DeepSeek-V3
 status: 🟢 已整理
 tags:
   - 知识库/讲稿
-{{SOURCE_TAG}}  
-- 职业规划
+  - 职业规划
   - 教育系统
   - 就业市场
   - 文科生困境
