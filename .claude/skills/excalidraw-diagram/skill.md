@@ -34,8 +34,8 @@ tags: [excalidraw]
 ## Text Elements
 %%
 ## Drawing
-\`\`\`json
-{JSON 完整数据}
+\`\`\`compressed-json
+{compressed-json 完整数据}
 \`\`\`
 %%
 ```
@@ -43,7 +43,7 @@ tags: [excalidraw]
 **关键要点：**
 - Frontmatter 必须包含 `tags: [excalidraw]`
 - 警告信息必须完整
-- JSON 必须被 `%%` 标记包围
+- Drawing 数据必须被 `%%` 标记包围
 - 不能使用 `excalidraw-plugin: parsed` 以外的其他 frontmatter 设置
 
 ## Diagram Types & Selection Guide
@@ -160,9 +160,9 @@ See [references/excalidraw-schema.md](references/excalidraw-schema.md) for all e
 ## Additional Technical Requirements
 
 ### Text Elements 处理
-- `## Text Elements` 部分在 Markdown 中**必须留空**，仅用 `%%` 作为分隔符
-- Obsidian ExcaliDraw 插件会根据 JSON 数据**自动填充文本元素**
-- 不需要手动列出所有文本内容
+- `## Text Elements` 必须列出所有文本内容（与画布一致），按行分段
+- 每段末尾可保留 Excalidraw 文本 id（如 `^abcd1234`）以便追踪
+- Drawing 仍以 `compressed-json` 为准，Text Elements 便于快速阅读与检索
 
 ### 坐标与布局
 - **坐标系统**：左上角为原点 (0,0)
