@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "稿子/01-找对标与定选题.md",
+                "file": "稿子-规划/1.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "01-找对标与定选题"
+              "title": "1"
             }
           }
         ],
@@ -204,9 +204,12 @@
   },
   "active": "32d60d65065af03b",
   "lastOpenFiles": [
+    "account/未命名.md",
+    "稿子-规划/1.md",
+    "稿子-规划",
+    "稿子/01-找对标与定选题.md",
     "稿子/01-找对标与定选题.flowchart.md",
     "稿子/02-账号类型与工具使用.md",
-    "稿子/01-找对标与定选题.md",
     "稿子/00-课程概览与基础认知.flowchart.md",
     "稿子/00-课程概览与基础认知.md",
     "account/1-.md",
@@ -234,11 +237,9 @@
     "account",
     "第一性原理.md",
     "00-Inbox/01-B站/“当你的爱结束时_他的爱就开始了”.md",
-    "00-Inbox/01-B站/【更新完结】28天心理学正念冥想课程，缓解治愈焦虑，远离抑郁和负面情绪，安眠助眠，放松神经，提升大脑潜能，缓解压力，增强记忆力，冥想引导，冥想音乐，远离失眠。.md",
     "未命名",
     "large_files.txt",
     "00-Inbox/视频讲稿/python",
-    "00-Inbox/视频讲稿",
     "10-AI_Dev/11-小智/5、小智AI客户资料/4、源代码/3、基于1.6版本修改的代码/源码/xiaozhi-esp32/managed_components/espressif__esp-dsp/examples/applications/azure_board_apps/graphics/img_to_3d_matrix/example/image/cpu_logo.png",
     "10-AI_Dev/11-小智/5、小智AI客户资料/4、源代码/3、基于1.6版本修改的代码/源码/xiaozhi-esp32/managed_components/espressif__esp-dsp/examples/applications/azure_board_apps/graphics/img_to_3d_matrix/example/converted_image/cpu_logo_conv.png",
     "10-AI_Dev/11-小智/5、小智AI客户资料/4、源代码/3、基于1.6版本修改的代码/源码/xiaozhi-esp32/managed_components/espressif__esp-dsp/examples/applications/azure_board_apps/graphics/img_to_3d_matrix/example/converted_image/cpu_logo_invert_conv.png",
