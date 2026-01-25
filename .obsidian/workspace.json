@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "稿子-规划/1.md",
+                "file": "account/1-.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1"
+              "title": "1-"
             }
           }
         ],
@@ -204,6 +204,7 @@
   },
   "active": "32d60d65065af03b",
   "lastOpenFiles": [
+    "account/账号.md",
     "account/未命名.md",
     "稿子-规划/1.md",
     "稿子-规划",
@@ -233,7 +234,6 @@
     "稿子/03-AI内容生产与引流私域.flowchart.md",
     "稿子/02-账号类型与工具使用.flowchart.md",
     "稿子",
-    "account/账号.md",
     "account",
     "第一性原理.md",
     "00-Inbox/01-B站/“当你的爱结束时_他的爱就开始了”.md",
