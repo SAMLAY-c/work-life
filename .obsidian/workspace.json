@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "account/1-.md",
+                "file": "第一性原理.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1-"
+              "title": "第一性原理"
             }
           }
         ],
@@ -204,6 +204,7 @@
   },
   "active": "32d60d65065af03b",
   "lastOpenFiles": [
+    "account/1-.md",
     "account/账号.md",
     "account/未命名.md",
     "稿子-规划/1.md",
@@ -213,7 +214,6 @@
     "稿子/02-账号类型与工具使用.md",
     "稿子/00-课程概览与基础认知.flowchart.md",
     "稿子/00-课程概览与基础认知.md",
-    "account/1-.md",
     "web",
     "账号/github/new API.md",
     "账号/未命名.md",
