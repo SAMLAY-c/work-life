@@ -4,25 +4,6 @@
     "type": "split",
     "children": [
       {
-        "id": "c706224b674fa9e8",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "32d60d65065af03b",
-            "type": "leaf",
-            "state": {
-              "type": "bases",
-              "state": {
-                "file": "产品/未命名.base",
-                "viewName": "表格"
-              },
-              "icon": "lucide-table",
-              "title": "未命名"
-            }
-          }
-        ]
-      },
-      {
         "id": "d991e3fb3ca63b69",
         "type": "tabs",
         "children": [
@@ -32,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "账号/未命名 1.md",
+                "file": "Knowledge Base/2026-01-26/10个月实战打磨！这可能是Github上最全的Claude Code工作流。_AI.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "未命名 1"
+              "title": "10个月实战打磨！这可能是Github上最全的Claude Code工作流。_AI"
             }
           }
         ]
@@ -208,9 +189,12 @@
   },
   "active": "9aa8486ecc6cd2c0",
   "lastOpenFiles": [
+    "Knowledge Base/2026-01-26/【高效的白嫖积分】RunningHUB，AI工作流，AI应用_AI.md",
+    "账号/webFull/未命名 1.md",
+    "账号/webFull",
+    "Knowledge Base/2026-01-26/三句话，教你大厂产品经理都在用的快速学习法！_AI.md",
     "00-Inbox/01-B站/2026-01-26/三句话，教你大厂产品经理都在用的快速学习法！.md",
     "账号/未命名.md",
-    "账号/未命名 1.md",
     "账号/1.md",
     "账号/github/new API.md",
     "CLEANUP_LOG.md",
@@ -223,7 +207,6 @@
     "00-Inbox/01-B站/2026-01-26/立省千元录音设备！口播神器MiniMax_Audio.md",
     "Knowledge Base/2026-01-26/【前端面试】 多张图片加载优化_AI.md",
     "00-Inbox/01-B站/2026-01-26/【前端面试】_多张图片加载优化.md",
-    "Knowledge Base/2026-01-26/【高效的白嫖积分】RunningHUB，AI工作流，AI应用_AI.md",
     "00-Inbox/01-B站/2026-01-26/搭建claude_code网络流量抓包学习环境.md",
     "Knowledge Base/2026-01-26/如何用AI从0-1生成一个IOS APP应用！_AI.md",
     "Knowledge Base/2026-01-26/048--「B端产品经理」典型B端产品的系统架构设计思路_AI.md",
@@ -232,8 +215,6 @@
     "00-Inbox/01-B站/2026-01-26/用Ollama为Claude开启省钱模式.md",
     "Knowledge Base/2026-01-26/10个月实战打磨！这可能是Github上最全的Claude Code工作流。_AI.md",
     "00-Inbox/01-B站/2026-01-26/10个月实战打磨！这可能是Github上最全的Claude_Code工作流。.md",
-    "Knowledge Base/2026-01-26/浅聊Skills、AGENTS.md与经验萃取_AI.md",
-    "Knowledge Base/2026-01-26/黑客马拉松冠军同款Claude开发包开源，Everything Claude Code，包含Agent、Skills、命令、规则和MCP等，配置简单，开箱即用。_AI.md",
     "coding/font",
     "coding",
     "产品/未命名.base",
@@ -243,7 +224,6 @@
     "Knowledge Base/2026-01-25",
     "00-Inbox/01-B站/2026-01-25",
     "稿子-规划",
-    "web",
     "10-AI_Dev/11-小智/5、小智AI客户资料/4、源代码/3、基于1.6版本修改的代码/源码/xiaozhi-esp32/managed_components/espressif__esp-dsp/examples/applications/azure_board_apps/graphics/img_to_3d_matrix/example/image/cpu_logo.png",
     "10-AI_Dev/11-小智/5、小智AI客户资料/4、源代码/3、基于1.6版本修改的代码/源码/xiaozhi-esp32/managed_components/espressif__esp-dsp/examples/applications/azure_board_apps/graphics/img_to_3d_matrix/example/converted_image/cpu_logo_conv.png",
     "10-AI_Dev/11-小智/5、小智AI客户资料/4、源代码/3、基于1.6版本修改的代码/源码/xiaozhi-esp32/managed_components/espressif__esp-dsp/examples/applications/azure_board_apps/graphics/img_to_3d_matrix/example/converted_image/cpu_logo_invert_conv.png",
