@@ -1,6 +1,7 @@
 ---
 created: 2026-01-26
-source: [[【高效的白嫖积分】RunningHUB，AI工作流，AI应用]]
+source:
+  - - 【高效的白嫖积分】RunningHUB，AI工作流，AI应用
 model: DeepSeek-V3
 status: 🟢 已整理
 tags:
@@ -10,6 +11,7 @@ tags:
   - 积分管理
   - 自动化工具
   - 白嫖技巧
+account: "15396631779"
 ---
 
 # 【高效的白嫖积分】RunningHUB，AI工作流，AI应用
