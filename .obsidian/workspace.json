@@ -8,20 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "4fba64cc79240a93",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "第一性原理.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "第一性原理"
-            }
-          },
-          {
             "id": "32d60d65065af03b",
             "type": "leaf",
             "state": {
@@ -32,6 +18,26 @@
               },
               "icon": "lucide-table",
               "title": "未命名"
+            }
+          }
+        ]
+      },
+      {
+        "id": "d991e3fb3ca63b69",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9aa8486ecc6cd2c0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "账号/未命名 1.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "未命名 1"
             }
           }
         ]
@@ -200,15 +206,21 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "9abe4040a46c48a5",
+  "active": "9aa8486ecc6cd2c0",
   "lastOpenFiles": [
+    "00-Inbox/01-B站/2026-01-26/三句话，教你大厂产品经理都在用的快速学习法！.md",
+    "账号/未命名.md",
+    "账号/未命名 1.md",
+    "账号/1.md",
+    "账号/github/new API.md",
+    "CLEANUP_LOG.md",
+    "AI绘画风格提取三步法.flowchart.md",
+    "文件夹结构.md",
+    "第一性原理.md",
     "Knowledge Base/2026-01-26/2025最新  零基础学产品经理 【酸梅干超人出品】_AI.md",
     "00-Inbox/01-B站/2026-01-26/2025最新__零基础学产品经理_【酸梅干超人出品】.md",
     "Knowledge Base/2026-01-26/立省千元录音设备！口播神器MiniMax Audio_AI.md",
     "00-Inbox/01-B站/2026-01-26/立省千元录音设备！口播神器MiniMax_Audio.md",
-    "文件夹结构.md",
-    "AI绘画风格提取三步法.flowchart.md",
-    "CLEANUP_LOG.md",
     "Knowledge Base/2026-01-26/【前端面试】 多张图片加载优化_AI.md",
     "00-Inbox/01-B站/2026-01-26/【前端面试】_多张图片加载优化.md",
     "Knowledge Base/2026-01-26/【高效的白嫖积分】RunningHUB，AI工作流，AI应用_AI.md",
@@ -222,13 +234,7 @@
     "00-Inbox/01-B站/2026-01-26/10个月实战打磨！这可能是Github上最全的Claude_Code工作流。.md",
     "Knowledge Base/2026-01-26/浅聊Skills、AGENTS.md与经验萃取_AI.md",
     "Knowledge Base/2026-01-26/黑客马拉松冠军同款Claude开发包开源，Everything Claude Code，包含Agent、Skills、命令、规则和MCP等，配置简单，开箱即用。_AI.md",
-    "Knowledge Base/2026-01-26/25年我用Ai做了这些App（产品篇）_AI.md",
-    "00-Inbox/01-B站/2026-01-26/048--「B端产品经理」典型B端产品的系统架构设计思路.md",
-    "coding/font/1.md",
-    "coding/font.md",
     "coding/font",
-    "account-front/未命名.md",
-    "account-front/1-.md",
     "coding",
     "产品/未命名.base",
     "产品",
