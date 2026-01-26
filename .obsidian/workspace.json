@@ -13,30 +13,28 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "account/账号.md",
+                "file": "00-Inbox/01-B站/【更新完结】28天心理学正念冥想课程，缓解治愈焦虑，远离抑郁和负面情绪，安眠助眠，放松神经，提升大脑潜能，缓解压力，增强记忆力，冥想引导，冥想音乐，远离失眠。.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "账号"
+              "title": "【更新完结】28天心理学正念冥想课程，缓解治愈焦虑，远离抑郁和负面情绪，安眠助眠，放松神经，提升大脑潜能，缓解压力，增强记忆力，冥想引导，冥想音乐，远离失眠。"
             }
           },
           {
             "id": "32d60d65065af03b",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "bases",
               "state": {
-                "file": "Knowledge Base/2026-01-26/25年我用Ai做了这些App（产品篇）_AI.md",
-                "mode": "source",
-                "source": false
+                "file": "产品/未命名.base",
+                "viewName": "表格"
               },
-              "icon": "lucide-file",
-              "title": "25年我用Ai做了这些App（产品篇）_AI"
+              "icon": "lucide-table",
+              "title": "未命名"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -68,7 +66,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "第",
+                "query": "tag:#运营转产品",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -202,14 +200,22 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "32d60d65065af03b",
+  "active": "4fba64cc79240a93",
   "lastOpenFiles": [
+    "Knowledge Base/2026-01-26/【前端面试】 多张图片加载优化_AI.md",
+    "00-Inbox/01-B站/2026-01-26/【前端面试】_多张图片加载优化.md",
+    "00-Inbox/01-B站/“当你的爱结束时_他的爱就开始了”.md",
+    "第一性原理.md",
+    "account/账号.md",
+    "产品/未命名.base",
+    "产品/1.md",
+    "Knowledge Base/2026-01-26/25年我用Ai做了这些App（产品篇）_AI.md",
+    "产品",
     "Knowledge Base/2026-01-26/自更新Skills，让AI越来越聪明_AI.md",
     "00-Inbox/01-B站/2026-01-26/自更新Skills，让AI越来越聪明.md",
     "Knowledge Base/2026-01-26/一键把 NotebookLM 的 PDF 转成可编辑 PPTX 简报｜上班族必学 AI 工作术_AI.md",
     "00-Inbox/01-B站/2026-01-26/一键把_NotebookLM_的_PDF_转成可编辑_PPTX_简报｜上班族必学_AI_工作术.md",
     "Knowledge Base/2026-01-26/【官方 MV】Never Gonna Give You Up - Rick Astley_AI.md",
-    "Knowledge Base/2026-01-26/25年我用Ai做了这些App（产品篇）_AI.md",
     "Knowledge Base/2026-01-26/让AI看见你的设计，Vibe Design时代来了_AI.md",
     "Knowledge Base/2026-01-26/扔掉你的丑截图，两个App预览图神器网站_AI.md",
     "Knowledge Base/2026-01-26/ChatGPT高级使用技巧（一）_AI.md",
@@ -224,12 +230,6 @@
     "00-Inbox/01-B站/2026-01-26/Vibe_Coding初学者忽视的项目管理与开发流程（一）.md",
     "00-Inbox/01-B站/2026-01-26/AI到底是如何进行编程的？抓包拆解Claude_Code.md",
     "Knowledge Base/2026-01-26/如何利用Claude Code生成视频（Remotion skills）_AI.md",
-    "00-Inbox/01-B站/2026-01-26/如何利用Claude_Code生成视频（Remotion_skills）.md",
-    "00-Inbox/01-B站/2026-01-26/ChatGPT高级使用技巧（一）.md",
-    "00-Inbox/01-B站/2026-01-26/让AI看见你的设计，Vibe_Design时代来了.md",
-    "稿子/01-找对标与定选题.md",
-    "00-Inbox/01-B站/2026-01-26/扔掉你的丑截图，两个App预览图神器网站.md",
-    "Knowledge Base/2026-01-26/你的产品没人用就是迭代得不够多_AI.md",
     "Knowledge Base/2026-01-26",
     "00-Inbox/01-B站/2026-01-26",
     "Knowledge Base/2026-01-25",
@@ -238,8 +238,6 @@
     "web",
     "账号/github",
     "账号",
-    "规划",
-    "稿子",
     "10-AI_Dev/11-小智/5、小智AI客户资料/4、源代码/3、基于1.6版本修改的代码/源码/xiaozhi-esp32/managed_components/espressif__esp-dsp/examples/applications/azure_board_apps/graphics/img_to_3d_matrix/example/image/cpu_logo.png",
     "10-AI_Dev/11-小智/5、小智AI客户资料/4、源代码/3、基于1.6版本修改的代码/源码/xiaozhi-esp32/managed_components/espressif__esp-dsp/examples/applications/azure_board_apps/graphics/img_to_3d_matrix/example/converted_image/cpu_logo_conv.png",
     "10-AI_Dev/11-小智/5、小智AI客户资料/4、源代码/3、基于1.6版本修改的代码/源码/xiaozhi-esp32/managed_components/espressif__esp-dsp/examples/applications/azure_board_apps/graphics/img_to_3d_matrix/example/converted_image/cpu_logo_invert_conv.png",
