@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Knowledge Base/2026-01-27/川普不可以_AI.md",
+                "file": "Knowledge Base/2026-01-27/停止手搓指令，用元提示词SOP让AI自动生成专家级Prompt_AI.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "川普不可以_AI"
+              "title": "停止手搓指令，用元提示词SOP让AI自动生成专家级Prompt_AI"
             }
           }
         ]
@@ -187,12 +187,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "9abe4040a46c48a5",
+  "active": "9aa8486ecc6cd2c0",
   "lastOpenFiles": [
+    "Knowledge Base/2026-01-27/ai生成ip形象设计完整工作流_AI.md",
+    "00-Inbox/01-B站/2026-01-27/ai生成ip形象设计完整工作流.md",
+    "Knowledge Base/2026-01-27/川普不可以_AI.md",
     "Knowledge Base/2026-01-27/停止手搓指令，用元提示词SOP让AI自动生成专家级Prompt_AI.md",
     "00-Inbox/01-B站/2026-01-27/停止手搓指令，用元提示词SOP让AI自动生成专家级Prompt.md",
     "2026-01-26.md",
-    "Knowledge Base/2026-01-27/川普不可以_AI.md",
     "Knowledge Base/2026-01-27",
     "00-Inbox/01-B站/2026-01-27/川普不可以.md",
     "00-Inbox/01-B站/2026-01-27",
@@ -216,8 +218,6 @@
     "Knowledge Base/2026-01-26/2025最新  零基础学产品经理 【酸梅干超人出品】_AI.md",
     "00-Inbox/01-B站/2026-01-26/2025最新__零基础学产品经理_【酸梅干超人出品】.md",
     "Knowledge Base/2026-01-26/立省千元录音设备！口播神器MiniMax Audio_AI.md",
-    "00-Inbox/01-B站/2026-01-26/立省千元录音设备！口播神器MiniMax_Audio.md",
-    "Knowledge Base/2026-01-26/【前端面试】 多张图片加载优化_AI.md",
     "coding/font",
     "coding",
     "产品/未命名.base",
