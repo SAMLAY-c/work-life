@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "d5791b39732f2bd0",
@@ -189,6 +190,8 @@
   },
   "active": "9aa8486ecc6cd2c0",
   "lastOpenFiles": [
+    "Knowledge Base/2026-01-27/Claude Code 47个隐藏技巧！粘贴图片秒出代码，效率直接拉满_AI.md",
+    "00-Inbox/01-B站/2026-01-27/Claude_Code_47个隐藏技巧！粘贴图片秒出代码，效率直接拉满.md",
     "Knowledge Base/2026-01-27/用Claude Code Skills帮我选书并写入Notion，2026年书单靠它啦_AI.md",
     "00-Inbox/01-B站/2026-01-27/用Claude_Code_Skills帮我选书并写入Notion，2026年书单靠它啦.md",
     "00-Inbox/01-B站/2026-01-27/claude本地部署无限Token.md",
@@ -213,8 +216,6 @@
     "00-Inbox/01-B站/2026-01-27/用AI做了3个2D动画生成工具｜vibe_coding实践【效果展示+教程分享+个人实践感受】.md",
     "Knowledge Base/2026-01-27/web-to-app-1.8.5.APK更新！全部功能展示，这是目前最全面易用的安卓本地构建网页应用的方式_AI.md",
     "00-Inbox/01-B站/2026-01-27/web-to-app-1.8.5.APK更新！全部功能展示，这是目前最全面易用的安卓本地构建网页应用的方式.md",
-    "Knowledge Base/2026-01-27/原来 GitHub 还能这么玩？一行代码拉取公钥，实现最优雅的 SSH 免密登录。_AI.md",
-    "00-Inbox/01-B站/2026-01-27/原来_GitHub_还能这么玩？一行代码拉取公钥，实现最优雅的_SSH_免密登录。.md",
     "Knowledge Base/2026-01-27",
     "00-Inbox/01-B站/2026-01-27",
     "账号/webFull",
