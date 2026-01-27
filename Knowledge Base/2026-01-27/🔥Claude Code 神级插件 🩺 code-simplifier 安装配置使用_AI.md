@@ -1,6 +1,7 @@
 ---
 created: 2026-01-27
-source: [[🔥Claude Code 神级插件 🩺 code-simplifier 安装配置使用]]
+source:
+  - - 🔥Claude Code 神级插件 🩺 code-simplifier 安装配置使用
 model: DeepSeek-V3
 status: 🟢 已整理
 tags:
@@ -10,6 +11,7 @@ tags:
   - Claude插件
   - 开发工具
   - CodeSimplifier
+已读:
 ---
 
 # 🔥Claude Code 神级插件 🩺 code-simplifier 安装配置使用
