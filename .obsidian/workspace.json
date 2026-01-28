@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00-Inbox/01-B站/2026-01-27/🚀神器来袭！Pencil让UI设计彻底变天：AI同时生成多个专业级UI，Claude_Code一键转代码，Pencil高级使用技巧保姆级教程！.md",
+                "file": "2026-01-28.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "🚀神器来袭！Pencil让UI设计彻底变天：AI同时生成多个专业级UI，Claude_Code一键转代码，Pencil高级使用技巧保姆级教程！"
+              "title": "2026-01-28"
             }
           }
         ]
@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "d5791b39732f2bd0",
@@ -187,9 +188,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "9abe4040a46c48a5",
+  "active": "9aa8486ecc6cd2c0",
   "lastOpenFiles": [
+    "Knowledge Base/2026-01-28/🧲 Claude Code 安装：IDE 插件大升级，命令行更新超便捷 🧮_AI.md",
+    "00-Inbox/01-B站/2026-01-28/🧲_Claude_Code_安装：IDE_插件大升级，命令行更新超便捷_🧮.md",
     "Knowledge Base/2026-01-28/AI时代下，如何放大自己的能力到10倍甚至百倍_AI.md",
+    "2026-01-28.md",
+    "00-Inbox/01-B站/2026-01-27/🚀神器来袭！Pencil让UI设计彻底变天：AI同时生成多个专业级UI，Claude_Code一键转代码，Pencil高级使用技巧保姆级教程！.md",
     "Knowledge Base/2026-01-28",
     "00-Inbox/01-B站/2026-01-28/AI时代下，如何放大自己的能力到10倍甚至百倍.md",
     "00-Inbox/01-B站/2026-01-28",
@@ -217,10 +222,6 @@
     "Knowledge Base/2026-01-27/AIGC产品经理训练营，从0构建AIGC产品经理的知识体系，开启职业新篇章课分享_AI.md",
     "00-Inbox/01-B站/2026-01-27/AIGC产品经理训练营，从0构建AIGC产品经理的知识体系，开启职业新篇章课分享.md",
     "Knowledge Base/2026-01-27/Claude Code 47个隐藏技巧！粘贴图片秒出代码，效率直接拉满_AI.md",
-    "00-Inbox/01-B站/2026-01-27/Claude_Code_47个隐藏技巧！粘贴图片秒出代码，效率直接拉满.md",
-    "Knowledge Base/2026-01-27/用Claude Code Skills帮我选书并写入Notion，2026年书单靠它啦_AI.md",
-    "00-Inbox/01-B站/2026-01-27/用Claude_Code_Skills帮我选书并写入Notion，2026年书单靠它啦.md",
-    "00-Inbox/01-B站/2026-01-27/claude本地部署无限Token.md",
     "Knowledge Base/2026-01-27",
     "00-Inbox/01-B站/2026-01-27",
     "账号/webFull",
