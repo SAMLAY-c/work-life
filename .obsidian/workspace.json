@@ -8,17 +8,15 @@
         "type": "tabs",
         "children": [
           {
-            "id": "0742181bc498d92c",
+            "id": "f895b4a2f550e357",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "README.md",
-                "mode": "source",
-                "source": false
+                "file": "20_Projects/PE/插件/企查查/Drawing 2026-02-01 22.33.46.excalidraw.md"
               },
-              "icon": "lucide-file",
-              "title": "README"
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2026-02-01 22.33.46.excalidraw"
             }
           }
         ]
@@ -187,8 +185,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "9abe4040a46c48a5",
+  "active": "f895b4a2f550e357",
   "lastOpenFiles": [
+    "20_Projects/PE/插件/飞书/推送飞书多维表格.md",
+    "20_Projects/PE/插件/企查查/Drawing 2026-02-01 22.33.46.excalidraw.md",
+    "20_Projects/PE/插件/企查查",
+    "20_Projects/PE/插件",
+    "README.md",
+    "20_Projects/PE/插件/飞书",
+    "20_Projects/PE",
     "使用指南.md",
     "06_DailyNotes/2026-01-26.md",
     "00_Media/Pasted image 20260127163219.png",
@@ -219,16 +224,9 @@
     "90_System/Resources/媒体资源/B站视频/2.md",
     "90_System/Resources/00-资源/账号/未命名.md",
     "90_System/Plugins_Data/插件/插件/插件1 Google Gemini CLI.md",
-    "90_System/Plugins_Data/插件/插件/未命名.base",
-    "90_System/Plugins_Data/WeWe_RSS/18-WeWe_RSS/2025",
     "90_System/Templates/模板/讲稿模板.md",
     "90_System/Resources/网站/北京颐堤港附近游玩攻略.md",
     "90_System/Resources/网站/Drawing 2025-12-27 10.52.24.excalidraw.md",
-    "90_System/Resources/媒体资源/B站视频",
-    "90_System/Resources/00-资源/账号.md",
-    "90_System/Resources/00-资源/账号",
-    "90_System/Resources/00-资源/Drawing 2025-12-05 19.07.07.excalidraw.md",
-    "90_System/Resources/00-资源/Drawing 2025-12-05 17.29.29.excalidraw.md",
     "90_System/Attachments/附件/Pasted image 20251230155354.png",
     "90_System/Attachments/附件/Pasted image 20251228111648.png",
     "90_System/Attachments/16-附件/Pasted image 20251209091646.png",
