@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "20_Projects/PE/插件/飞书/00-报错-1254041.md",
+                "file": "06_DailyNotes/2026-01-27.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "00-报错-1254041"
+              "title": "2026-01-27"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "正文",
+                "query": "摘要",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -74,11 +74,13 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 341.5
+    "width": 341.5,
+    "collapsed": true
   },
   "right": {
     "id": "d5791b39732f2bd0",
@@ -189,9 +191,9 @@
   },
   "active": "f895b4a2f550e357",
   "lastOpenFiles": [
+    "20_Projects/PE/插件/飞书/00-报错-1254041.md",
     "00_Media/Pasted image 20260201234853.png",
     "20_Projects/B端产品/AI-SDR.md",
-    "20_Projects/PE/插件/飞书/00-报错-1254041.md",
     "20_Projects/B端产品",
     "20_Projects/PE/插件/企查查/Drawing 2026-02-01 22.33.46.excalidraw.md",
     "20_Projects/PE/插件/飞书/推送飞书多维表格.md",
@@ -234,7 +236,6 @@
     "90_System/Attachments/16-附件/Pasted image 20251209091646.png",
     "90_System/Attachments/16-附件/Pasted image 20251209091652.png",
     "90_System/Attachments/附件/Pasted image 20251228111618.png",
-    "90_System/Attachments/附件/Pasted Image 20251228110756_569.png",
     "70_Work_Archive/锦书在线/未命名.canvas",
     "60_AI_Dev/02-Knowledge/Bilibili_Library/Bilibili_Knowledge_Map.canvas",
     "10_Inbox/00-临时/Untitled.canvas",
