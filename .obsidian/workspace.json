@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2026-02-02.md",
+                "file": "10_Inbox/01-B站/2026-01-28/用Skills_1h做播客可视化报告❗分享3个坑.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2026-02-02"
+              "title": "用Skills_1h做播客可视化报告❗分享3个坑"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "摘要",
+                "query": "播客",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -74,7 +74,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -189,8 +190,15 @@
   },
   "active": "f895b4a2f550e357",
   "lastOpenFiles": [
-    "40_Resources/未命名.md",
+    "80_Knowledge_Base/2026-01-28/用Skills 1h做播客可视化报告❗分享3个坑_AI.md",
+    "10_Inbox/01-B站/2026-01-26/我如何用AI做PPT，经验分享.md",
+    "10_Inbox/01-B站/2026-01-26/三句话，教你大厂产品经理都在用的快速学习法！.md",
+    "80_Knowledge_Base/2026-01-28/15分钟详解 Claude Skills：打造优质写作助手_AI.md",
+    "80_Knowledge_Base/2026-01-28/🚀实测Clawdbot彻底改变我的工作方式！一条命令部署，WhatsApp远程控制电脑，自动编程开发，2026年最强个人AI员工来了！自我进化+无限记忆_AI.md",
+    "91_account-front/1-.md",
+    "10_Inbox/01-B站/2026-01-27/🚀还在手动整理文档喂给Claude_Code？Skill_Seeker让AI变身全栈专家，支持任何技术文档自动转换为Claude_Skills！开发效率倍增！.md",
     "2026-02-02.md",
+    "40_Resources/未命名.md",
     "06_DailyNotes/2026-01-27.md",
     "20_Projects/PE/插件/飞书/00-报错-1254041.md",
     "00_Media/Pasted image 20260201234853.png",
@@ -220,16 +228,9 @@
     "92_asset/20260131-讲座-AIPM完整指南.html",
     "92_asset",
     "91_account-front/账号.md",
-    "91_account-front/1-.md",
     "91_account-front/未命名.md",
     "91_account-front",
     "90_System/Plugins_Data/WeWe_RSS/18-WeWe_RSS/2025/12/2025-12-07_Banana2联动可灵正确玩法！我现在做Ai视频只要一张图就够了.md",
-    "90_System/Plugins_Data/WeWe_RSS/18-WeWe_RSS/2025/12/2025-12-07_有了Banana2后，我想看看电商设计Agent还有没有机会能活下来.md",
-    "90_System/Plugins_Data/WeWe_RSS/18-WeWe_RSS/2025/12/2025-12-07_Vidu悄悄上线Q2生图模型，这就是Banana2的国产平替.md",
-    "90_System/Plugins_Data/WeWe_RSS/18-WeWe_RSS/2025/12/2025-12-07_Pixverse悄悄上线带音效的V5.5新模型，治好了我的Sora2焦虑症.md",
-    "90_System/Plugins_Data/WeWe_RSS/18-WeWe_RSS/2025/12/2025-12-07_AI视频的Banana时刻来了！我用可灵O1自由编辑任意画面.md",
-    "90_System/Resources/媒体资源/B站视频/1.md",
-    "90_System/Resources/媒体资源/B站视频/2.md",
     "90_System/Attachments/附件/Pasted image 20251230155354.png",
     "90_System/Attachments/附件/Pasted image 20251228111648.png",
     "90_System/Attachments/16-附件/Pasted image 20251209091646.png",
