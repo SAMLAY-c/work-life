@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "06_DailyNotes/2026-01-27.md",
+                "file": "2026-02-02.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2026-01-27"
+              "title": "2026-02-02"
             }
           }
         ]
@@ -74,13 +74,11 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 341.5,
-    "collapsed": true
+    "width": 341.5
   },
   "right": {
     "id": "d5791b39732f2bd0",
@@ -191,6 +189,9 @@
   },
   "active": "f895b4a2f550e357",
   "lastOpenFiles": [
+    "40_Resources/未命名.md",
+    "2026-02-02.md",
+    "06_DailyNotes/2026-01-27.md",
     "20_Projects/PE/插件/飞书/00-报错-1254041.md",
     "00_Media/Pasted image 20260201234853.png",
     "20_Projects/B端产品/AI-SDR.md",
@@ -229,8 +230,6 @@
     "90_System/Plugins_Data/WeWe_RSS/18-WeWe_RSS/2025/12/2025-12-07_AI视频的Banana时刻来了！我用可灵O1自由编辑任意画面.md",
     "90_System/Resources/媒体资源/B站视频/1.md",
     "90_System/Resources/媒体资源/B站视频/2.md",
-    "90_System/Resources/00-资源/账号/未命名.md",
-    "90_System/Plugins_Data/插件/插件/插件1 Google Gemini CLI.md",
     "90_System/Attachments/附件/Pasted image 20251230155354.png",
     "90_System/Attachments/附件/Pasted image 20251228111648.png",
     "90_System/Attachments/16-附件/Pasted image 20251209091646.png",
