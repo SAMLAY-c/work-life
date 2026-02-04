@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "10_Inbox/ppt/1.md",
+                "file": "60_AI_Dev/11-小智/5、小智AI客户资料/4、源代码/3、基于1.6版本修改的代码/源码/xiaozhi-esp32/managed_components/lvgl__lvgl/docs/overview/style-props.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1"
+              "title": "style-props"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "todo",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -74,7 +74,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -189,8 +190,8 @@
   },
   "active": "f895b4a2f550e357",
   "lastOpenFiles": [
-    "10_Inbox/01-B站/2026-01-28/用Skills_1h做播客可视化报告❗分享3个坑.md",
     "10_Inbox/ppt/1.md",
+    "10_Inbox/01-B站/2026-01-28/用Skills_1h做播客可视化报告❗分享3个坑.md",
     "10_Inbox/ppt",
     "80_Knowledge_Base/2026-01-28/用Skills 1h做播客可视化报告❗分享3个坑_AI.md",
     "10_Inbox/01-B站/2026-01-26/我如何用AI做PPT，经验分享.md",
