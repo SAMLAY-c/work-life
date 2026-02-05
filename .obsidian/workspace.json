@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "60_AI_Dev/11-小智/5、小智AI客户资料/4、源代码/3、基于1.6版本修改的代码/源码/xiaozhi-esp32/managed_components/lvgl__lvgl/docs/overview/style-props.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
@@ -74,8 +74,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
