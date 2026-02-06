@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "8cb59fb02e0bc316",
+        "id": "7fa8619c77e8cfeb",
         "type": "tabs",
         "children": [
           {
-            "id": "f895b4a2f550e357",
+            "id": "8f4dc58ffe8fb41c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "60_AI_Dev/11-小智/5、小智AI客户资料/4、源代码/3、基于1.6版本修改的代码/源码/xiaozhi-esp32/managed_components/lvgl__lvgl/docs/overview/style-props.md",
-                "mode": "preview",
+                "file": "未命名.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "style-props"
+              "title": "未命名"
             }
           }
         ]
@@ -187,8 +187,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f895b4a2f550e357",
+  "active": "8f4dc58ffe8fb41c",
   "lastOpenFiles": [
+    "60_AI_Dev/11-小智/5、小智AI客户资料/4、源代码/3、基于1.6版本修改的代码/源码/xiaozhi-esp32/managed_components/lvgl__lvgl/docs/overview/style-props.md",
+    "未命名.md",
+    "60_AI_Dev/11-小智/5、小智AI客户资料/4、源代码/3、基于1.6版本修改的代码/源码/xiaozhi-esp32/managed_components/lvgl__lvgl/docs/overview/未命名.md",
     "10_Inbox/ppt/1.md",
     "10_Inbox/01-B站/2026-01-28/用Skills_1h做播客可视化报告❗分享3个坑.md",
     "10_Inbox/ppt",
@@ -223,13 +226,10 @@
     "92_asset/20260131-讲座.md",
     "92_asset/AI PM 讲座.md",
     "92_asset/面试经验.md",
-    "92_asset/账号.md",
-    "92_asset/职场经验.md",
     "92_asset/未命名",
     "92_asset/coding",
     "92_asset/20260131-讲座-AIPM完整指南.html",
     "92_asset",
-    "91_account-front/账号.md",
     "90_System/Attachments/附件/Pasted image 20251230155354.png",
     "90_System/Attachments/附件/Pasted image 20251228111648.png",
     "90_System/Attachments/16-附件/Pasted image 20251209091646.png",
