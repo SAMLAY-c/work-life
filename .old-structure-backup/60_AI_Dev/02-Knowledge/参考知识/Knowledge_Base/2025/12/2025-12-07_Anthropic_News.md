@@ -1,0 +1,1 @@
+{"content":"---\ncreated: 2025-12-07 12:00:00\nsource_url: https://www.anthropic.com/news\nsource: www.anthropic.com\ndomain: www.anthropic.com\ncategory: 网页收藏\ntags:\n  - 网页收藏\n  - www-anthropic-com\n---\n\n# Anthropic News\n\nTest content\n"}
