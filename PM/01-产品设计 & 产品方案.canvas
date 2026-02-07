@@ -1,0 +1,172 @@
+{
+  "nodes": [
+    {
+      "id": "central-topic-0001",
+      "type": "text",
+      "x": 400,
+      "y": 300,
+      "width": 350,
+      "height": 120,
+      "text": "# 📌 核心产品设计 & 方案输出\n\n## 方法论体系",
+      "color": "6"
+    },
+    {
+      "id": "user-demand-0002",
+      "type": "text",
+      "x": -200,
+      "y": 100,
+      "width": 320,
+      "height": 280,
+      "text": "## 1) 用户需求 → 产品需求\n\n**核心思想**：将用户"说出来"的需求转化为可执行、可衡量的产品需求。\n\n- 用户需求：用户表达的想法或痛点（可能是伪需求）\n- 产品需求：经分析后具备开发指导意义的设计方案\n\n**方法技巧**：\n- 深度访谈 + 定量数据分析\n- 用户旅程图/使用场景拆解\n- 5个为什么 / 逆向设计",
+      "color": "2"
+    },
+    {
+      "id": "interview-1-0003",
+      "type": "text",
+      "x": -600,
+      "y": 100,
+      "width": 280,
+      "height": 180,
+      "text": "### 面试思考结构\n\n1. 描述用户调研方法（访谈/数据/竞品）\n\n2. 如何判断需求是否真实值得做？\n\n3. 如何结合业务目标定义产品需求？"
+    },
+    {
+      "id": "priority-0004",
+      "type": "text",
+      "x": -200,
+      "y": 500,
+      "width": 320,
+      "height": 320,
+      "text": "## 2) 优先级决策\n\n**目的**：资源有限情况下，决策哪些功能最值得优先开发\n\n**关键原则**：\n✔ 价值最大化 — 为用户和业务带来核心价值\n✔ 技术可行性 — 考虑实现成本与约束\n✔ 风险/资源可控性 — 避免盲目扩张\n\n**主流方法**：\n| 方法 | 核心依据 |\n|------|---------|\n| RICE | Reach × Impact × Confidence / Effort |\n| MoSCoW | Must/Should/Could/Won't |\n| Kano | 基础/表现性/惊喜需求 |\n| Impact-Effort | 高价值低成本优先 |",
+      "color": "2"
+    },
+    {
+      "id": "interview-2-0005",
+      "type": "text",
+      "x": -600,
+      "y": 500,
+      "width": 280,
+      "height": 140,
+      "text": "### 面试实践问题\n\n- 10个需求如何排序？\n- MVP应该包含哪些功能？\n- 为什么先做A而不是B？"
+    },
+    {
+      "id": "solution-0006",
+      "type": "text",
+      "x": -200,
+      "y": 920,
+      "width": 320,
+      "height": 280,
+      "text": "## 3) 设计解决方案 → 方案输出\n\n**目标**：生成可执行的产品设计方案（流程图、原型、交互逻辑）\n\n**输出步骤**：\n\n1. **定义需求目标 & KPI**\n   什么问题要解决？如何判断成功？\n\n2. **设计功能流程与用户路径**\n   流程图/用户故事\n\n3. **绘制逻辑原型/界面**\n   线框图、低/高保真\n\n4. **评审与权衡**\n   与研发/设计/PM沟通\n\n5. **产出最终方案文档**\n   PRD / 交互说明 / 业务规则",
+      "color": "2"
+    },
+    {
+      "id": "circles-0007",
+      "type": "text",
+      "x": 900,
+      "y": 100,
+      "width": 400,
+      "height": 400,
+      "text": "## ⭐ CIRCLES 方法\n\nPM 面试中广泛推荐的框架，用于结构化回答 "设计一个产品/功能" 的问题\n\n| 步骤 | 含义 |\n|------|------|\n| **C** – Comprehend | 理解问题背景 |\n| **I** – Identify | 确定目标用户 |\n| **R** – Report | 报告用户需求与痛点 |\n| **C** – Cut through | 做需求/功能优先级排序 |\n| **L** – List | 列出可选解决方案 |\n| **E** – Evaluate | 权衡各方案优劣 |\n| **S** – Summarise | 总结并推荐最终方案 |\n\n> 💡 帮助你在面试中逻辑清晰、层层推进地输出设计方案",
+      "color": "6"
+    },
+    {
+      "id": "practice-0008",
+      "type": "text",
+      "x": 900,
+      "y": 600,
+      "width": 400,
+      "height": 280,
+      "text": "## 🧠 推荐练习问题类别\n\n### 产品设计类\n设计一个 AI 学习辅导产品\n\n### 优先级类\n给出 N 个 AI 特性，如何设计 MVP？\n\n### 需求分析类\n某用户反馈 A 功能不好用，如何验证是否改进？\n\n### 方案权衡类\n两个方案都能满足需求但成本不同，如何选择？",
+      "color": "4"
+    },
+    {
+      "id": "group-methodology-0009",
+      "type": "group",
+      "x": -250,
+      "y": 50,
+      "width": 900,
+      "height": 1200,
+      "label": "三大方法论",
+      "color": "5"
+    },
+    {
+      "id": "group-interview-0010",
+      "type": "group",
+      "x": -650,
+      "y": 50,
+      "width": 380,
+      "height": 650,
+      "label": "面试要点",
+      "color": "3"
+    }
+  ],
+  "edges": [
+    {
+      "id": "edge-0001",
+      "fromNode": "central-topic-0001",
+      "fromSide": "left",
+      "toNode": "user-demand-0002",
+      "toSide": "right",
+      "toEnd": "arrow"
+    },
+    {
+      "id": "edge-0002",
+      "fromNode": "user-demand-0002",
+      "fromSide": "bottom",
+      "toNode": "priority-0004",
+      "toSide": "top",
+      "toEnd": "arrow"
+    },
+    {
+      "id": "edge-0003",
+      "fromNode": "priority-0004",
+      "fromSide": "bottom",
+      "toNode": "solution-0006",
+      "toSide": "top",
+      "toEnd": "arrow"
+    },
+    {
+      "id": "edge-0004",
+      "fromNode": "central-topic-0001",
+      "fromSide": "right",
+      "toNode": "circles-0007",
+      "toSide": "left",
+      "toEnd": "arrow"
+    },
+    {
+      "id": "edge-0005",
+      "fromNode": "circles-0007",
+      "fromSide": "bottom",
+      "toNode": "practice-0008",
+      "toSide": "top",
+      "toEnd": "arrow",
+      "label": "应用于"
+    },
+    {
+      "id": "edge-0006",
+      "fromNode": "user-demand-0002",
+      "fromSide": "left",
+      "toNode": "interview-1-0003",
+      "toSide": "right",
+      "toEnd": "arrow",
+      "label": "面试"
+    },
+    {
+      "id": "edge-0007",
+      "fromNode": "priority-0004",
+      "fromSide": "left",
+      "toNode": "interview-2-0005",
+      "toSide": "right",
+      "toEnd": "arrow",
+      "label": "面试"
+    },
+    {
+      "id": "edge-0008",
+      "fromNode": "central-topic-0001",
+      "fromSide": "bottom",
+      "toNode": "solution-0006",
+      "toSide": "top",
+      "toEnd": "arrow",
+      "color": "2"
+    }
+  ]
+}
