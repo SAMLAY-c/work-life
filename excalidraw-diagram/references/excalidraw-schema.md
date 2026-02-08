@@ -13,13 +13,13 @@
 | Warning | Red | `#ef4444` |
 
 ### Background Colors
-| Purpose | Color | Hex |
-|---------|-------|-----|
-| Light Blue | Background | `#dbeafe` |
-| Light Gray | Neutral | `#f3f4f6` |
-| Light Orange | Highlight | `#fef3c7` |
-| Light Green | Success | `#d1fae5` |
-| Light Purple | Accent | `#ede9fe` |
+| Purpose      | Color      | Hex       |
+| ------------ | ---------- | --------- |
+| Light Blue   | Background | `#dbeafe` |
+| Light Gray   | Neutral    | `#f3f4f6` |
+| Light Orange | Highlight  | `#fef3c7` |
+| Light Green  | Success    | `#d1fae5` |
+| Light Purple | Accent     | `#ede9fe` |
 
 ## Element Types
 

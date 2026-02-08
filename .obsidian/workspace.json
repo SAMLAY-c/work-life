@@ -11,14 +11,12 @@
             "id": "0dbe2b37615d3251",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "excalidraw-diagram/references/excalidraw-schema.md",
-                "mode": "source",
-                "source": false
+                "file": "00-Inbox/01-AI/test-01-Claude-Code-完整工作流详解.flowchart.md"
               },
-              "icon": "lucide-file",
-              "title": "excalidraw-schema"
+              "icon": "excalidraw-icon",
+              "title": "test-01-Claude-Code-完整工作流详解.flowchart"
             }
           }
         ]
@@ -189,11 +187,12 @@
   },
   "active": "0dbe2b37615d3251",
   "lastOpenFiles": [
-    "excalidraw-diagram/SKILL.md",
     "excalidraw-diagram/references/excalidraw-schema.md",
-    "00-Inbox/01-AI/test-02-TMUX核心功能详解.mindmap.md",
     "00-Inbox/01-AI/test-01-Claude-Code-完整工作流详解.flowchart.md",
+    "excalidraw-diagram/Claude-Code-工作流-修复版.flowchart.md",
     "00-Inbox/01-AI/02-TMUX.md",
+    "excalidraw-diagram/SKILL.md",
+    "00-Inbox/01-AI/test-02-TMUX核心功能详解.mindmap.md",
     "excalidraw-diagram/Claude-Code-工作流.flowchart.md",
     "excalidraw-diagram/Claude Code最强工作流.hierarchy.md",
     "00-Inbox/01-AI/01-Claude code.md",
@@ -235,7 +234,6 @@
     "30-Resources/AI-项目/11-小智/5、小智AI客户资料/4、源代码/3、基于1.6版本修改的代码/源码/xiaozhi-esp32/managed_components/lvgl__lvgl/demos/stress/README.md",
     "30-Resources/AI-项目/11-小智/5、小智AI客户资料/4、源代码/3、基于1.6版本修改的代码/源码/xiaozhi-esp32/managed_components/lvgl__lvgl/demos/music/README.md",
     "30-Resources/AI-项目/11-小智/5、小智AI客户资料/4、源代码/3、基于1.6版本修改的代码/源码/xiaozhi-esp32/managed_components/lvgl__lvgl/demos/keypad_encoder/README.md",
-    "30-Resources/AI-项目/11-小智/5、小智AI客户资料/4、源代码/3、基于1.6版本修改的代码/源码/xiaozhi-esp32/managed_components/lvgl__lvgl/tests/README.md",
     "00-Inbox/00-临时/Untitled.canvas",
     "80-Inbox-分类/临时/Untitled.canvas",
     "40-Archive/历史工作/锦书在线/未命名.canvas",
