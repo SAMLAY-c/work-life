@@ -11,12 +11,14 @@
             "id": "0dbe2b37615d3251",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "00-Inbox/01-AI/01-Claude-Code-完整工作流详解.flowchart.md"
+                "file": "excalidraw-diagram/references/excalidraw-schema.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "excalidraw-icon",
-              "title": "01-Claude-Code-完整工作流详解.flowchart"
+              "icon": "lucide-file",
+              "title": "excalidraw-schema"
             }
           }
         ]
@@ -185,15 +187,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "9abe4040a46c48a5",
+  "active": "0dbe2b37615d3251",
   "lastOpenFiles": [
-    "00-Inbox/01-AI/TMUX核心功能详解.mindmap.md",
-    "00-Inbox/01-AI/01-Claude-Code-完整工作流详解.flowchart.md",
+    "excalidraw-diagram/SKILL.md",
+    "excalidraw-diagram/references/excalidraw-schema.md",
+    "00-Inbox/01-AI/test-02-TMUX核心功能详解.mindmap.md",
+    "00-Inbox/01-AI/test-01-Claude-Code-完整工作流详解.flowchart.md",
     "00-Inbox/01-AI/02-TMUX.md",
     "excalidraw-diagram/Claude-Code-工作流.flowchart.md",
-    "excalidraw-diagram/SKILL.md",
     "excalidraw-diagram/Claude Code最强工作流.hierarchy.md",
-    "excalidraw-diagram/references/excalidraw-schema.md",
     "00-Inbox/01-AI/01-Claude code.md",
     "excalidraw-diagram/references",
     "excalidraw-diagram",

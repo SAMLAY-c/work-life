@@ -1,8 +1,8 @@
 ---
 name: excalidraw-diagram
-description: Generate Excalidraw diagrams from text content for Obsidian. Use when user asks to create diagrams, flowcharts, mind maps, or visual representations in Excalidraw format. Triggers on "Excalidraw", "画图", "流程图", "思维导图", "可视化", "diagram".
+description: Generate Excalidraw diagrams from text content or a document path for Obsidian. Use when user asks to create diagrams, flowcharts, mind maps, or visual representations in Excalidraw format. Triggers on "Excalidraw", "画图", "流程图", "思维导图", "可视化", "diagram".
 metadata:
-  version: 1.1.0
+  version: 1.2.0
 ---
 
 # Excalidraw Diagram Generator
@@ -11,12 +11,12 @@ Create Excalidraw diagrams from text content, outputting Obsidian-ready `.md` fi
 
 ## Workflow
 
-1. Analyze content - identify concepts, relationships, hierarchy
-2. Choose diagram type (see below)
-3. Generate Excalidraw JSON
-4. Generate Obsidian-ready `.md` file with Excalidraw frontmatter
-5. **Automatically save to current working directory**
-6. Notify user with file path and confirm save successful
+1.  **Analyze content** - Receives raw text or a document path as input, then identifies concepts, relationships, and hierarchy.
+2.  **Choose diagram type** (see below)
+3.  **Generate Excalidraw JSON**
+4.  **Generate Obsidian-ready `.md` file** with Excalidraw frontmatter and a filename based on the input type.
+5.  **Automatically save to current working directory**
+6.  **Notify user** with file path and confirm save successful
 
 ## Output Format
 
@@ -241,9 +241,24 @@ See [references/excalidraw-schema.md](excalidraw-schema.md) for all element type
 - 分析内容的核心诉求，选择最合适的可视化形式
 
 #### 2. 生成有意义的文件名
-- 格式：`[主题].[类型].md`
-- 例如：`内容创作流程.flowchart.md`、`Axton商业模式.relationship.md`
-- 优先使用中文以提高清晰度
+文件名将根据输入类型（纯文本或文档路径）采用不同的生成规则。
+
+##### a) 基于文本内容的标准命名
+- **格式**：`[主题].[类型].md`
+- **例如**：`内容创作流程.flowchart.md`、`Axton商业模式.relationship.md`
+- 优先使用中文以提高清晰度。
+
+##### b) 基于文档路径的命名规则（如图所示）
+当输入为文档路径时，为了将生成的图表与源文件关联，采用以下命名规则：
+- **格式**：`test-[编号]-[主题名称].[类型].md`
+- **逻辑**:
+    - `test-`: 固定前缀。
+    - `[编号]`: 从源文件所在的直接父文件夹名称中提取的两位数字（例如，从 `01-Claude code` 文件夹提取 `01`）。
+    - `[主题名称]`: 结合父文件夹名和原始文件名，用 `-` 连接（例如 `Claude-Code-完整工作流详解`）。
+    - `.[类型]`: 图表类型后缀（例如 `.flowchart` 或 `.mindmap`）。
+- **示例 (根据图片)**:
+    - 若输入文档位于 `01-Claude code` 文件夹，将生成名为 `test-01-Claude-Code-完整工作流详解.flowchart.md` 的文件。
+    - 若输入文档位于 `02-TMUX` 文件夹，将生成名为 `test-02-TMUX核心功能详解.mindmap` 的文件。
 
 #### 3. 使用 Write 工具自动保存文件
 - **保存位置**：当前工作目录（自动检测环境变量）
