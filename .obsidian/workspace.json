@@ -4,24 +4,37 @@
     "type": "split",
     "children": [
       {
-        "id": "0c1ca68d08fc67c1",
+        "id": "a6e3242defab87d4",
         "type": "tabs",
         "children": [
           {
-            "id": "0dbe2b37615d3251",
+            "id": "33c0ceebaeaf2d41",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "excalidraw-diagram/SKILL.md",
+                "file": "未命名.md",
                 "mode": "source",
-                "source": true
+                "source": false
               },
               "icon": "lucide-file",
-              "title": "SKILL"
+              "title": "未命名"
+            }
+          },
+          {
+            "id": "fd01bb996cf5026a",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "故事生成系统 - 完整工作流程.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "故事生成系统 - 完整工作流程"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -53,7 +66,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "todo",
+                "query": "第一性",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -78,7 +91,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 341.5
+    "width": 237.5
   },
   "right": {
     "id": "d5791b39732f2bd0",
@@ -187,63 +200,63 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "0dbe2b37615d3251",
+  "active": "9abe4040a46c48a5",
   "lastOpenFiles": [
-    "excalidraw-diagram/references/excalidraw-schema.md",
-    "00-Inbox/01-AI/test-02-TMUX核心功能详解.mindmap.md",
-    "00-Inbox/01-AI/test-01-Claude-Code-完整工作流详解.flowchart.md",
-    "excalidraw-diagram/Claude-Code-工作流-修复版.flowchart.md",
-    "00-Inbox/01-AI/02-TMUX.md",
-    "excalidraw-diagram/SKILL.md",
-    "excalidraw-diagram/Claude-Code-工作流.flowchart.md",
-    "excalidraw-diagram/Claude Code最强工作流.hierarchy.md",
-    "00-Inbox/01-AI/01-Claude code.md",
-    "excalidraw-diagram/references",
-    "excalidraw-diagram",
-    "00-Inbox/01-AI",
-    "00-Inbox/README.md",
-    "未命名",
-    "使用指南.md",
-    "README.md",
-    "PM/01-产品设计 & 产品方案.canvas",
-    "PM/原稿/01-产品设计 & 产品方案.md",
+    "excalidraw-diagram/故事生成系统-完整工作流程.md",
+    "skills/obsidian-markdown/SKILL.md",
     "skills/obsidian-bases/SKILL.md",
     "skills/json-canvas/SKILL.md",
-    "PM/原稿",
-    "PM",
-    "skills/json-canvas",
-    "skills/obsidian-bases",
-    "skills/obsidian-markdown/SKILL.md",
     "skills/obsidian-markdown",
+    "skills/obsidian-bases",
+    "skills/json-canvas",
     "skills",
-    "30-Resources/AI-项目/11-小智/5、小智AI客户资料/4、源代码/3、基于1.6版本修改的代码/源码/xiaozhi-esp32/managed_components/lvgl__lvgl/tests/test_images/pngs/test.png",
-    "30-Resources/AI-项目/11-小智/5、小智AI客户资料/4、源代码/3、基于1.6版本修改的代码/源码/xiaozhi-esp32/managed_components/lvgl__lvgl/tests/src/test_assets/test_img_lvgl_logo_with_exif_orientation_90.jpg",
-    "30-Resources/AI-项目/11-小智/5、小智AI客户资料/4、源代码/3、基于1.6版本修改的代码/源码/xiaozhi-esp32/managed_components/lvgl__lvgl/tests/src/test_assets/test_img_lvgl_logo_with_exif_orientation_270.jpg",
-    "30-Resources/AI-项目/11-小智/5、小智AI客户资料/4、源代码/3、基于1.6版本修改的代码/源码/xiaozhi-esp32/managed_components/lvgl__lvgl/tests/src/test_assets/test_img_lvgl_logo_with_exif_orientation_180.jpg",
-    "30-Resources/AI-项目/11-小智/5、小智AI客户资料/4、源代码/3、基于1.6版本修改的代码/源码/xiaozhi-esp32/managed_components/lvgl__lvgl/tests/src/test_assets/test_img_lvgl_logo_with_exif_orientation_0.jpg",
-    "30-Resources/AI-项目/11-小智/5、小智AI客户资料/4、源代码/3、基于1.6版本修改的代码/源码/xiaozhi-esp32/managed_components/lvgl__lvgl/tests/src/test_assets/test_img_lvgl_logo_8bit_palette.png",
-    "30-Resources/AI-项目/11-小智/5、小智AI客户资料/4、源代码/3、基于1.6版本修改的代码/源码/xiaozhi-esp32/managed_components/lvgl__lvgl/tests/src/test_assets/test_img_lvgl_logo.png",
-    "30-Resources/AI-项目/11-小智/5、小智AI客户资料/4、源代码/3、基于1.6版本修改的代码/源码/xiaozhi-esp32/managed_components/lvgl__lvgl/tests/src/test_assets/test_img_lvgl_logo.jpg",
-    "30-Resources/AI-项目/11-小智/5、小智AI客户资料/4、源代码/3、基于1.6版本修改的代码/源码/xiaozhi-esp32/managed_components/lvgl__lvgl/tests/src/test_assets/test_img_lvgl_logo.bmp",
-    "30-Resources/AI-项目/11-小智/5、小智AI客户资料/4、源代码/3、基于1.6版本修改的代码/源码/xiaozhi-esp32/managed_components/lvgl__lvgl/tests/src/test_assets/test_img_emoji_F600.png",
-    "30-Resources/AI-项目/11-小智/5、小智AI客户资料/4、源代码/3、基于1.6版本修改的代码/源码/xiaozhi-esp32/managed_components/lvgl__lvgl/src/others/fragment/README.md",
-    "30-Resources/AI-项目/11-小智/5、小智AI客户资料/4、源代码/3、基于1.6版本修改的代码/源码/xiaozhi-esp32/managed_components/lvgl__lvgl/env_support/rt-thread/squareline/README.md",
-    "30-Resources/AI-项目/11-小智/5、小智AI客户资料/4、源代码/3、基于1.6版本修改的代码/源码/xiaozhi-esp32/managed_components/lvgl__lvgl/src/drivers/README.md",
-    "30-Resources/AI-项目/11-小智/5、小智AI客户资料/4、源代码/3、基于1.6版本修改的代码/源码/xiaozhi-esp32/managed_components/lvgl__lvgl/docs/overview/未命名.md",
-    "30-Resources/AI-项目/11-小智/5、小智AI客户资料/4、源代码/3、基于1.6版本修改的代码/源码/xiaozhi-esp32/managed_components/lvgl__lvgl/docs/overview/style-props.md",
-    "30-Resources/AI-项目/11-小智/5、小智AI客户资料/4、源代码/3、基于1.6版本修改的代码/源码/xiaozhi-esp32/managed_components/lvgl__lvgl/env_support/pikascript/README.md",
-    "30-Resources/AI-项目/11-小智/5、小智AI客户资料/4、源代码/3、基于1.6版本修改的代码/源码/xiaozhi-esp32/managed_components/lvgl__lvgl/env_support/cmsis-pack/README.md",
-    "30-Resources/AI-项目/11-小智/5、小智AI客户资料/4、源代码/3、基于1.6版本修改的代码/源码/xiaozhi-esp32/managed_components/lvgl__lvgl/demos/stress/README.md",
-    "30-Resources/AI-项目/11-小智/5、小智AI客户资料/4、源代码/3、基于1.6版本修改的代码/源码/xiaozhi-esp32/managed_components/lvgl__lvgl/demos/music/README.md",
-    "30-Resources/AI-项目/11-小智/5、小智AI客户资料/4、源代码/3、基于1.6版本修改的代码/源码/xiaozhi-esp32/managed_components/lvgl__lvgl/demos/keypad_encoder/README.md",
-    "00-Inbox/00-临时/Untitled.canvas",
+    "excalidraw-diagram/references/excalidraw-schema.md",
+    "excalidraw-diagram/references",
+    "excalidraw-diagram/SKILL.md",
+    "excalidraw-diagram/Claude-Code-工作流-修复版.flowchart.md",
+    "excalidraw-diagram",
+    "PM/原稿/01-产品设计 & 产品方案.md",
+    "PM/原稿",
+    "PM/01-产品设计 & 产品方案.canvas",
+    "PM",
+    "80-Inbox-分类/讲稿/python/1.md",
+    "80-Inbox-分类/B站/2026-01-27/🚀还在手动整理文档喂给Claude_Code？Skill_Seeker让AI变身全栈专家，支持任何技术文档自动转换为Claude_Skills！开发效率倍增！.md",
+    "80-Inbox-分类/B站/2026-01-27/🚀神器来袭！Pencil让UI设计彻底变天：AI同时生成多个专业级UI，Claude_Code一键转代码，Pencil高级使用技巧保姆级教程！.md",
+    "80-Inbox-分类/B站/2026-01-27/🔥Claude_Code_神级插件_🩺_code-simplifier_安装配置使用.md",
+    "80-Inbox-分类/B站/2026-01-27/阿里杀疯了！新平台发布：0成本无限生成视频！.md",
+    "80-Inbox-分类/B站/2026-01-27/这期视频是_AI_自动剪的，你能看出来吗？.md",
+    "80-Inbox-分类/B站/2026-01-27/用Claude_Code_Skills帮我选书并写入Notion，2026年书单靠它啦.md",
+    "80-Inbox-分类/B站/2026-01-27/跳过的视频(超过30分钟).md",
+    "80-Inbox-分类/B站/2026-01-27/用AI做了3个2D动画生成工具｜vibe_coding实践【效果展示+教程分享+个人实践感受】.md",
+    "80-Inbox-分类/B站/2026-01-27/整条都是_Claude_Remotion_Skills_自动生成的.md",
+    "80-Inbox-分类/B站/2026-01-27/手搓「香蕉Pro神级应用」的VibeAgent保姆级教程，影视分镜工作台一句话随手搓出来.md",
+    "80-Inbox-分类/B站/2026-01-27/手把手带教6周成为AI产品经理.md",
+    "80-Inbox-分类/B站/2026-01-27/川普不可以.md",
+    "80-Inbox-分类/B站/2026-01-27/对于非科班学生，编程能力具体是什么，如何锻炼编程能力.md",
+    "80-Inbox-分类/B站/2026-01-27/名人小酒馆多Agent协作OpenAgent黑客松作品1-Nature.md",
+    "80-Inbox-分类/B站/2026-01-27/原来_GitHub_还能这么玩？一行代码拉取公钥，实现最优雅的_SSH_免密登录。.md",
+    "80-Inbox-分类/B站/2026-01-27/前端面试必问async_await要不要加try_catch90%人踩坑.md",
+    "80-Inbox-分类/B站/2026-01-27/全网首发！Claude_Code_本地版教程：搭配_Ollama_+_Qwen_3，永久免费不限次！.md",
+    "80-Inbox-分类/讲稿/python",
+    "80-Inbox-分类/B站/2026-01-27",
     "80-Inbox-分类/临时/Untitled.canvas",
+    "70-Assets/System/Attachments/16-附件/Pasted image 20251209092151.png",
+    "70-Assets/System/Attachments/16-附件/Pasted image 20251209092135.png",
+    "70-Assets/System/Attachments/16-附件/Pasted image 20251209092126.png",
+    "70-Assets/System/Attachments/16-附件/Pasted image 20251209092119.png",
+    "70-Assets/System/Attachments/16-附件/Pasted image 20251209092006.png",
+    "70-Assets/System/Attachments/16-附件/Pasted image 20251209091908.png",
+    "70-Assets/System/Attachments/16-附件/Pasted image 20251209091847.png",
+    "70-Assets/System/Attachments/16-附件/Pasted image 20251209091841.png",
+    "70-Assets/System/Attachments/16-附件/Pasted image 20251209091756.png",
+    "70-Assets/System/Attachments/16-附件/Pasted image 20251209091652.png",
     "40-Archive/历史工作/锦书在线/未命名.canvas",
     "30-Resources/AI-知识/Bilibili_Library/Bilibili_Knowledge_Map.canvas",
     "70_Work_Archive/锦书在线/未命名.canvas",
     "60_AI_Dev/02-Knowledge/Bilibili_Library/Bilibili_Knowledge_Map.canvas",
     "10_Inbox/00-临时/Untitled.canvas",
     "0-Inbox/00-临时/Untitled.canvas",
-    "10-AI_Dev/02-Knowledge/Bilibili_Library/Bilibili_Knowledge_Map.canvas"
+    "10-AI_Dev/02-Knowledge/Bilibili_Library/Bilibili_Knowledge_Map.canvas",
+    "未命名.canvas"
   ]
 }
