@@ -3,14 +3,14 @@
 ## Color Palette
 
 ### Primary Colors
-| Purpose | Color | Hex |
-|---------|-------|-----|
-| Main Title | Deep Blue | `#1e40af` |
-| Subtitle | Medium Blue | `#3b82f6` |
-| Body Text | Dark Gray | `#374151` |
-| Emphasis | Orange | `#f59e0b` |
-| Success | Green | `#10b981` |
-| Warning | Red | `#ef4444` |
+| Purpose    | Color       | Hex       |
+| ---------- | ----------- | --------- |
+| Main Title | Deep Blue   | `#1e40af` |
+| Subtitle   | Medium Blue | `#3b82f6` |
+| Body Text  | Dark Gray   | `#374151` |
+| Emphasis   | Orange      | `#f59e0b` |
+| Success    | Green       | `#10b981` |
+| Warning    | Red         | `#ef4444` |
 
 ### Background Colors
 | Purpose      | Color      | Hex       |

@@ -11,12 +11,14 @@
             "id": "0dbe2b37615d3251",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "00-Inbox/01-AI/test-02-TMUX核心功能详解.mindmap.md"
+                "file": "excalidraw-diagram/SKILL.md",
+                "mode": "source",
+                "source": true
               },
-              "icon": "excalidraw-icon",
-              "title": "test-02-TMUX核心功能详解.mindmap"
+              "icon": "lucide-file",
+              "title": "SKILL"
             }
           }
         ]
@@ -187,10 +189,10 @@
   },
   "active": "0dbe2b37615d3251",
   "lastOpenFiles": [
-    "00-Inbox/01-AI/test-01-Claude-Code-完整工作流详解.flowchart.md",
-    "00-Inbox/01-AI/test-02-TMUX核心功能详解.mindmap.md",
-    "excalidraw-diagram/Claude-Code-工作流-修复版.flowchart.md",
     "excalidraw-diagram/references/excalidraw-schema.md",
+    "00-Inbox/01-AI/test-02-TMUX核心功能详解.mindmap.md",
+    "00-Inbox/01-AI/test-01-Claude-Code-完整工作流详解.flowchart.md",
+    "excalidraw-diagram/Claude-Code-工作流-修复版.flowchart.md",
     "00-Inbox/01-AI/02-TMUX.md",
     "excalidraw-diagram/SKILL.md",
     "excalidraw-diagram/Claude-Code-工作流.flowchart.md",
