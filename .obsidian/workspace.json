@@ -25,12 +25,14 @@
             "id": "fd01bb996cf5026a",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "故事生成系统 - 完整工作流程.pdf"
+                "file": "excalidraw-diagram/故事生成系统-完整工作流程.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "故事生成系统 - 完整工作流程"
+              "icon": "lucide-file",
+              "title": "故事生成系统-完整工作流程"
             }
           }
         ],
@@ -91,7 +93,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 237.5
+    "width": 237.5,
+    "collapsed": true
   },
   "right": {
     "id": "d5791b39732f2bd0",
@@ -200,9 +203,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "9abe4040a46c48a5",
+  "active": "fd01bb996cf5026a",
   "lastOpenFiles": [
+    "excalidraw-diagram/故事生成系统-详细流程操作指南.md",
+    "excalidraw-diagram/故事生成系统-详细流程操作指南.md.tmp.21112.1770616906962",
+    "excalidraw-diagram/references/excalidraw-schema.md",
     "excalidraw-diagram/故事生成系统-完整工作流程.md",
+    "excalidraw-diagram/SKILL.md",
+    "excalidraw-diagram/Claude-Code-工作流-修复版.flowchart.md",
+    "故事生成系统 - 完整工作流程.pdf",
     "skills/obsidian-markdown/SKILL.md",
     "skills/obsidian-bases/SKILL.md",
     "skills/json-canvas/SKILL.md",
@@ -210,10 +219,7 @@
     "skills/obsidian-bases",
     "skills/json-canvas",
     "skills",
-    "excalidraw-diagram/references/excalidraw-schema.md",
     "excalidraw-diagram/references",
-    "excalidraw-diagram/SKILL.md",
-    "excalidraw-diagram/Claude-Code-工作流-修复版.flowchart.md",
     "excalidraw-diagram",
     "PM/原稿/01-产品设计 & 产品方案.md",
     "PM/原稿",
@@ -236,9 +242,6 @@
     "80-Inbox-分类/B站/2026-01-27/名人小酒馆多Agent协作OpenAgent黑客松作品1-Nature.md",
     "80-Inbox-分类/B站/2026-01-27/原来_GitHub_还能这么玩？一行代码拉取公钥，实现最优雅的_SSH_免密登录。.md",
     "80-Inbox-分类/B站/2026-01-27/前端面试必问async_await要不要加try_catch90%人踩坑.md",
-    "80-Inbox-分类/B站/2026-01-27/全网首发！Claude_Code_本地版教程：搭配_Ollama_+_Qwen_3，永久免费不限次！.md",
-    "80-Inbox-分类/讲稿/python",
-    "80-Inbox-分类/B站/2026-01-27",
     "80-Inbox-分类/临时/Untitled.canvas",
     "70-Assets/System/Attachments/16-附件/Pasted image 20251209092151.png",
     "70-Assets/System/Attachments/16-附件/Pasted image 20251209092135.png",
