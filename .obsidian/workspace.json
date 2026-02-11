@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "excalidraw-diagram/SKILL.md",
+                "file": "测试/测试文档.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "SKILL"
+              "title": "测试文档"
             }
           }
         ],
@@ -202,8 +202,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "9abe4040a46c48a5",
+  "active": "fd01bb996cf5026a",
   "lastOpenFiles": [
+    "excalidraw-diagram/SKILL.md",
+    "测试/测试文档.md",
+    "测试/未命名",
+    "测试",
     "PM/岗位认知/1.md",
     "excalidraw-diagram/故事生成系统-完整工作流程.flowchart.md",
     "PM/岗位认知",
@@ -214,7 +218,6 @@
     "excalidraw-diagram/故事生成系统-完整工作流程-详细版.excalidraw.md",
     "excalidraw-diagram/故事生成系统-完整工作流程.excalidraw.md",
     "excalidraw-diagram/故事生成系统-完整工作流程.md",
-    "excalidraw-diagram/SKILL.md",
     "excalidraw-diagram - 副本.zip",
     "excalidraw-diagram - 副本/references/excalidraw-schema.md",
     "excalidraw-diagram - 副本/故事生成系统-完整工作流程.excalidraw.md",
@@ -230,8 +233,6 @@
     "40-Archive/历史工作/历史项目/其他/心桥/video_env/lib/python3.9/site-packages/idna/uts46data.py",
     "40-Archive/历史工作/历史项目/其他/心桥/video_env/lib/python3.9/site-packages/idna/intranges.py",
     "40-Archive/历史工作/历史项目/其他/心桥/video_env/lib/python3.9/site-packages/idna/__init__.py",
-    "40-Archive/历史工作/历史项目/其他/心桥/video_env/lib/python3.9/site-packages/idna/py.typed",
-    "40-Archive/历史工作/历史项目/其他/心桥/video_env/lib/python3.9/site-packages/idna/package_data.py",
     "skills/obsidian-markdown/SKILL.md",
     "skills/obsidian-bases/SKILL.md",
     "skills/json-canvas/SKILL.md",
@@ -240,7 +241,6 @@
     "80-Inbox-分类/讲稿/python/1.md",
     "80-Inbox-分类/B站/2026-01-27/🚀还在手动整理文档喂给Claude_Code？Skill_Seeker让AI变身全栈专家，支持任何技术文档自动转换为Claude_Skills！开发效率倍增！.md",
     "80-Inbox-分类/B站/2026-01-27/🚀神器来袭！Pencil让UI设计彻底变天：AI同时生成多个专业级UI，Claude_Code一键转代码，Pencil高级使用技巧保姆级教程！.md",
-    "80-Inbox-分类/B站/2026-01-27/🔥Claude_Code_神级插件_🩺_code-simplifier_安装配置使用.md",
     "80-Inbox-分类/临时/Untitled.canvas",
     "70-Assets/System/Attachments/16-附件/Pasted image 20251209092151.png",
     "70-Assets/System/Attachments/16-附件/Pasted image 20251209092135.png",
