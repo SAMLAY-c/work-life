@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "excalidraw-diagram/故事生成系统-完整工作流程.md",
+                "file": "excalidraw-diagram/SKILL.md",
                 "mode": "source",
-                "source": false
+                "source": true
               },
               "icon": "lucide-file",
-              "title": "故事生成系统-完整工作流程"
+              "title": "SKILL"
             }
           }
         ],
@@ -202,8 +202,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "9abe4040a46c48a5",
+  "active": "fd01bb996cf5026a",
   "lastOpenFiles": [
+    "excalidraw-diagram/故事生成系统-详细流程操作指南.excalidraw.md",
+    "excalidraw-diagram/故事生成系统-详细流程操作指南.md",
+    "excalidraw-diagram/故事生成系统-完整工作流程.excalidraw.md",
+    "excalidraw-diagram/故事生成系统-完整工作流程-详细版.excalidraw.md",
+    "excalidraw-diagram/故事生成系统-完整工作流程.md",
     "excalidraw-diagram - 副本.zip",
     "excalidraw-diagram - 副本/references/excalidraw-schema.md",
     "excalidraw-diagram - 副本/故事生成系统-完整工作流程.excalidraw.md",
@@ -216,12 +221,7 @@
     "excalidraw-diagram - 副本/Claude-Code-工作流-修复版.flowchart.md",
     "excalidraw-diagram - 副本",
     "excalidraw-diagram/references/excalidraw-schema.md",
-    "excalidraw-diagram/故事生成系统-完整工作流程-详细版.excalidraw.md",
-    "excalidraw-diagram/故事生成系统-完整工作流程.md",
-    "excalidraw-diagram/故事生成系统-完整工作流程.excalidraw.md",
     "excalidraw-diagram/Claude-Code-工作流-修复版.flowchart.md",
-    "excalidraw-diagram/故事生成系统-详细流程操作指南.excalidraw.md",
-    "excalidraw-diagram/故事生成系统-详细流程操作指南.md",
     "40-Archive/历史工作/历史项目/其他/心桥/video_env/lib/python3.9/site-packages/idna/uts46data.py",
     "40-Archive/历史工作/历史项目/其他/心桥/video_env/lib/python3.9/site-packages/idna/intranges.py",
     "40-Archive/历史工作/历史项目/其他/心桥/video_env/lib/python3.9/site-packages/idna/__init__.py",
@@ -229,7 +229,6 @@
     "40-Archive/历史工作/历史项目/其他/心桥/video_env/lib/python3.9/site-packages/idna/package_data.py",
     "40-Archive/历史工作/历史项目/其他/心桥/video_env/lib/python3.9/site-packages/idna/core.py",
     "40-Archive/历史工作/历史项目/其他/心桥/video_env/lib/python3.9/site-packages/idna/idnadata.py",
-    "40-Archive/历史工作/历史项目/其他/心桥/video_env/lib/python3.9/site-packages/idna/codec.py",
     "excalidraw-diagram/SKILL.md",
     "skills/obsidian-markdown/SKILL.md",
     "skills/obsidian-bases/SKILL.md",
