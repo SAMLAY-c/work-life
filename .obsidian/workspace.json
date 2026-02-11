@@ -25,12 +25,14 @@
             "id": "fd01bb996cf5026a",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "excalidraw-diagram/故事生成系统-完整工作流程.excalidraw.md"
+                "file": "excalidraw-diagram/故事生成系统-完整工作流程.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "excalidraw-icon",
-              "title": "故事生成系统-完整工作流程.excalidraw"
+              "icon": "lucide-file",
+              "title": "故事生成系统-完整工作流程"
             }
           }
         ],
@@ -200,9 +202,26 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a7fa274022445185",
+  "active": "9abe4040a46c48a5",
   "lastOpenFiles": [
+    "excalidraw-diagram - 副本.zip",
+    "excalidraw-diagram - 副本/references/excalidraw-schema.md",
+    "excalidraw-diagram - 副本/故事生成系统-完整工作流程.excalidraw.md",
+    "excalidraw-diagram - 副本/故事生成系统-详细流程操作指南.excalidraw.md",
+    "excalidraw-diagram - 副本/故事生成系统-详细流程操作指南.md",
+    "excalidraw-diagram - 副本/故事生成系统-完整工作流程.md",
+    "excalidraw-diagram - 副本/故事生成系统-完整工作流程-详细版.excalidraw.md",
+    "excalidraw-diagram - 副本/references",
+    "excalidraw-diagram - 副本/SKILL.md",
+    "excalidraw-diagram - 副本/Claude-Code-工作流-修复版.flowchart.md",
+    "excalidraw-diagram - 副本",
+    "excalidraw-diagram/references/excalidraw-schema.md",
+    "excalidraw-diagram/故事生成系统-完整工作流程-详细版.excalidraw.md",
+    "excalidraw-diagram/故事生成系统-完整工作流程.md",
     "excalidraw-diagram/故事生成系统-完整工作流程.excalidraw.md",
+    "excalidraw-diagram/Claude-Code-工作流-修复版.flowchart.md",
+    "excalidraw-diagram/故事生成系统-详细流程操作指南.excalidraw.md",
+    "excalidraw-diagram/故事生成系统-详细流程操作指南.md",
     "40-Archive/历史工作/历史项目/其他/心桥/video_env/lib/python3.9/site-packages/idna/uts46data.py",
     "40-Archive/历史工作/历史项目/其他/心桥/video_env/lib/python3.9/site-packages/idna/intranges.py",
     "40-Archive/历史工作/历史项目/其他/心桥/video_env/lib/python3.9/site-packages/idna/__init__.py",
@@ -211,14 +230,6 @@
     "40-Archive/历史工作/历史项目/其他/心桥/video_env/lib/python3.9/site-packages/idna/core.py",
     "40-Archive/历史工作/历史项目/其他/心桥/video_env/lib/python3.9/site-packages/idna/idnadata.py",
     "40-Archive/历史工作/历史项目/其他/心桥/video_env/lib/python3.9/site-packages/idna/codec.py",
-    "40-Archive/历史工作/历史项目/其他/心桥/video_env/lib/python3.9/site-packages/idna/compat.py",
-    "40-Archive/历史工作/历史项目/其他/心桥/video_env/lib/python3.9/site-packages/idna",
-    "excalidraw-diagram/故事生成系统-完整工作流程-详细版.excalidraw.md",
-    "excalidraw-diagram/故事生成系统-详细流程操作指南.excalidraw.md",
-    "excalidraw-diagram/Claude-Code-工作流-修复版.flowchart.md",
-    "excalidraw-diagram/故事生成系统-详细流程操作指南.md",
-    "excalidraw-diagram/故事生成系统-完整工作流程.md",
-    "excalidraw-diagram/references/excalidraw-schema.md",
     "excalidraw-diagram/SKILL.md",
     "skills/obsidian-markdown/SKILL.md",
     "skills/obsidian-bases/SKILL.md",
@@ -230,14 +241,6 @@
     "80-Inbox-分类/B站/2026-01-27/🚀神器来袭！Pencil让UI设计彻底变天：AI同时生成多个专业级UI，Claude_Code一键转代码，Pencil高级使用技巧保姆级教程！.md",
     "80-Inbox-分类/B站/2026-01-27/🔥Claude_Code_神级插件_🩺_code-simplifier_安装配置使用.md",
     "80-Inbox-分类/B站/2026-01-27/阿里杀疯了！新平台发布：0成本无限生成视频！.md",
-    "80-Inbox-分类/B站/2026-01-27/这期视频是_AI_自动剪的，你能看出来吗？.md",
-    "80-Inbox-分类/B站/2026-01-27/用Claude_Code_Skills帮我选书并写入Notion，2026年书单靠它啦.md",
-    "80-Inbox-分类/B站/2026-01-27/跳过的视频(超过30分钟).md",
-    "80-Inbox-分类/B站/2026-01-27/用AI做了3个2D动画生成工具｜vibe_coding实践【效果展示+教程分享+个人实践感受】.md",
-    "80-Inbox-分类/B站/2026-01-27/整条都是_Claude_Remotion_Skills_自动生成的.md",
-    "80-Inbox-分类/B站/2026-01-27/手搓「香蕉Pro神级应用」的VibeAgent保姆级教程，影视分镜工作台一句话随手搓出来.md",
-    "80-Inbox-分类/B站/2026-01-27/手把手带教6周成为AI产品经理.md",
-    "80-Inbox-分类/B站/2026-01-27/川普不可以.md",
     "80-Inbox-分类/临时/Untitled.canvas",
     "70-Assets/System/Attachments/16-附件/Pasted image 20251209092151.png",
     "70-Assets/System/Attachments/16-附件/Pasted image 20251209092135.png",
