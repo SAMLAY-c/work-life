@@ -2,7 +2,8 @@
   "permissions": {
     "allow": [
       "Bash(git fetch:*)",
-      "Bash(git reset:*)"
+      "Bash(git reset:*)",
+      "Bash(mkdir:*)"
     ]
   }
 }
