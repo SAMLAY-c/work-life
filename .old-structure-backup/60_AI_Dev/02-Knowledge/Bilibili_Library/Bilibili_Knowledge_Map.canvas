@@ -1,9 +1,0 @@
-{
-	"nodes":[
-		{"id":"center","type":"text","x":400,"y":300,"width":200,"height":80,"color":"1","text":"我的B站知识网络"},
-		{"id":"database","type":"file","x":50,"y":100,"width":250,"height":100,"color":"1","file":"Video_Tracker.base.md"}
-	],
-	"edges":[
-		{"id":"edge1","fromNode":"database","fromSide":"right","toNode":"center","toSide":"left","color":"1"}
-	]
-}
