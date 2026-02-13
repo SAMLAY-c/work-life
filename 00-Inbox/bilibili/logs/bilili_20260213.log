@@ -1,0 +1,121 @@
+2026-02-13 22:21:20,109 - __main__ - INFO - 📹 直接处理视频: https://www.bilibili.com/video/BV1eZ421C7QV
+2026-02-13 22:21:20,110 - core.video_downloader - INFO - 正在获取视频信息...
+2026-02-13 22:21:21,319 - core.video_downloader - ERROR - 获取视频信息失败: ERROR: [BiliBili] 1eZ421C7QV: This video may be deleted or geo-restricted. You might want to try a VPN or a proxy server (with --proxy)
+2026-02-13 22:21:21,321 - __main__ - ERROR - 无法获取视频信息
+2026-02-13 22:21:26,247 - __main__ - INFO - 📹 直接处理视频: https://www.bilibili.com/video/BV1eZ421C7QV
+2026-02-13 22:21:26,248 - core.video_downloader - INFO - 正在获取视频信息...
+2026-02-13 22:21:27,423 - core.video_downloader - ERROR - 获取视频信息失败: ERROR: [BiliBili] 1eZ421C7QV: This video may be deleted or geo-restricted. You might want to try a VPN or a proxy server (with --proxy)
+2026-02-13 22:21:27,425 - __main__ - ERROR - 无法获取视频信息
+2026-02-13 22:21:32,342 - __main__ - INFO - 开始检查收藏夹...
+2026-02-13 22:21:33,188 - __main__ - INFO - ==================================================
+2026-02-13 22:21:33,188 - __main__ - INFO - 发现新视频！
+2026-02-13 22:21:33,188 - __main__ - INFO - ==================================================
+2026-02-13 22:21:33,188 - __main__ - INFO - 📺 标题: 一周4次安装Openclaw的经验总结
+2026-02-13 22:21:33,188 - __main__ - INFO - 🔗 链接: https://www.bilibili.com/video/BV1sRFJz7E64
+2026-02-13 22:21:33,188 - __main__ - INFO - 👤 UP主: 三个石头是座山
+2026-02-13 22:21:33,188 - __main__ - INFO - ⏱️ 时长: 359秒
+2026-02-13 22:21:33,188 - __main__ - INFO - ==================================================
+2026-02-13 22:21:33,189 - core.video_downloader - INFO - 正在获取视频信息...
+2026-02-13 22:21:35,732 - core.video_downloader - INFO - 视频标题: 一周4次安装Openclaw的经验总结, 时长: 5.0分58.98599999999999秒
+2026-02-13 22:21:35,733 - core.video_downloader - INFO - 开始下载视频: 一周4次安装Openclaw的经验总结
+2026-02-13 22:21:41,818 - core.video_downloader - INFO - 视频下载成功: 一周4次安装Openclaw的经验总结.mp4 (10.86 MB)
+2026-02-13 22:21:41,818 - core.video_downloader - INFO - 正在提取音频...
+2026-02-13 22:21:42,743 - core.video_downloader - INFO - 音频提取成功
+2026-02-13 22:21:42,925 - core.transcriber - INFO - 音频总时长: 5分58秒
+2026-02-13 22:21:42,925 - core.transcriber - INFO - 将音频分割为 2 个片段
+2026-02-13 22:21:43,007 - core.transcriber - INFO - 创建片段 1/2
+2026-02-13 22:21:43,116 - core.transcriber - INFO - 创建片段 2/2
+2026-02-13 22:21:43,117 - __main__ - INFO - 音频较长，将分 2 段转录...
+2026-02-13 22:21:43,117 - core.transcriber - INFO - 正在转录第 1/2 段...
+2026-02-13 22:21:43,117 - core.transcriber - INFO - 正在发送给 Groq 进行识别...
+2026-02-13 22:21:47,336 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/audio/transcriptions "HTTP/1.1 200 OK"
+2026-02-13 22:21:47,338 - core.transcriber - INFO - 第 1 段完成
+2026-02-13 22:21:47,340 - core.transcriber - INFO - 正在转录第 2/2 段...
+2026-02-13 22:21:47,340 - core.transcriber - INFO - 正在发送给 Groq 进行识别...
+2026-02-13 22:21:49,002 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/audio/transcriptions "HTTP/1.1 200 OK"
+2026-02-13 22:21:49,003 - core.transcriber - INFO - 第 2 段完成
+2026-02-13 22:21:49,004 - __main__ - INFO - 识别结果预览:
+2026-02-13 22:21:49,004 - __main__ - INFO - 
+兄弟们,今天用我最真实的第一手经验,给大家讲讲被描述为真正能干活的AI助手。Open Club,也就是以前的Club Doubled,它的出现又激发了我折腾系统的激情。从尝试到最终稳定运行,前前后后花了不少时间。从本地部署到云端部署,最后还是回归了本地部署。今天想把这些经历分享出来,希望同样在探索这类工具的朋友少踩坑。最开始我是坚定的要走本地部署这条路的但从第一次尝试到最终稳定运行我一共尝试了四次部署两次海外云服务器部署和两次本地部署第一次是在工作用的MacBook Air上部署这是个M2芯片的起初只是想快速验证一下这个系统能不能跑起来MacBook Air M2的性能跑CloudBot本身没...
+
+2026-02-13 22:21:49,007 - core.transcriber - INFO - 转录结果已保存到: E:\work-life\00-Inbox\bilibili\transcripts\一周4次安装Openclaw的经验总结_20260213_222149.txt
+2026-02-13 22:21:49,008 - __main__ - INFO - ✅ 处理完成!
+2026-02-13 22:21:49,008 - __main__ - INFO - 📁 视频文件: E:\work-life\00-Inbox\bilibili\videos\一周4次安装Openclaw的经验总结.mp4
+2026-02-13 22:21:49,008 - __main__ - INFO - 📄 转录文件: E:\work-life\00-Inbox\bilibili\transcripts\一周4次安装Openclaw的经验总结_20260213_222149.txt
+2026-02-13 22:21:49,010 - __main__ - INFO - 临时音频文件已清理
+2026-02-13 22:21:49,010 - __main__ - INFO - ✅ 处理完成
+2026-02-13 22:21:55,095 - __main__ - INFO - 📹 直接处理视频: https://www.bilibili.com/video/BV1Z64y1h7VV
+2026-02-13 22:21:55,095 - core.video_downloader - INFO - 正在获取视频信息...
+2026-02-13 22:21:58,200 - core.video_downloader - INFO - 视频标题: 桌游棋牌征集令 斗地主 001, 时长: 0.0分49.619秒
+2026-02-13 22:21:58,203 - core.video_downloader - INFO - 开始下载视频: 桌游棋牌征集令 斗地主 001
+2026-02-13 22:22:31,616 - core.video_downloader - INFO - 视频下载成功: 桌游棋牌征集令_斗地主_001.mp4 (17.52 MB)
+2026-02-13 22:22:31,616 - core.video_downloader - INFO - 正在提取音频...
+2026-02-13 22:22:31,912 - core.video_downloader - INFO - 音频提取成功
+2026-02-13 22:22:32,019 - core.transcriber - INFO - 音频总时长: 0分49秒
+2026-02-13 22:22:32,020 - __main__ - INFO - 开始转录音频...
+2026-02-13 22:22:32,020 - core.transcriber - INFO - 正在发送给 Groq 进行识别...
+2026-02-13 22:22:33,536 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/audio/transcriptions "HTTP/1.1 200 OK"
+2026-02-13 22:22:33,537 - __main__ - INFO - 识别结果预览:
+2026-02-13 22:22:33,537 - __main__ - INFO - 
+作词作曲 李宗盛优优独播剧场——YoYo Television Series Exclusive
+
+2026-02-13 22:22:33,538 - core.transcriber - INFO - 转录结果已保存到: E:\work-life\00-Inbox\bilibili\transcripts\桌游棋牌征集令_斗地主_001_20260213_222233.txt
+2026-02-13 22:22:33,539 - __main__ - INFO - ✅ 处理完成!
+2026-02-13 22:22:33,539 - __main__ - INFO - 📁 视频文件: E:\work-life\00-Inbox\bilibili\videos\桌游棋牌征集令_斗地主_001.mp4
+2026-02-13 22:22:33,539 - __main__ - INFO - 📄 转录文件: E:\work-life\00-Inbox\bilibili\transcripts\桌游棋牌征集令_斗地主_001_20260213_222233.txt
+2026-02-13 22:22:33,540 - __main__ - INFO - 临时音频文件已清理
+2026-02-13 22:23:08,609 - __main__ - INFO - 开始检查收藏夹...
+2026-02-13 22:23:09,287 - __main__ - INFO - 暂无新视频，最新: 一周4次安装Openclaw的经验总结
+2026-02-13 22:24:19,999 - __main__ - INFO - 📹 直接处理视频: https://www.bilibili.com/video/BV1HA6JBWEGb
+2026-02-13 22:24:19,999 - core.video_downloader - INFO - 正在获取视频信息...
+2026-02-13 22:24:22,642 - core.video_downloader - INFO - 视频标题: 终于，我用AI治好了"只收藏不学习"的坏毛病（附全自动工作流）, 时长: 28.0分28.337999999999965秒
+2026-02-13 22:24:22,643 - core.video_downloader - INFO - 开始下载视频: 终于，我用AI治好了"只收藏不学习"的坏毛病（附全自动工作流）
+2026-02-13 22:24:52,647 - __main__ - INFO - 📹 直接处理视频: https://www.bilibili.com/video/BV1HA6JBWEGb
+2026-02-13 22:24:52,647 - core.video_downloader - INFO - 正在获取视频信息...
+2026-02-13 22:24:55,240 - core.video_downloader - INFO - 视频标题: 终于，我用AI治好了"只收藏不学习"的坏毛病（附全自动工作流）, 时长: 28.0分28.337999999999965秒
+2026-02-13 22:24:55,241 - core.video_downloader - INFO - 开始下载视频: 终于，我用AI治好了"只收藏不学习"的坏毛病（附全自动工作流）
+2026-02-13 22:28:03,154 - core.video_downloader - INFO - 视频下载成功: 终于，我用AI治好了只收藏不学习的坏毛病（附全自动工作流）.mp4 (123.55 MB)
+2026-02-13 22:28:03,154 - core.video_downloader - INFO - 正在提取音频...
+2026-02-13 22:28:06,688 - core.video_downloader - INFO - 音频提取成功
+2026-02-13 22:28:07,210 - core.transcriber - INFO - 音频总时长: 28分28秒
+2026-02-13 22:28:07,210 - core.transcriber - INFO - 将音频分割为 6 个片段
+2026-02-13 22:28:07,291 - core.transcriber - INFO - 创建片段 1/6
+2026-02-13 22:28:07,387 - core.transcriber - INFO - 创建片段 2/6
+2026-02-13 22:28:07,517 - core.transcriber - INFO - 创建片段 3/6
+2026-02-13 22:28:07,649 - core.transcriber - INFO - 创建片段 4/6
+2026-02-13 22:28:07,813 - core.transcriber - INFO - 创建片段 5/6
+2026-02-13 22:28:07,984 - core.transcriber - INFO - 创建片段 6/6
+2026-02-13 22:28:07,985 - __main__ - INFO - 音频较长，将分 6 段转录...
+2026-02-13 22:28:07,985 - core.transcriber - INFO - 正在转录第 1/6 段...
+2026-02-13 22:28:07,985 - core.transcriber - INFO - 正在发送给 Groq 进行识别...
+2026-02-13 22:28:11,600 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/audio/transcriptions "HTTP/1.1 200 OK"
+2026-02-13 22:28:11,600 - core.transcriber - INFO - 第 1 段完成
+2026-02-13 22:28:11,601 - core.transcriber - INFO - 正在转录第 2/6 段...
+2026-02-13 22:28:11,601 - core.transcriber - INFO - 正在发送给 Groq 进行识别...
+2026-02-13 22:28:13,936 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/audio/transcriptions "HTTP/1.1 200 OK"
+2026-02-13 22:28:13,937 - core.transcriber - INFO - 第 2 段完成
+2026-02-13 22:28:13,937 - core.transcriber - INFO - 正在转录第 3/6 段...
+2026-02-13 22:28:13,937 - core.transcriber - INFO - 正在发送给 Groq 进行识别...
+2026-02-13 22:28:16,753 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/audio/transcriptions "HTTP/1.1 200 OK"
+2026-02-13 22:28:16,754 - core.transcriber - INFO - 第 3 段完成
+2026-02-13 22:28:16,754 - core.transcriber - INFO - 正在转录第 4/6 段...
+2026-02-13 22:28:16,754 - core.transcriber - INFO - 正在发送给 Groq 进行识别...
+2026-02-13 22:28:19,161 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/audio/transcriptions "HTTP/1.1 200 OK"
+2026-02-13 22:28:19,162 - core.transcriber - INFO - 第 4 段完成
+2026-02-13 22:28:19,162 - core.transcriber - INFO - 正在转录第 5/6 段...
+2026-02-13 22:28:19,162 - core.transcriber - INFO - 正在发送给 Groq 进行识别...
+2026-02-13 22:28:23,013 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/audio/transcriptions "HTTP/1.1 200 OK"
+2026-02-13 22:28:23,014 - core.transcriber - INFO - 第 5 段完成
+2026-02-13 22:28:23,014 - core.transcriber - INFO - 正在转录第 6/6 段...
+2026-02-13 22:28:23,015 - core.transcriber - INFO - 正在发送给 Groq 进行识别...
+2026-02-13 22:28:25,740 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/audio/transcriptions "HTTP/1.1 200 OK"
+2026-02-13 22:28:25,741 - core.transcriber - INFO - 第 6 段完成
+2026-02-13 22:28:25,741 - __main__ - INFO - 识别结果预览:
+2026-02-13 22:28:25,741 - __main__ - INFO - 
+你好,欢迎来到AI学长的频道,我是小林你有没有这种感觉,刷到一个特别好的视频或者播客看完以后觉得很有收获,赶紧点了收藏结果过了几天完全忘了讲啥收藏夹里躺在几百个以后再看的视频最后变成了数字垃圾产我也这样,YouTube,B站,小宇宙看了非常多的好的内容但是这些东西都太碎片化了上落在各个平台没有一个统一的地方来管理和回顾没有办法把这些优质的内容真正变成自己的知识库所以我搭建了一个AI工作流可以自动把我在YouTubeB站小宇宙小红书等平台收藏的内容下载到本地转成文字生成摘要以及亮点时间轴再配合Notion或Obsidian我可以随时复习快速找到关键信息甚至可以把这些内容串联起来形成自己的知识体系...
+
+2026-02-13 22:28:25,744 - core.transcriber - INFO - 转录结果已保存到: E:\work-life\00-Inbox\bilibili\transcripts\终于，我用AI治好了只收藏不学习的坏毛病（附全自动工作流）_20260213_222825.txt
+2026-02-13 22:28:25,744 - __main__ - INFO - ✅ 处理完成!
+2026-02-13 22:28:25,744 - __main__ - INFO - 📁 视频文件: E:\work-life\00-Inbox\bilibili\videos\终于，我用AI治好了只收藏不学习的坏毛病（附全自动工作流）.mp4
+2026-02-13 22:28:25,744 - __main__ - INFO - 📄 转录文件: E:\work-life\00-Inbox\bilibili\transcripts\终于，我用AI治好了只收藏不学习的坏毛病（附全自动工作流）_20260213_222825.txt
+2026-02-13 22:28:25,745 - __main__ - INFO - 临时音频文件已清理
