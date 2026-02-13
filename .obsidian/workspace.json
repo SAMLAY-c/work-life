@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "85dfc77f6dc9822a",
+        "id": "7e2bd494584bcbaf",
         "type": "tabs",
         "children": [
           {
-            "id": "57204177be5dc774",
+            "id": "3b0ebe4a0cb33b9a",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 273.5
+    "width": 273.5,
+    "collapsed": true
   },
   "right": {
     "id": "d5791b39732f2bd0",
@@ -187,11 +188,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "57204177be5dc774",
+  "active": "3b0ebe4a0cb33b9a",
   "lastOpenFiles": [
-    "50-Journal/2026-02-13-pptx-work.md",
-    "excalidraw-diagram/未命名.md",
+    "50-Journal/2026-02-13-01-pptx-work.md",
     "50-Journal/2026-02-13.md",
+    "excalidraw-diagram/未命名.md",
     "未命名 1.md",
     "excalidraw-diagram/故事生成系统-完整工作流程.flowchart.md",
     "excalidraw-diagram/故事生成系统工作流程.flowchart.md",
