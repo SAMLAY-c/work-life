@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "使用指南.md",
+                "file": "03-AREAS/编程学习/前端+AI/02-核心概念/前端术语表.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "使用指南"
+              "title": "前端术语表"
             }
           }
         ]
@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 273.5
+    "width": 273.5,
+    "collapsed": true
   },
   "right": {
     "id": "d5791b39732f2bd0",
@@ -187,12 +188,19 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "9abe4040a46c48a5",
+  "active": "7510060a3af2eae1",
   "lastOpenFiles": [
+    "03-AREAS/编程学习/前端+AI/项目主页.md",
+    "03-AREAS/编程学习/前端+AI/06-问题解决/常见问题.md",
+    "03-AREAS/编程学习/前端+AI/04-实践项目/项目1-第一个AI生成组件.md",
+    "03-AREAS/编程学习/前端+AI/03-Prompt技巧/组件化prompt.md",
+    "03-AREAS/编程学习/前端+AI/03-Prompt技巧/需求描述模板.md",
+    "03-AREAS/编程学习/前端+AI/03-Prompt技巧/迭代优化技巧.md",
     "03-AREAS/编程学习/前端+AI/02-核心概念/前端术语表.md",
+    "使用指南.md",
+    "03-AREAS/编程学习/前端+AI/README.md",
     "03-AREAS/编程学习/前端+AI/01-学习计划/学习checklist.md",
     "03-AREAS/编程学习/前端+AI/01-学习计划/每周计划.md",
-    "03-AREAS/编程学习/前端+AI/项目主页.md",
     "03-AREAS/编程学习/前端+AI/06-问题解决",
     "03-AREAS/编程学习/前端+AI/05-学习笔记",
     "03-AREAS/编程学习/前端+AI/04-实践项目",
@@ -218,13 +226,6 @@
     "99-ARCHIVE/80-Inbox-分类/B站/2026-01-27/跳过的视频(超过30分钟).md",
     "99-ARCHIVE/80-Inbox-分类/B站/2026-01-27/用Claude_Code_Skills帮我选书并写入Notion，2026年书单靠它啦.md",
     "99-ARCHIVE/80-Inbox-分类/B站/2026-01-27/整条都是_Claude_Remotion_Skills_自动生成的.md",
-    "99-ARCHIVE/80-Inbox-分类/B站/2026-01-27/手搓「香蕉Pro神级应用」的VibeAgent保姆级教程，影视分镜工作台一句话随手搓出来.md",
-    "99-ARCHIVE/80-Inbox-分类/B站/2026-01-27/原来_GitHub_还能这么玩？一行代码拉取公钥，实现最优雅的_SSH_免密登录。.md",
-    "99-ARCHIVE/80-Inbox-分类/B站/2026-01-27/手把手带教6周成为AI产品经理.md",
-    "99-ARCHIVE/80-Inbox-分类/B站/2026-01-27/对于非科班学生，编程能力具体是什么，如何锻炼编程能力.md",
-    "99-ARCHIVE/80-Inbox-分类/B站/2026-01-27/川普不可以.md",
-    "99-ARCHIVE/80-Inbox-分类/B站/2026-01-27/名人小酒馆多Agent协作OpenAgent黑客松作品1-Nature.md",
-    "99-ARCHIVE/80-Inbox-分类/B站/2026-01-27/前端面试必问async_await要不要加try_catch90%人踩坑.md",
     "99-ARCHIVE/80-Inbox-分类/临时/Untitled.canvas",
     "99-ARCHIVE/70-Assets/System/Attachments/附件/Pasted image 20251228111648.png",
     "99-ARCHIVE/70-Assets/System/Attachments/附件/Pasted image 20251230155354.png",
