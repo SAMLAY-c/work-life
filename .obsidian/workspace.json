@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "目录结构.md",
+                "file": "使用指南.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "目录结构"
+              "title": "使用指南"
             }
           }
         ]
@@ -189,6 +189,7 @@
   },
   "active": "7510060a3af2eae1",
   "lastOpenFiles": [
+    "目录结构.md",
     "04-RESOURCES/AI/README.md",
     "03-AREAS/AI学习/每周复盘.md",
     "03-AREAS/AI学习/工具清单.md",
@@ -224,7 +225,6 @@
     "99-ARCHIVE/80-Inbox-分类/B站/2026-01-27/停止手搓指令，用元提示词SOP让AI自动生成专家级Prompt.md",
     "99-ARCHIVE/80-Inbox-分类/B站/2026-01-27/【Claude_Skills实战】不再为视频字幕生成烦恼_-_打造字幕处理技能包.md",
     "99-ARCHIVE/80-Inbox-分类/B站/2026-01-27/一人公司开源神器系列——终极AI编程工作站.md",
-    "99-ARCHIVE/80-Inbox-分类/B站/2026-01-27/【中配】Clawdbot_+_反重力-_Gemini_CLI：免费运行Clawdbot的简单方法.md",
     "99-ARCHIVE/80-Inbox-分类/临时/Untitled.canvas",
     "99-ARCHIVE/70-Assets/System/Attachments/附件/Pasted image 20251228111648.png",
     "99-ARCHIVE/70-Assets/System/Attachments/附件/Pasted image 20251230155354.png",
