@@ -187,8 +187,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "7510060a3af2eae1",
+  "active": "9abe4040a46c48a5",
   "lastOpenFiles": [
+    "03-AREAS/编程学习/前端+AI/02-核心概念/前端术语表.md",
+    "03-AREAS/编程学习/前端+AI/01-学习计划/学习checklist.md",
+    "03-AREAS/编程学习/前端+AI/01-学习计划/每周计划.md",
+    "03-AREAS/编程学习/前端+AI/项目主页.md",
     "03-AREAS/编程学习/前端+AI/06-问题解决",
     "03-AREAS/编程学习/前端+AI/05-学习笔记",
     "03-AREAS/编程学习/前端+AI/04-实践项目",
@@ -204,7 +208,6 @@
     "03-AREAS/AI学习",
     "04-RESOURCES/AI/02-AI工具使用/提示词技巧",
     "04-RESOURCES/AI/02-AI工具使用/AI自动化办公",
-    "04-RESOURCES/AI/02-AI工具使用/AI编程",
     "99-ARCHIVE/80-Inbox-分类/讲稿/python/1.md",
     "99-ARCHIVE/80-Inbox-分类/B站/2026-01-27/🚀还在手动整理文档喂给Claude_Code？Skill_Seeker让AI变身全栈专家，支持任何技术文档自动转换为Claude_Skills！开发效率倍增！.md",
     "99-ARCHIVE/80-Inbox-分类/B站/2026-01-27/🚀神器来袭！Pencil让UI设计彻底变天：AI同时生成多个专业级UI，Claude_Code一键转代码，Pencil高级使用技巧保姆级教程！.md",
@@ -222,9 +225,6 @@
     "99-ARCHIVE/80-Inbox-分类/B站/2026-01-27/川普不可以.md",
     "99-ARCHIVE/80-Inbox-分类/B站/2026-01-27/名人小酒馆多Agent协作OpenAgent黑客松作品1-Nature.md",
     "99-ARCHIVE/80-Inbox-分类/B站/2026-01-27/前端面试必问async_await要不要加try_catch90%人踩坑.md",
-    "99-ARCHIVE/80-Inbox-分类/B站/2026-01-27/全网首发！Claude_Code_本地版教程：搭配_Ollama_+_Qwen_3，永久免费不限次！.md",
-    "99-ARCHIVE/80-Inbox-分类/B站/2026-01-27/停止手搓指令，用元提示词SOP让AI自动生成专家级Prompt.md",
-    "99-ARCHIVE/80-Inbox-分类/B站/2026-01-27/【Claude_Skills实战】不再为视频字幕生成烦恼_-_打造字幕处理技能包.md",
     "99-ARCHIVE/80-Inbox-分类/临时/Untitled.canvas",
     "99-ARCHIVE/70-Assets/System/Attachments/附件/Pasted image 20251228111648.png",
     "99-ARCHIVE/70-Assets/System/Attachments/附件/Pasted image 20251230155354.png",
