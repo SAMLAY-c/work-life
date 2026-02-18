@@ -384,3 +384,138 @@ tags: [excalidraw]
 - **重点一眼可见**：用户扫一眼就能知道这节课最重要的3–5个点在哪里。
 - **支持迭代**：用户可能会说「这个课程还有一个概念你漏了」，要能快速补充节点。
 ```
+
+---
+
+## 附录：Excalidraw文件格式规范
+
+### B.1 标准文件结构（格式B）
+
+当生成Excalidraw文件时，必须使用以下标准格式：
+
+```markdown
+---
+excalidraw-plugin: parsed
+tags: [excalidraw]
+---
+==⚠  Switch to EXCALIDRAW VIEW in the MORE OPTIONS menu of this document. ⚠== You can decompress Drawing data with the command palette: 'Decompress current Excalidraw file'. For more info check in plugin settings under 'Saving'
+
+# Excalidraw Data
+
+## Text Elements
+[文件标题] ^title
+
+[章节标题1] ^section1
+
+[内容块1] ^content1
+
+[内容块2] ^content2
+
+...
+
+%%
+## Drawing
+```compressed-json
+[压缩的JSON数据]
+```
+%%
+```
+
+### B.2 格式说明
+
+**Frontmatter部分**：
+- `excalidraw-plugin: parsed` - 标识为Excalidraw插件解析格式
+- `tags: [excalidraw]` - 标签，用于Obsidian插件识别
+
+**Text Elements部分**：
+- 包含所有可见的文本内容
+- 每个文本元素有唯一ID（使用`^id`语法）
+- 结构：标题、章节、内容块等
+- 格式：使用Markdown文本，支持列表、分级标题等
+
+**Drawing部分**：
+- 使用`compressed-json`格式（Excalidraw压缩格式）
+- 由Excalidraw插件自动生成和维护
+- 手动编辑时需在Excalidraw视图中操作
+- 占位符：可使用已存在文件的compressed-json作为模板
+
+### B.3 格式A vs 格式B
+
+**格式A**（文件05使用）：
+```markdown
+## Text Elements
+%%                    ← 直接就是%%，没有文本内容
+## Drawing
+```json             ← 使用json，不是compressed-json
+```
+
+**格式B**（文件02-04、06-16使用，推荐）：
+```markdown
+## Text Elements
+[有文本内容] ^title
+%%
+## Drawing
+```compressed-json    ← 使用compressed-json
+```
+
+**选择建议**：
+- **推荐使用格式B**：有完整的Text Elements内容，便于阅读和编辑
+- 格式A适用于纯绘图场景，无文本说明需求
+
+### B.4 compressed-json占位符使用
+
+当无法生成正确的compressed-json时（需要Excalidraw压缩算法）：
+
+1. **使用占位符策略**：
+   - 复制已存在文件的compressed-json部分
+   - 作为临时占位，保持文件结构完整
+
+2. **后续操作**：
+   - 用户在Obsidian中打开文件
+   - 进入Excalidraw视图进行编辑
+   - 保存时插件自动生成正确的compressed-json
+
+3. **优点**：
+   - 保持格式一致性
+   - 文件结构完整
+   - 用户可以在Excalidraw中继续编辑
+
+### B.5 实际案例参考
+
+**格式B示例文件**：
+- `02_产品经理的流程图及案例.excalidraw.md`
+- `06_流程图绘制演示.excalidraw.md`
+- `07_泳道图的绘制.excalidraw.md`
+- `10_结构图分类及功能结构图.excalidraw.md`
+- `12-16各课程文件.excalidraw.md`
+
+**格式A示例文件**：
+- `05_流程图的常用元素及结构.excalidraw.md`
+
+### B.6 文件生成工作流
+
+1. **创建完整Text Elements**
+   - 提取转录内容的核心知识点
+   - 组织成结构化文本
+   - 添加唯一ID标识
+
+2. **添加Drawing占位符**
+   - 使用标准compressed-json模板
+   - 或复制已存在文件的Drawing部分
+
+3. **用户在Excalidraw中完善**
+   - 打开文件进入Excalidraw视图
+   - 根据Text Elements内容绘制图形
+   - 保存时自动生成正确compressed-json
+
+4. **最终输出**
+   - 格式B完整文件
+   - Text Elements + compressed-json
+   - 可在Obsidian中正常查看和编辑
+
+### B.7 注意事项
+
+- **不要手动修改compressed-json**：这是Excalidraw插件生成的压缩数据
+- **Text Elements是可读内容**：包含了所有的文本信息和结构
+- **保持格式一致性**：所有文件应使用相同的格式（推荐格式B）
+- **ID唯一性**：每个文本元素的ID必须唯一
