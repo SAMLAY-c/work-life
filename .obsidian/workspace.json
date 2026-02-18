@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "05-JOURNAL/2026-02-18.md",
+                "file": "03-AREAS/设计-Excalidraw/excalidraw-diagram - 副本/SKILL.md",
                 "mode": "source",
-                "source": false
+                "source": true
               },
               "icon": "lucide-file",
-              "title": "2026-02-18"
+              "title": "SKILL"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "oc",
+                "query": "副本",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -187,10 +187,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "9abe4040a46c48a5",
+  "active": "7510060a3af2eae1",
   "lastOpenFiles": [
-    "03-AREAS/编程学习/前端+AI/02-核心概念/前端术语表.md",
+    "03-AREAS/设计-Excalidraw/excalidraw-diagram - 副本/references/excalidraw-schema.md",
+    "目录结构.md",
+    "99-ARCHIVE/80-Inbox-分类/B站/黄山天都峰，时隔五年，王者归来，满级副本专治嘴硬。#旅游推荐官_#旅游大玩家_#黄山天都峰_#天都峰王者归来_#黄山旅游.md",
     "05-JOURNAL/2026-02-18.md",
+    "03-AREAS/编程学习/前端+AI/02-核心概念/前端术语表.md",
     "03-AREAS/编程学习/前端+AI/项目主页.md",
     "03-AREAS/编程学习/前端+AI/06-问题解决/常见问题.md",
     "03-AREAS/编程学习/前端+AI/04-实践项目/项目1-第一个AI生成组件.md",
@@ -208,7 +211,6 @@
     "03-AREAS/编程学习/前端+AI/02-核心概念",
     "03-AREAS/编程学习/前端+AI/01-学习计划",
     "03-AREAS/编程学习/前端+AI",
-    "目录结构.md",
     "04-RESOURCES/AI/README.md",
     "03-AREAS/AI学习/每周复盘.md",
     "03-AREAS/AI学习/工具清单.md",
@@ -223,8 +225,6 @@
     "99-ARCHIVE/80-Inbox-分类/B站/2026-01-27/阿里杀疯了！新平台发布：0成本无限生成视频！.md",
     "99-ARCHIVE/80-Inbox-分类/B站/2026-01-27/用AI做了3个2D动画生成工具｜vibe_coding实践【效果展示+教程分享+个人实践感受】.md",
     "99-ARCHIVE/80-Inbox-分类/B站/2026-01-27/这期视频是_AI_自动剪的，你能看出来吗？.md",
-    "99-ARCHIVE/80-Inbox-分类/B站/2026-01-27/跳过的视频(超过30分钟).md",
-    "99-ARCHIVE/80-Inbox-分类/B站/2026-01-27/用Claude_Code_Skills帮我选书并写入Notion，2026年书单靠它啦.md",
     "99-ARCHIVE/80-Inbox-分类/临时/Untitled.canvas",
     "99-ARCHIVE/70-Assets/System/Attachments/附件/Pasted image 20251228111648.png",
     "99-ARCHIVE/70-Assets/System/Attachments/附件/Pasted image 20251230155354.png",
