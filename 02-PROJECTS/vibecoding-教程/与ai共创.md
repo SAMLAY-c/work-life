@@ -1,9 +1,7 @@
 点击链接查看和 Kimi 的对话 https://www.kimi.com/share/19c74918-c332-896f-8000-0000d17db009
 # 发展的重点与目录
-
-agenticihttps://mp.weixin.qq.com/s/-Er84EjF5wfH3YcsC6kV3w
-
-
+## 最新进展：agentic coding：
+[微信公众号：解读Anthropic 2026 Agentic Coding Trends Report](https://mp.weixin.qq.com/s/-Er84EjF5wfH3YcsC6kV3w)
 ## 教程的目的：
 对初学者来说，vibe coding 工具是真实有效的加速器，但要教他们"看懂"而不是"盲目信任"。
 
