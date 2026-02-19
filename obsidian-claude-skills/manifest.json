@@ -1,0 +1,10 @@
+{
+  "id": "claude-code-skills",
+  "name": "Claude Code Skills",
+  "version": "1.0.0",
+  "minAppVersion": "0.15.0",
+  "description": "一键调用 Claude Code Skills 生成 Excalidraw 可视化图表",
+  "author": "Your Name",
+  "authorUrl": "https://github.com/yourusername",
+  "isDesktopOnly": true
+}

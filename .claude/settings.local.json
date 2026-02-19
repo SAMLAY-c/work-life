@@ -3,7 +3,9 @@
     "allow": [
       "Bash(git fetch:*)",
       "Bash(git reset:*)",
-      "Bash(mkdir:*)"
+      "Bash(mkdir:*)",
+      "WebSearch",
+      "Bash(npm install)"
     ]
   }
 }
