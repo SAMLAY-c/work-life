@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "05-JOURNAL/2026-02-19.md",
+                "file": "03-AREAS/设计-Excalidraw/pm/SKILL.md",
                 "mode": "source",
-                "source": false
+                "source": true
               },
               "icon": "lucide-file",
-              "title": "2026-02-19"
+              "title": "SKILL"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "副本",
+                "query": "PM",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -189,8 +189,8 @@
   },
   "active": "7510060a3af2eae1",
   "lastOpenFiles": [
-    "04-RESOURCES/PM产品思维/PM/可视化/04_产品经理零基础入门（三）流程图制作精讲课程全套_p04_04.老司机都在用的流程图平台_20260216_163947-课程总览.excalidraw.md",
     "05-JOURNAL/2026-02-19.md",
+    "04-RESOURCES/PM产品思维/PM/可视化/04_产品经理零基础入门（三）流程图制作精讲课程全套_p04_04.老司机都在用的流程图平台_20260216_163947-课程总览.excalidraw.md",
     "04-RESOURCES/PM产品思维/PM/可视化/03_产品经理零基础入门（三）流程图制作精讲课程全套_p03_03.产品经理必备的流程图类型_20260216_163916-课程总览.excalidraw.md",
     "04-RESOURCES/PM产品思维/PM/可视化/02_产品经理零基础入门（三）流程图制作精讲课程全套_p02_02.产品经理的流程图及案例_20260216_163820-课程总览.excalidraw.md",
     "03-AREAS/设计-Excalidraw/pm/流程图导出格式选择-JPGvsPNG.flowchart.md",

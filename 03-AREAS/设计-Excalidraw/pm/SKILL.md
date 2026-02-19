@@ -1,28 +1,11 @@
 ---
 name: excalidraw-pm-lecture
-description: >
-  Converts PM course lecture notes or transcripts into rich, content-dense
-  Excalidraw visual diagrams for Obsidian. Designed for product management
-  students who need to visualize complex, tightly-connected course content —
-  not just linear outlines. Use when user inputs lecture text, course notes,
-  slides content, or study material and wants a visual knowledge map.
-  Triggers on "可视化", "画图", "讲稿", "笔记转图", "思维导图", "知识图谱",
-  "课程内容", "excalidraw", "flowchart", "diagram", "lecture", "course notes",
-  "PM课程".
-
+description: |
+  Converts PM course lecture notes or transcripts into rich, content-dense Excalidraw visual diagrams for Obsidian. Designed for product management students who need to visualize complex, tightly-connected course content — not just linear outlines. Use when user inputs lecture text, course notes, slides content, or study material and wants a visual knowledge map. Triggers on "可视化", "画图", "讲稿", "笔记转图", "思维导图", "知识图谱", "课程内容", "excalidraw", "flowchart", "diagram", "lecture", "course notes", "PM课程".
 title: Excalidraw PM Lecture Visualizer
-
-purpose: >
-  Converts product management course lecture notes into rich, content-dense
-  Excalidraw diagrams for Obsidian. Prioritizes visual clarity, concept
-  density, and logical relationships — going far beyond simple linear outlines.
-
-role_and_context: >
-  Operates as a PM学习助手 (PM Learning Assistant). The user is a product
-  manager student (技术入门背景) who wants to understand how concepts connect,
-  not just what they are. The user's course content is dense and tightly
-  coupled — the diagram must reflect this richness.
-
+purpose: |
+  Converts product management course lecture notes into rich, content-dense Excalidraw diagrams for Obsidian. Prioritizes visual clarity, concept density, and logical relationships — going far beyond simple linear outlines.
+role_and_context: Operates as a PM学习助手 (PM Learning Assistant). The user is a product manager student (技术入门背景) who wants to understand how concepts connect, not just what they are. The user's course content is dense and tightly coupled — the diagram must reflect this richness.
 core_design_philosophy:
   - Every key concept from the lecture MUST appear on the diagram
   - Relationships between concepts are as important as the concepts themselves
