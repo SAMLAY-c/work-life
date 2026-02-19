@@ -13,6 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "03-AREAS/设计-Excalidraw/js/SKILL.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "SKILL"
+            }
+          }
+        ]
+      },
+      {
+        "id": "557544e53b101514",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "50801e599babc41c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "03-AREAS/设计-Excalidraw/pm/SKILL.md",
                 "mode": "source",
                 "source": true
@@ -187,8 +207,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "7510060a3af2eae1",
+  "active": "50801e599babc41c",
   "lastOpenFiles": [
+    "03-AREAS/设计-Excalidraw/js/SKILL.md",
+    "03-AREAS/设计-Excalidraw/pm/SKILL.md",
+    "03-AREAS/设计-Excalidraw/js",
     "05-JOURNAL/2026-02-19.md",
     "04-RESOURCES/PM产品思维/PM/可视化/04_产品经理零基础入门（三）流程图制作精讲课程全套_p04_04.老司机都在用的流程图平台_20260216_163947-课程总览.excalidraw.md",
     "04-RESOURCES/PM产品思维/PM/可视化/03_产品经理零基础入门（三）流程图制作精讲课程全套_p03_03.产品经理必备的流程图类型_20260216_163916-课程总览.excalidraw.md",
@@ -202,7 +225,6 @@
     "04-RESOURCES/PM产品思维/PM/可视化/05_产品经理零基础入门（三）流程图制作精讲课程全套_p05_05.流程图的几种常用元素及结构_20260216_164028-课程总览.excalidraw.md",
     "04-RESOURCES/PM产品思维/PM/可视化/07_产品经理零基础入门（三）流程图制作精讲课程全套_p07_07.泳道图的绘制_20260216_164222-课程总览.excalidraw.md",
     "05-JOURNAL/2026-02-18.md",
-    "03-AREAS/设计-Excalidraw/pm/SKILL.md",
     "04-RESOURCES/PM产品思维/PM/可视化/01_产品经理零基础入门（三）流程图制作精讲课程全套_p01_01.流程图学习目标_20260216_163741-课程总览.excalidraw.md",
     "03-AREAS/设计-Excalidraw/excalidraw-diagram - 副本/SKILL.md",
     "04-RESOURCES/PM产品思维/PM/可视化/08_产品经理零基础入门（三）流程图制作精讲课程全套_p08_08.导出流程图格式_20260216_164302-课程总览.excalidraw.md",
@@ -215,7 +237,6 @@
     "04-RESOURCES/PM产品思维/PM/可视化/12_产品经理零基础入门（三）流程图制作精讲课程全套_p12_12.产品结构图1_20260216_164625-课程总览.excalidraw.md",
     "04-RESOURCES/PM产品思维/PM/可视化/09_产品经理零基础入门（三）流程图制作精讲课程全套_p09_09.结构图绘制工具_20260216_164428-课程总览.excalidraw.md",
     "04-RESOURCES/PM产品思维/PM/可视化/05_产品经理零基础入门（三）流程图制作精讲课程全套_p05_05.流程图的几种常用元素及结构_20260216_164028-课程总览.excalidraw.md.tmp.33528.1771391833115",
-    "04-RESOURCES/PM产品思维/PM/原稿/01-产品设计 & 产品方案.md",
     "04-RESOURCES/PM产品思维/PM/01-产品设计 & 产品方案.canvas",
     "04-RESOURCES/PM产品思维/PM/笔记",
     "04-RESOURCES/PM产品思维/PM/可视化",
@@ -225,7 +246,6 @@
     "03-AREAS/设计-Excalidraw/excalidraw-diagram - 副本 (2)",
     "03-AREAS/编程学习/前端+AI/06-问题解决",
     "03-AREAS/编程学习/前端+AI/05-学习笔记",
-    "03-AREAS/编程学习/前端+AI/04-实践项目",
     "99-ARCHIVE/80-Inbox-分类/临时/Untitled.canvas",
     "99-ARCHIVE/70-Assets/System/Attachments/附件/Pasted image 20251228111648.png",
     "99-ARCHIVE/70-Assets/System/Attachments/附件/Pasted image 20251230155354.png",
