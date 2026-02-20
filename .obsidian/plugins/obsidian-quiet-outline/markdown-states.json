@@ -53,7 +53,7 @@
       },
       "to": {
         "line": 0,
-        "ch": 3
+        "ch": 5
       }
     },
     "expandedKeys": []
@@ -202,12 +202,40 @@
     "scroll": 0,
     "cursor": {
       "from": {
-        "line": 0,
+        "line": 34,
         "ch": 0
       },
       "to": {
-        "line": 36,
+        "line": 34,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "04-RESOURCES/PM产品思维/PM/原稿/02-18.md": {
+    "scroll": 89.1749979654948,
+    "cursor": {
+      "from": {
+        "line": 118,
         "ch": 22
+      },
+      "to": {
+        "line": 118,
+        "ch": 22
+      }
+    },
+    "expandedKeys": []
+  },
+  "04-RESOURCES/PM产品思维/PM/原稿/02-19.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 822,
+        "ch": 15
+      },
+      "to": {
+        "line": 822,
+        "ch": 15
       }
     },
     "expandedKeys": []

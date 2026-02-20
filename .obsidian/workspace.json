@@ -4,19 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "45526207d31fced1",
+        "id": "7e5e8ca3488d15db",
         "type": "tabs",
         "children": [
           {
-            "id": "7c4f7b16f53b86b9",
+            "id": "ce9e0d6db2360407",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "04-RESOURCES/PM产品思维/PM/可视化/02-17_需求分析-知识图谱.excalidraw.md"
+                "file": "04-RESOURCES/PM产品思维/PM/原稿/02-19.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "excalidraw-icon",
-              "title": "02-17_需求分析-知识图谱.excalidraw"
+              "icon": "lucide-file",
+              "title": "02-19"
             }
           }
         ]
@@ -196,8 +198,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "7c4f7b16f53b86b9",
+  "active": "ce9e0d6db2360407",
   "lastOpenFiles": [
+    "99-ARCHIVE/large-files-manifest.txt",
+    "04-RESOURCES/PM产品思维/PM/原稿/02-17.md",
+    "04-RESOURCES/PM产品思维/PM/原稿/02-19.md",
+    "04-RESOURCES/PM产品思维/PM/原稿/02-18.md",
+    "04-RESOURCES/PM产品思维/PM/可视化/02-17_需求分析-知识图谱.excalidraw.md",
     "04-RESOURCES/PM产品思维/PM/可视化/02-15_需求池管理-知识图谱.excalidraw.md",
     "04-RESOURCES/PM产品思维/PM/可视化/02-14_竞品分析目的与方法-知识图谱.excalidraw.md",
     "04-RESOURCES/PM产品思维/PM/可视化/02-14_竞品分析-知识图谱.excalidraw.md",
@@ -205,9 +212,7 @@
     "04-RESOURCES/PM产品思维/PM/可视化/02_产品经理零基础入门（三）流程图制作精讲课程全套_p02_02.产品经理的流程图及案例_20260216_163820-课程总览.excalidraw.md",
     "04-RESOURCES/PM产品思维/PM/可视化/03_产品经理零基础入门（三）流程图制作精讲课程全套_p03_03.产品经理必备的流程图类型_20260216_163916-课程总览.excalidraw.md",
     "04-RESOURCES/PM产品思维/PM/原稿/02-14.md",
-    "04-RESOURCES/PM产品思维/PM/可视化/02-17_需求分析-知识图谱.excalidraw.md",
     "04-RESOURCES/PM产品思维/PM/原稿/02-15.md",
-    "04-RESOURCES/PM产品思维/PM/原稿/02-17.md",
     "04-RESOURCES/PM产品思维/PM/原稿/02-16 作业.md",
     "04-RESOURCES/PM产品思维/PM/可视化/06_产品经理零基础入门（三）流程图制作精讲课程全套_p06_06.流程图绘制演示_20260216_164104-课程总览.excalidraw.md",
     "00_Media/Pasted Image 20260220101223_762.png",
@@ -236,9 +241,6 @@
     "obsidian-claude-skills/node_modules/@codemirror/view/CHANGELOG.md",
     "obsidian-claude-skills/node_modules/esbuild/README.md",
     "obsidian-claude-skills/node_modules/style-mod/README.md",
-    "obsidian-claude-skills/node_modules/esbuild/LICENSE.md",
-    "obsidian-claude-skills/node_modules/crelt/README.md",
-    "obsidian-claude-skills/node_modules/w3c-keyname/README.md",
     "99-ARCHIVE/80-Inbox-分类/临时/Untitled.canvas",
     "99-ARCHIVE/70-Assets/System/Attachments/附件/Pasted image 20251228111648.png",
     "99-ARCHIVE/70-Assets/System/Attachments/附件/Pasted image 20251230155354.png",

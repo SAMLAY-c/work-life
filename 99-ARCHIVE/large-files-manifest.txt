@@ -1,0 +1,80 @@
+﻿
+# 大文件归档清单
+# 生成时间: 02/20/2026 13:27:09
+# 这些文件已从Git追踪中移除，请备份到外部存储
+# ========================================
+
+
+[10.86 MB]  99-ARCHIVE\00-Inbox\bilibili\videos\一周4次安装Openclaw的经验总结.mp4
+[123.55 MB]  99-ARCHIVE\00-Inbox\bilibili\videos\终于，我用AI治好了只收藏不学习的坏毛病（附全自动工作流）.mp4
+[17.52 MB]  99-ARCHIVE\00-Inbox\bilibili\videos\桌游棋牌征集令_斗地主_001.mp4
+[6.69 MB]  99-ARCHIVE\30-Resources\AI-项目\11-小智\5、小智AI客户资料\2、说明书-拿到手必看.pdf
+[4.30 MB]  99-ARCHIVE\30-Resources\AI-项目\11-小智\5、小智AI客户资料\4、源代码\1、1.55版本\1、烧录Bin文件V1.1\zhengchen_1.54_4G_1.1.bin
+[4.99 MB]  99-ARCHIVE\30-Resources\AI-项目\11-小智\5、小智AI客户资料\4、源代码\1、1.55版本\1、烧录Bin文件V1.1\zhengchen_1.54_wifi_1.1.bin
+[2.93 MB]  99-ARCHIVE\30-Resources\AI-项目\11-小智\5、小智AI客户资料\4、源代码\1、1.55版本\1、烧录Bin文件V1.1\zhengchen_OLED_4G_1.1.bin
+[3.62 MB]  99-ARCHIVE\30-Resources\AI-项目\11-小智\5、小智AI客户资料\4、源代码\1、1.55版本\1、烧录Bin文件V1.1\zhengchen_OLED_wifi_1.1.bin
+[4.30 MB]  99-ARCHIVE\30-Resources\AI-项目\11-小智\5、小智AI客户资料\4、源代码\2、可以打断对话的版本\烧录bin文件\4G_MR_AEC.bin
+[5.00 MB]  99-ARCHIVE\30-Resources\AI-项目\11-小智\5、小智AI客户资料\4、源代码\2、可以打断对话的版本\烧录bin文件\wifi_MR_AEC.bin
+[2.93 MB]  99-ARCHIVE\30-Resources\AI-项目\11-小智\5、小智AI客户资料\4、源代码\3、基于1.6版本修改的代码\bin文件\NOchat_0.96_4G.bin
+[3.62 MB]  99-ARCHIVE\30-Resources\AI-项目\11-小智\5、小智AI客户资料\4、源代码\3、基于1.6版本修改的代码\bin文件\NOchat_0.96wifi.bin
+[4.30 MB]  99-ARCHIVE\30-Resources\AI-项目\11-小智\5、小智AI客户资料\4、源代码\3、基于1.6版本修改的代码\bin文件\NOchat_TFT_4G.bin
+[5.00 MB]  99-ARCHIVE\30-Resources\AI-项目\11-小智\5、小智AI客户资料\4、源代码\3、基于1.6版本修改的代码\bin文件\NOchat_TFTwifi.bin
+[2.93 MB]  99-ARCHIVE\30-Resources\AI-项目\11-小智\5、小智AI客户资料\4、源代码\3、基于1.6版本修改的代码\bin文件\温度超过65度会预警的版本\NOchat_0.96_4G.bin
+[3.62 MB]  99-ARCHIVE\30-Resources\AI-项目\11-小智\5、小智AI客户资料\4、源代码\3、基于1.6版本修改的代码\bin文件\温度超过65度会预警的版本\NOchat_0.96wifi.bin
+[4.30 MB]  99-ARCHIVE\30-Resources\AI-项目\11-小智\5、小智AI客户资料\4、源代码\3、基于1.6版本修改的代码\bin文件\温度超过65度会预警的版本\NOchat_TFT_4G.bin
+[5.00 MB]  99-ARCHIVE\30-Resources\AI-项目\11-小智\5、小智AI客户资料\4、源代码\3、基于1.6版本修改的代码\bin文件\温度超过65度会预警的版本\NOchat_TFTwifi.bin
+[4.30 MB]  99-ARCHIVE\30-Resources\AI-项目\11-小智\5、小智AI客户资料\4、源代码\3、基于1.6版本修改的代码\bin文件\温度超过75度会预警的版本\nochat_4G_75.bin
+[5.00 MB]  99-ARCHIVE\30-Resources\AI-项目\11-小智\5、小智AI客户资料\4、源代码\3、基于1.6版本修改的代码\bin文件\温度超过75度会预警的版本\nochat_tft_75.bin
+[5.07 MB]  99-ARCHIVE\30-Resources\AI-项目\11-小智\5、小智AI客户资料\4、源代码\4、1.6.2版本\bin文件\1.54_4g_微信聊天界面_OTA.bin
+[5.07 MB]  99-ARCHIVE\30-Resources\AI-项目\11-小智\5、小智AI客户资料\4、源代码\4、1.6.2版本\bin文件\1.54_4g_无微信聊天界面_OTA.bin
+[5.02 MB]  99-ARCHIVE\30-Resources\AI-项目\11-小智\5、小智AI客户资料\4、源代码\4、1.6.2版本\bin文件\1.54_wifi_微信聊天界面_OTA.bin
+[5.02 MB]  99-ARCHIVE\30-Resources\AI-项目\11-小智\5、小智AI客户资料\4、源代码\4、1.6.2版本\bin文件\1.54_wifi_无微信聊天界面_OTA.bin
+[1.35 MB]  99-ARCHIVE\30-Resources\AI-项目\11-小智\5、小智AI客户资料\4、源代码\5、音乐播放固件(严禁商用，仅供学习交流)\音乐固件下载地址.docx
+[4.99 MB]  99-ARCHIVE\30-Resources\AI-项目\11-小智\5、小智AI客户资料\4、源代码\烧录工具\flash_download_tool_3.9.7\bin\zhengchen_1.54_wifi_1.0.bin
+[4.99 MB]  99-ARCHIVE\30-Resources\AI-项目\11-小智\5、小智AI客户资料\4、源代码\烧录工具\flash_download_tool_3.9.7\dl_temp\_temp_by_dltool\downloadPanel1\1.54_wifi_1.0.bin_rep
+[4.99 MB]  99-ARCHIVE\30-Resources\AI-项目\11-小智\5、小智AI客户资料\4、源代码\烧录工具\flash_download_tool_3.9.7\dl_temp\_temp_by_dltool\downloadPanel1\1.54tft_3_30.bin_rep
+[2.92 MB]  99-ARCHIVE\30-Resources\AI-项目\11-小智\5、小智AI客户资料\4、源代码\烧录工具\flash_download_tool_3.9.7\dl_temp\_temp_by_dltool\downloadPanel1\4Gmerged-binary.bin_rep
+[3.61 MB]  99-ARCHIVE\30-Resources\AI-项目\11-小智\5、小智AI客户资料\4、源代码\烧录工具\flash_download_tool_3.9.7\dl_temp\_temp_by_dltool\downloadPanel1\merged-binary.bin_rep
+[3.61 MB]  99-ARCHIVE\30-Resources\AI-项目\11-小智\5、小智AI客户资料\4、源代码\烧录工具\flash_download_tool_3.9.7\dl_temp\_temp_by_dltool\downloadPanel1\OLED.bin_rep
+[4.98 MB]  99-ARCHIVE\30-Resources\AI-项目\11-小智\5、小智AI客户资料\4、源代码\烧录工具\flash_download_tool_3.9.7\dl_temp\_temp_by_dltool\downloadPanel1\TFT.bin_rep
+[4.29 MB]  99-ARCHIVE\30-Resources\AI-项目\11-小智\5、小智AI客户资料\4、源代码\烧录工具\flash_download_tool_3.9.7\dl_temp\_temp_by_dltool\downloadPanel1\zhengchen_1.54_4G_1.0.bin_rep
+[4.99 MB]  99-ARCHIVE\30-Resources\AI-项目\11-小智\5、小智AI客户资料\4、源代码\烧录工具\flash_download_tool_3.9.7\dl_temp\_temp_by_dltool\downloadPanel1\zhengchen_1.54_wifi_1.0.bin_rep
+[4.99 MB]  99-ARCHIVE\30-Resources\AI-项目\11-小智\5、小智AI客户资料\4、源代码\烧录工具\flash_download_tool_3.9.7\dl_temp\_temp_by_dltool\downloadPanel1\zhengchen_1.54_wifi_1.1.bin_rep
+[3.61 MB]  99-ARCHIVE\30-Resources\AI-项目\11-小智\5、小智AI客户资料\4、源代码\烧录工具\flash_download_tool_3.9.7\dl_temp\_temp_by_dltool\downloadPanel1\zhengchen_OLED_wifi_1.0.bin_rep
+[4.99 MB]  99-ARCHIVE\30-Resources\AI-项目\11-小智\5、小智AI客户资料\4、源代码\烧录工具\flash_download_tool_3.9.7\dl_temp\_temp_by_dltool\downloadPanel10\zhengchen_1.54_wifi_1.0.bin_rep
+[4.99 MB]  99-ARCHIVE\30-Resources\AI-项目\11-小智\5、小智AI客户资料\4、源代码\烧录工具\flash_download_tool_3.9.7\dl_temp\_temp_by_dltool\downloadPanel2\zhengchen_1.54_wifi_1.0.bin_rep
+[4.99 MB]  99-ARCHIVE\30-Resources\AI-项目\11-小智\5、小智AI客户资料\4、源代码\烧录工具\flash_download_tool_3.9.7\dl_temp\_temp_by_dltool\downloadPanel3\zhengchen_1.54_wifi_1.0.bin_rep
+[4.99 MB]  99-ARCHIVE\30-Resources\AI-项目\11-小智\5、小智AI客户资料\4、源代码\烧录工具\flash_download_tool_3.9.7\dl_temp\_temp_by_dltool\downloadPanel4\zhengchen_1.54_wifi_1.0.bin_rep
+[4.99 MB]  99-ARCHIVE\30-Resources\AI-项目\11-小智\5、小智AI客户资料\4、源代码\烧录工具\flash_download_tool_3.9.7\dl_temp\_temp_by_dltool\downloadPanel5\zhengchen_1.54_wifi_1.0.bin_rep
+[4.99 MB]  99-ARCHIVE\30-Resources\AI-项目\11-小智\5、小智AI客户资料\4、源代码\烧录工具\flash_download_tool_3.9.7\dl_temp\_temp_by_dltool\downloadPanel6\zhengchen_1.54_wifi_1.0.bin_rep
+[4.99 MB]  99-ARCHIVE\30-Resources\AI-项目\11-小智\5、小智AI客户资料\4、源代码\烧录工具\flash_download_tool_3.9.7\dl_temp\_temp_by_dltool\downloadPanel7\zhengchen_1.54_wifi_1.0.bin_rep
+[4.99 MB]  99-ARCHIVE\30-Resources\AI-项目\11-小智\5、小智AI客户资料\4、源代码\烧录工具\flash_download_tool_3.9.7\dl_temp\_temp_by_dltool\downloadPanel8\zhengchen_1.54_wifi_1.0.bin_rep
+[4.99 MB]  99-ARCHIVE\30-Resources\AI-项目\11-小智\5、小智AI客户资料\4、源代码\烧录工具\flash_download_tool_3.9.7\dl_temp\_temp_by_dltool\downloadPanel9\zhengchen_1.54_wifi_1.0.bin_rep
+[4.99 MB]  99-ARCHIVE\30-Resources\AI-项目\11-小智\5、小智AI客户资料\4、源代码\烧录工具\flash_download_tool_3.9.7\dl_temp\bin_tmp\downloadPanel1\zhengchen_1.54_wifi_1.1.bin_rep
+[4.99 MB]  99-ARCHIVE\30-Resources\AI-项目\11-小智\5、小智AI客户资料\4、源代码\烧录工具\flash_download_tool_3.9.7\dl_temp\bin_tmp\downloadPanel10\zhengchen_1.54_wifi_1.0.bin_rep
+[4.99 MB]  99-ARCHIVE\30-Resources\AI-项目\11-小智\5、小智AI客户资料\4、源代码\烧录工具\flash_download_tool_3.9.7\dl_temp\bin_tmp\downloadPanel2\zhengchen_1.54_wifi_1.0.bin_rep
+[4.99 MB]  99-ARCHIVE\30-Resources\AI-项目\11-小智\5、小智AI客户资料\4、源代码\烧录工具\flash_download_tool_3.9.7\dl_temp\bin_tmp\downloadPanel3\zhengchen_1.54_wifi_1.0.bin_rep
+[4.99 MB]  99-ARCHIVE\30-Resources\AI-项目\11-小智\5、小智AI客户资料\4、源代码\烧录工具\flash_download_tool_3.9.7\dl_temp\bin_tmp\downloadPanel4\zhengchen_1.54_wifi_1.0.bin_rep
+[4.99 MB]  99-ARCHIVE\30-Resources\AI-项目\11-小智\5、小智AI客户资料\4、源代码\烧录工具\flash_download_tool_3.9.7\dl_temp\bin_tmp\downloadPanel5\zhengchen_1.54_wifi_1.0.bin_rep
+[4.99 MB]  99-ARCHIVE\30-Resources\AI-项目\11-小智\5、小智AI客户资料\4、源代码\烧录工具\flash_download_tool_3.9.7\dl_temp\bin_tmp\downloadPanel6\zhengchen_1.54_wifi_1.0.bin_rep
+[4.99 MB]  99-ARCHIVE\30-Resources\AI-项目\11-小智\5、小智AI客户资料\4、源代码\烧录工具\flash_download_tool_3.9.7\dl_temp\bin_tmp\downloadPanel7\zhengchen_1.54_wifi_1.0.bin_rep
+[4.99 MB]  99-ARCHIVE\30-Resources\AI-项目\11-小智\5、小智AI客户资料\4、源代码\烧录工具\flash_download_tool_3.9.7\dl_temp\bin_tmp\downloadPanel8\zhengchen_1.54_wifi_1.0.bin_rep
+[4.99 MB]  99-ARCHIVE\30-Resources\AI-项目\11-小智\5、小智AI客户资料\4、源代码\烧录工具\flash_download_tool_3.9.7\dl_temp\bin_tmp\downloadPanel9\zhengchen_1.54_wifi_1.0.bin_rep
+[1.18 MB]  99-ARCHIVE\30-Resources\AI-项目\11-小智\5、小智AI客户资料\5、3D打印源文件\2、方头方脑版本打印文件\1、Q版\1、安装步骤图\01.png
+[1.25 MB]  99-ARCHIVE\30-Resources\AI-项目\11-小智\5、小智AI客户资料\5、3D打印源文件\2、方头方脑版本打印文件\1、Q版\1、安装步骤图\05.png
+[3.23 MB]  99-ARCHIVE\30-Resources\AI-项目\11-小智\5、小智AI客户资料\5、3D打印源文件\2、方头方脑版本打印文件\1、Q版\1、安装步骤图\接线图 (1).jpg
+[3.04 MB]  99-ARCHIVE\30-Resources\AI-项目\11-小智\5、小智AI客户资料\5、3D打印源文件\2、方头方脑版本打印文件\1、Q版\1、安装步骤图\接线图 (2).jpg
+[1.20 MB]  99-ARCHIVE\30-Resources\AI-项目\11-小智\5、小智AI客户资料\5、3D打印源文件\2、方头方脑版本打印文件\1、Q版\2、打印文件\TFT前盖子.stl
+[1.80 MB]  99-ARCHIVE\30-Resources\AI-项目\11-小智\5、小智AI客户资料\5、3D打印源文件\2、方头方脑版本打印文件\1、Q版\2、打印文件\按键1.stl
+[1.04 MB]  99-ARCHIVE\30-Resources\AI-项目\11-小智\5、小智AI客户资料\5、3D打印源文件\2、方头方脑版本打印文件\1、Q版\2、打印文件\按键2.stl
+[7.37 MB]  99-ARCHIVE\30-Resources\AI-项目\11-小智\5、小智AI客户资料\5、3D打印源文件\2、方头方脑版本打印文件\1、Q版\2、打印文件\后.stl
+[1.45 MB]  99-ARCHIVE\30-Resources\AI-项目\11-小智\5、小智AI客户资料\5、3D打印源文件\2、方头方脑版本打印文件\1、Q版\2、打印文件\前盖子-OLED屏幕.stl
+[16.41 MB]  99-ARCHIVE\30-Resources\AI-项目\11-小智\5、小智AI客户资料\5、3D打印源文件\2、方头方脑版本打印文件\1、Q版\2、打印文件\中间白色.stl
+[2.84 MB]  99-ARCHIVE\30-Resources\AI-项目\11-小智\5、小智AI客户资料\5、3D打印源文件\2、方头方脑版本打印文件\1、Q版\3、实拍图\微信图片_20250412232351.jpg
+[2.84 MB]  99-ARCHIVE\30-Resources\AI-项目\11-小智\5、小智AI客户资料\5、3D打印源文件\2、方头方脑版本打印文件\1、Q版\3、实拍图\微信图片_20250412232352.jpg
+[2.85 MB]  99-ARCHIVE\30-Resources\AI-项目\11-小智\5、小智AI客户资料\5、3D打印源文件\2、方头方脑版本打印文件\1、Q版\3、实拍图\微信图片_20250412232354.jpg
+[1.09 MB]  99-ARCHIVE\30-Resources\AI-项目\11-小智\5、小智AI客户资料\5、3D打印源文件\2、方头方脑版本打印文件\1、Q版\成品展示.png
+[1.22 MB]  99-ARCHIVE\30-Resources\AI-项目\11-小智\5、小智AI客户资料\板子尺寸.dxf
+[76.41 MB]  99-ARCHIVE\40-Archive\历史工作\历史项目\其他\心桥\ffmpeg
+[1.41 MB]  99-ARCHIVE\70-Assets\System\Attachments\16-附件\Pasted image 20251209092006.png
+[8.00 MB]  99-ARCHIVE\70-Assets\System\Attachments\附件\终版：AI演义，36篇论文开启你的探索之旅.pdf
