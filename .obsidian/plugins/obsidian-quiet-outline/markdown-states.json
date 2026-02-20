@@ -399,7 +399,7 @@
     "cursor": {
       "from": {
         "line": 0,
-        "ch": 0
+        "ch": 2
       },
       "to": {
         "line": 0,
@@ -566,12 +566,96 @@
     "scroll": 0,
     "cursor": {
       "from": {
-        "line": 472,
+        "line": 460,
+        "ch": 13
+      },
+      "to": {
+        "line": 460,
+        "ch": 13
+      }
+    },
+    "expandedKeys": []
+  },
+  "04-RESOURCES/PM产品思维/PM/原稿/03-06 演示.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 851,
         "ch": 22
       },
       "to": {
-        "line": 472,
+        "line": 851,
         "ch": 22
+      }
+    },
+    "expandedKeys": []
+  },
+  "04-RESOURCES/PM产品思维/PM/原稿/03-07 泳道图.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 591,
+        "ch": 14
+      },
+      "to": {
+        "line": 456,
+        "ch": 16
+      }
+    },
+    "expandedKeys": []
+  },
+  "04-RESOURCES/PM产品思维/PM/原稿/03-07 泳道图---跨部门流程图.md": {
+    "scroll": 87.875,
+    "cursor": {
+      "from": {
+        "line": 89,
+        "ch": 0
+      },
+      "to": {
+        "line": 89,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "04-RESOURCES/PM产品思维/PM/原稿/03-08.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 0,
+        "ch": 36
+      },
+      "to": {
+        "line": 0,
+        "ch": 36
+      }
+    },
+    "expandedKeys": []
+  },
+  "04-RESOURCES/PM产品思维/PM/原稿/03-08 & 09 Xmind 工具.md": {
+    "scroll": 0.10791604689946341,
+    "cursor": {
+      "from": {
+        "line": 310,
+        "ch": 0
+      },
+      "to": {
+        "line": 5,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "04-RESOURCES/PM产品思维/PM/原稿/03-10.md": {
+    "scroll": 83.58333333333333,
+    "cursor": {
+      "from": {
+        "line": 105,
+        "ch": 11
+      },
+      "to": {
+        "line": 105,
+        "ch": 11
       }
     },
     "expandedKeys": []
