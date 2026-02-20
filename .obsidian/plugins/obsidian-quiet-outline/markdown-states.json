@@ -188,12 +188,26 @@
     "scroll": 0,
     "cursor": {
       "from": {
+        "line": 6,
+        "ch": 14
+      },
+      "to": {
+        "line": 6,
+        "ch": 14
+      }
+    },
+    "expandedKeys": []
+  },
+  "04-RESOURCES/PM产品思维/PM/原稿/02-17.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
         "line": 0,
         "ch": 0
       },
       "to": {
-        "line": 0,
-        "ch": 0
+        "line": 36,
+        "ch": 22
       }
     },
     "expandedKeys": []
