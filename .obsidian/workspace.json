@@ -4,21 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "ceaa68b029b09b93",
+        "id": "9b6e1bf8cba5b086",
         "type": "tabs",
         "children": [
           {
-            "id": "76fb293e76b5f376",
+            "id": "7fa96c66ff7704d2",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "04-RESOURCES/PM产品思维/PM/原稿/02-20.md",
-                "mode": "source",
-                "source": false
+                "file": "04-RESOURCES/PM产品思维/PM/可视化/02-20_需求分析入门-知识图谱.excalidraw.md"
               },
-              "icon": "lucide-file",
-              "title": "02-20"
+              "icon": "excalidraw-icon",
+              "title": "02-20_需求分析入门-知识图谱.excalidraw"
             }
           }
         ]
@@ -198,23 +196,24 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "9abe4040a46c48a5",
+  "active": "7fa96c66ff7704d2",
   "lastOpenFiles": [
+    "04-RESOURCES/PM产品思维/PM/可视化/02-17_需求分析-知识图谱.excalidraw.md",
+    "04-RESOURCES/PM产品思维/PM/可视化/02-20_需求分析入门-知识图谱.excalidraw.md",
+    "04-RESOURCES/PM产品思维/PM/可视化/03_产品经理零基础入门（三）流程图制作精讲课程全套_p03_03.产品经理必备的流程图类型_20260216_163916-课程总览.excalidraw.md",
+    "04-RESOURCES/PM产品思维/PM/原稿/02-20.md",
     "02-20.需求分析入门.excalidraw.md",
     "04-RESOURCES/PM产品思维/PM/原稿/02-19.md",
-    "04-RESOURCES/PM产品思维/PM/原稿/02-20.md",
     "move-large-files.ps1",
     "cleanup-large-files.md",
     "99-ARCHIVE/large-files-manifest.txt",
     "04-RESOURCES/PM产品思维/PM/原稿/02-17.md",
     "04-RESOURCES/PM产品思维/PM/原稿/02-18.md",
-    "04-RESOURCES/PM产品思维/PM/可视化/02-17_需求分析-知识图谱.excalidraw.md",
     "04-RESOURCES/PM产品思维/PM/可视化/02-15_需求池管理-知识图谱.excalidraw.md",
     "04-RESOURCES/PM产品思维/PM/可视化/02-14_竞品分析目的与方法-知识图谱.excalidraw.md",
     "04-RESOURCES/PM产品思维/PM/可视化/02-14_竞品分析-知识图谱.excalidraw.md",
     "04-RESOURCES/PM产品思维/PM/可视化/02-13_kimi竞品定义与分类-知识图谱.excalidraw.md",
     "04-RESOURCES/PM产品思维/PM/可视化/02_产品经理零基础入门（三）流程图制作精讲课程全套_p02_02.产品经理的流程图及案例_20260216_163820-课程总览.excalidraw.md",
-    "04-RESOURCES/PM产品思维/PM/可视化/03_产品经理零基础入门（三）流程图制作精讲课程全套_p03_03.产品经理必备的流程图类型_20260216_163916-课程总览.excalidraw.md",
     "04-RESOURCES/PM产品思维/PM/原稿/02-14.md",
     "04-RESOURCES/PM产品思维/PM/原稿/02-15.md",
     "04-RESOURCES/PM产品思维/PM/原稿/02-16 作业.md",
@@ -240,7 +239,6 @@
     "obsidian-claude-skills/node_modules/moment/src/lib/units/week.js",
     "obsidian-claude-skills/node_modules/moment/src/lib/units/week-year.js",
     "obsidian-claude-skills/node_modules/moment/src/lib/units/week-calendar-utils.js",
-    "obsidian-claude-skills/node_modules/@codemirror/view/CHANGELOG.md",
     "99-ARCHIVE/80-Inbox-分类/临时/Untitled.canvas",
     "99-ARCHIVE/70-Assets/System/Attachments/附件/Pasted image 20251228111648.png",
     "99-ARCHIVE/70-Assets/System/Attachments/附件/Pasted image 20251230155354.png",
