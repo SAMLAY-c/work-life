@@ -2,7 +2,7 @@
 name: pm-lecture-visualizer
 description: Converts PM course lecture transcripts or notes into rich Excalidraw knowledge diagrams for Obsidian. Use when user provides lecture text, course notes, slides, or transcript content and wants visualization. Reads source files from E:\work-life\04-RESOURCES\PM产品思维\PM\原稿 and saves output to E:\work-life\04-RESOURCES\PM产品思维\PM\可视化. Triggers on: 可视化、画图、讲稿转图、笔记转图、思维导图、知识图谱、excalidraw、diagram、flowchart、lecture notes、课程可视化.
 metadata:
-  version: 4.0.0
+  version: 4.0.1
 ---
 
 # PM 课程讲稿可视化生成器
@@ -163,7 +163,7 @@ lineHeight:  1.25
 {
   "type": "excalidraw",
   "version": 2,
-  "source": "https://github.com/zsviczian/obsidian-excalidraw-plugin",
+  "source": "https://github.com/zsviczian/obsidian-excalidraw-plugin  ",
   "elements": [],
   "appState": {
     "gridSize": null,
@@ -173,15 +173,17 @@ lineHeight:  1.25
 }
 ```
 
-### 5.2 元素模板
+### 5.2 元素模板（已修正格式错误）
 
 **普通概念节点（矩形）**：
 ```json
 {
   "id": "node-001",
   "type": "rectangle",
-  "x": 100, "y": 100,
-  "width": 180, "height": 52,
+  "x": 100,
+  "y": 100,
+  "width": 180,
+  "height": 52,
   "angle": 0,
   "strokeColor": "#000000",
   "backgroundColor": "transparent",
@@ -191,15 +193,12 @@ lineHeight:  1.25
   "roughness": 1.5,
   "opacity": 100,
   "groupIds": [],
-  "frameId": null,
-  "index": "a1",
   "roundness": {"type": 3},
   "seed": 100000001,
   "version": 1,
-  "versionNonce": 900000001,
   "isDeleted": false,
-  "boundElements": [{"type": "text", "id": "node-001-label"}],
-  "updated": 1751928342106,
+  "boundElements": null,
+  "updated": 1,
   "link": null,
   "locked": false
 }
@@ -210,12 +209,27 @@ lineHeight:  1.25
 {
   "id": "key-001",
   "type": "rectangle",
+  "x": 100,
+  "y": 100,
+  "width": 180,
+  "height": 52,
+  "angle": 0,
   "strokeColor": "#f59e0b",
   "backgroundColor": "#fef3c7",
   "fillStyle": "solid",
   "strokeWidth": 3,
+  "strokeStyle": "solid",
   "roughness": 1.5,
-  ...
+  "opacity": 100,
+  "groupIds": [],
+  "roundness": {"type": 3},
+  "seed": 100000002,
+  "version": 1,
+  "isDeleted": false,
+  "boundElements": null,
+  "updated": 1,
+  "link": null,
+  "locked": false
 }
 ```
 
@@ -224,12 +238,27 @@ lineHeight:  1.25
 {
   "id": "warn-001",
   "type": "rectangle",
+  "x": 100,
+  "y": 100,
+  "width": 180,
+  "height": 52,
+  "angle": 0,
   "strokeColor": "#ef4444",
   "backgroundColor": "#fee2e2",
   "fillStyle": "solid",
   "strokeWidth": 2,
+  "strokeStyle": "solid",
   "roughness": 1.5,
-  ...
+  "opacity": 100,
+  "groupIds": [],
+  "roundness": {"type": 3},
+  "seed": 100000003,
+  "version": 1,
+  "isDeleted": false,
+  "boundElements": null,
+  "updated": 1,
+  "link": null,
+  "locked": false
 }
 ```
 
@@ -238,14 +267,27 @@ lineHeight:  1.25
 {
   "id": "group-bg-001",
   "type": "rectangle",
+  "x": 50,
+  "y": 50,
+  "width": 500,
+  "height": 300,
+  "angle": 0,
   "strokeColor": "#e2e8f0",
   "backgroundColor": "#f8fafc",
   "fillStyle": "solid",
   "strokeWidth": 1,
   "strokeStyle": "dashed",
   "roughness": 0,
+  "opacity": 100,
+  "groupIds": [],
   "roundness": null,
-  ...
+  "seed": 100000004,
+  "version": 1,
+  "isDeleted": false,
+  "boundElements": null,
+  "updated": 1,
+  "link": null,
+  "locked": false
 }
 ```
 
@@ -254,9 +296,11 @@ lineHeight:  1.25
 {
   "id": "arrow-001",
   "type": "arrow",
-  "x": 280, "y": 126,
-  "width": 120, "height": 0,
-  "points": [[0, 0], [120, 0]],
+  "x": 280,
+  "y": 126,
+  "width": 120,
+  "height": 0,
+  "angle": 0,
   "strokeColor": "#000000",
   "backgroundColor": "transparent",
   "fillStyle": "solid",
@@ -264,42 +308,37 @@ lineHeight:  1.25
   "strokeStyle": "solid",
   "roughness": 1.5,
   "opacity": 100,
-  "startBinding": {"elementId": "node-001", "focus": 0, "gap": 5},
-  "endBinding":   {"elementId": "node-002", "focus": 0, "gap": 5},
-  "startArrowhead": null,
-  "endArrowhead": "arrow",
   "groupIds": [],
-  "frameId": null,
-  "index": "a5",
   "roundness": {"type": 2},
   "seed": 200000001,
   "version": 1,
-  "versionNonce": 800000001,
   "isDeleted": false,
-  "boundElements": [{"type": "text", "id": "arrow-001-label"}],
-  "updated": 1751928342106,
+  "boundElements": null,
+  "updated": 1,
   "link": null,
-  "locked": false
+  "locked": false,
+  "startBinding": null,
+  "endBinding": null,
+  "lastCommittedPoint": null,
+  "startArrowhead": null,
+  "endArrowhead": "arrow",
+  "points": [
+    [0, 0],
+    [120, 0]
+  ]
 }
 ```
 
-**文字标签（附属于节点/箭头）**：
+**文字标签（独立文本）**：
 ```json
 {
-  "id": "node-001-label",
+  "id": "text-001",
   "type": "text",
-  "x": 110, "y": 113,
-  "width": 160, "height": 25,
-  "text": "概念名称",
-  "rawText": "概念名称",
-  "originalText": "概念名称",
-  "fontSize": 16,
-  "fontFamily": 5,
-  "textAlign": "center",
-  "verticalAlign": "middle",
-  "containerId": "node-001",
-  "autoResize": true,
-  "lineHeight": 1.25,
+  "x": 110,
+  "y": 113,
+  "width": 160,
+  "height": 25,
+  "angle": 0,
   "strokeColor": "#374151",
   "backgroundColor": "transparent",
   "fillStyle": "solid",
@@ -308,17 +347,23 @@ lineHeight:  1.25
   "roughness": 1,
   "opacity": 100,
   "groupIds": [],
-  "frameId": null,
-  "index": "a2",
   "roundness": null,
   "seed": 300000001,
   "version": 1,
-  "versionNonce": 700000001,
   "isDeleted": false,
-  "boundElements": [],
-  "updated": 1751928342106,
+  "boundElements": null,
+  "updated": 1,
   "link": null,
-  "locked": false
+  "locked": false,
+  "text": "概念名称",
+  "fontSize": 16,
+  "fontFamily": 5,
+  "textAlign": "center",
+  "verticalAlign": "middle",
+  "containerId": null,
+  "originalText": "概念名称",
+  "autoResize": true,
+  "lineHeight": 1.25
 }
 ```
 
@@ -402,5 +447,5 @@ tags: [excalidraw]
 | 视觉层次 | 至少使用 3 种描边色区分层级 |
 | 分组清晰 | 相关概念已用背景框归组并加标题 |
 | 工业质感 | roughness ≥ 1.5，strokeWidth ≥ 2，fontFamily 5 |
-| JSON 有效性 | 每个元素 ID 唯一，坐标无重叠 |
+| JSON 有效性 | 每个元素 ID 唯一，坐标无重叠，不含禁止字段 |
 | 文本规范 | fontFamily 5，" 已替换，() 已替换 |
