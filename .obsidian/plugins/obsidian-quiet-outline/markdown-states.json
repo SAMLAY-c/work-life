@@ -258,11 +258,11 @@
     "scroll": 0,
     "cursor": {
       "from": {
-        "line": 4,
+        "line": 6,
         "ch": 0
       },
       "to": {
-        "line": 4,
+        "line": 6,
         "ch": 0
       }
     },
@@ -297,15 +297,15 @@
     "expandedKeys": []
   },
   "04-RESOURCES/PM产品思维/PM/未命名.md": {
-    "scroll": 20.67846927062226,
+    "scroll": 22.200520674387615,
     "cursor": {
       "from": {
         "line": 29,
-        "ch": 23
+        "ch": 34
       },
       "to": {
         "line": 29,
-        "ch": 23
+        "ch": 34
       }
     },
     "expandedKeys": []
@@ -334,6 +334,20 @@
       "to": {
         "line": 413,
         "ch": 16
+      }
+    },
+    "expandedKeys": []
+  },
+  "04-RESOURCES/PM产品思维/PM/原稿/02-25.md": {
+    "scroll": 179.6833292643229,
+    "cursor": {
+      "from": {
+        "line": 0,
+        "ch": 0
+      },
+      "to": {
+        "line": 221,
+        "ch": 22
       }
     },
     "expandedKeys": []
