@@ -381,15 +381,15 @@
     "expandedKeys": []
   },
   "04-RESOURCES/PM产品思维/PM/笔记/prd.md": {
-    "scroll": 9.476220342681163,
+    "scroll": 0,
     "cursor": {
       "from": {
-        "line": 12,
-        "ch": 36
+        "line": 0,
+        "ch": 3
       },
       "to": {
-        "line": 12,
-        "ch": 36
+        "line": 0,
+        "ch": 3
       }
     },
     "expandedKeys": []
@@ -403,7 +403,7 @@
       },
       "to": {
         "line": 0,
-        "ch": 0
+        "ch": 2
       }
     },
     "expandedKeys": []
@@ -427,6 +427,76 @@
     "cursor": {
       "from": {
         "line": 0,
+        "ch": 9
+      },
+      "to": {
+        "line": 0,
+        "ch": 9
+      }
+    },
+    "expandedKeys": []
+  },
+  "04-RESOURCES/PM产品思维/PM/原稿/05-11.md": {
+    "scroll": 3.240624842696716,
+    "cursor": {
+      "from": {
+        "line": 16,
+        "ch": 11
+      },
+      "to": {
+        "line": 16,
+        "ch": 11
+      }
+    },
+    "expandedKeys": []
+  },
+  "04-RESOURCES/PM产品思维/PM/原稿/05-14.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 4,
+        "ch": 4
+      },
+      "to": {
+        "line": 4,
+        "ch": 4
+      }
+    },
+    "expandedKeys": []
+  },
+  "04-RESOURCES/PM产品思维/PM/笔记/PRD页面规则模板+方法论.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 1,
+        "ch": 0
+      },
+      "to": {
+        "line": 1,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "04-RESOURCES/PM产品思维/PM/原稿/05-15.md": {
+    "scroll": 345.0166829427083,
+    "cursor": {
+      "from": {
+        "line": 476,
+        "ch": 22
+      },
+      "to": {
+        "line": 476,
+        "ch": 22
+      }
+    },
+    "expandedKeys": []
+  },
+  "04-RESOURCES/AI/README.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 0,
         "ch": 0
       },
       "to": {
@@ -436,16 +506,58 @@
     },
     "expandedKeys": []
   },
-  "04-RESOURCES/PM产品思维/PM/原稿/05-11.md": {
+  "04-RESOURCES/PM产品思维/PM/笔记/prd-总结.md": {
     "scroll": 0,
     "cursor": {
       "from": {
-        "line": 3,
+        "line": 0,
+        "ch": 4
+      },
+      "to": {
+        "line": 0,
+        "ch": 4
+      }
+    },
+    "expandedKeys": []
+  },
+  "04-RESOURCES/PM产品思维/PM/笔记/prd-总结-0.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 0,
+        "ch": 4
+      },
+      "to": {
+        "line": 0,
+        "ch": 4
+      }
+    },
+    "expandedKeys": []
+  },
+  "04-RESOURCES/PM产品思维/PM/笔记/prd分类-交互-.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 1,
         "ch": 36
       },
       "to": {
-        "line": 3,
-        "ch": 36
+        "line": 1,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "04-RESOURCES/PM产品思维/PM/笔记/PRD登录页面规则模板+方法论.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 1,
+        "ch": 0
+      },
+      "to": {
+        "line": 1,
+        "ch": 0
       }
     },
     "expandedKeys": []
