@@ -6,6 +6,7 @@
       {
         "id": "e9c0176dacb7ee4b",
         "type": "tabs",
+        "dimension": 79.83870967741935,
         "children": [
           {
             "id": "310db82433c44a94",
@@ -24,6 +25,7 @@
       {
         "id": "e255478b932c6f7d",
         "type": "tabs",
+        "dimension": 20.161290322580644,
         "children": [
           {
             "id": "44c1c9817a783e52",
@@ -220,6 +222,7 @@
   "active": "44c1c9817a783e52",
   "lastOpenFiles": [
     "04-RESOURCES/PM产品思维/PM/可视化/02-24_需求澄清-知识图谱.excalidraw.md",
+    "04-RESOURCES/PM产品思维/PM/可视化/02-26-知识图谱.excalidraw.md",
     "04-RESOURCES/PM产品思维/PM/未命名.md",
     "04-RESOURCES/PM产品思维/PM/原稿/02-26.md",
     "04-RESOURCES/PM产品思维/PM/可视化/02-25_需求甄别-知识图谱.excalidraw.md",
@@ -246,7 +249,6 @@
     "move-large-files.ps1",
     "cleanup-large-files.md",
     "99-ARCHIVE/large-files-manifest.txt",
-    "04-RESOURCES/PM产品思维/PM/原稿/02-17.md",
     "00_Media/Pasted Image 20260220101223_762.png",
     "00_Media/Pasted Image 20260220100628_620.png",
     "00_Media/Pasted Image 20260220095901_218.png",
