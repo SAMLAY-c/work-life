@@ -11,12 +11,14 @@
             "id": "4b2e12ccf26b41c3",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "04-RESOURCES/PM产品思维/PM/可视化/02-13_codex竞品分析分类方法-知识图谱.excalidraw.md"
+                "file": "04-RESOURCES/PM产品思维/PM/原稿/02-14.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "excalidraw-icon",
-              "title": "02-13_codex竞品分析分类方法-知识图谱.excalidraw"
+              "icon": "lucide-file",
+              "title": "02-14"
             }
           }
         ]
@@ -198,8 +200,12 @@
   },
   "active": "4b2e12ccf26b41c3",
   "lastOpenFiles": [
-    "04-RESOURCES/PM产品思维/PM/原稿/02-13.md",
     "04-RESOURCES/PM产品思维/PM/可视化/02-13_codex竞品分析分类方法-知识图谱.excalidraw.md",
+    "04-RESOURCES/PM产品思维/PM/原稿/02-14.md",
+    "04-RESOURCES/PM产品思维/PM/可视化/02-13_glm4.7竞品分析方法-知识图谱.excalidraw.md",
+    "04-RESOURCES/PM产品思维/PM/可视化/02-13_kimi竞品定义与分类-知识图谱.excalidraw.md",
+    "04-RESOURCES/PM产品思维/PM/可视化/02-13_minimax竞品分析方法-知识图谱.excalidraw.md",
+    "04-RESOURCES/PM产品思维/PM/原稿/02-13.md",
     "04-RESOURCES/PM产品思维/PM/原稿/02- 0 用户访谈.md",
     "04-RESOURCES/PM产品思维/PM/原稿/01-产品设计 & 产品方案.md",
     "04-RESOURCES/PM产品思维/PM/01-产品设计 & 产品方案.canvas",
@@ -231,10 +237,6 @@
     "obsidian-claude-skills/README.md",
     "02-PROJECTS/vibecoding-教程/01-入门篇/第1章-编程思维启蒙/文字教程/1.md",
     "02-PROJECTS/vibecoding-教程/00-项目总览.md",
-    "02-PROJECTS/vibecoding-教程/01-入门篇/README.md",
-    "01-INBOX/1-.md",
-    "04-RESOURCES/PM产品思维/PM/可视化/06_产品经理零基础入门（三）流程图制作精讲课程全套_p06_06.流程图绘制演示_20260216_164104-课程总览.excalidraw.md",
-    "04-RESOURCES/PM产品思维/PM/可视化/04_产品经理零基础入门（三）流程图制作精讲课程全套_p04_04.老司机都在用的流程图平台_20260216_163947-课程总览.excalidraw.md",
     "99-ARCHIVE/80-Inbox-分类/临时/Untitled.canvas",
     "99-ARCHIVE/70-Assets/System/Attachments/附件/Pasted image 20251228111648.png",
     "99-ARCHIVE/70-Assets/System/Attachments/附件/Pasted image 20251230155354.png",
