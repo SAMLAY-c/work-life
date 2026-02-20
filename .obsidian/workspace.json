@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "9b6e1bf8cba5b086",
+        "id": "46e14165331de371",
         "type": "tabs",
         "children": [
           {
-            "id": "7fa96c66ff7704d2",
+            "id": "22bd70ed7c3bee3a",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
@@ -196,21 +196,22 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "7fa96c66ff7704d2",
+  "active": "22bd70ed7c3bee3a",
   "lastOpenFiles": [
+    "04-RESOURCES/PM产品思维/PM/可视化/03_产品经理零基础入门（三）流程图制作精讲课程全套_p03_03.产品经理必备的流程图类型_20260216_163916-课程总览.excalidraw.md",
     "04-RESOURCES/PM产品思维/PM/可视化/02-20_需求分析入门-知识图谱.excalidraw.md",
     "04-RESOURCES/PM产品思维/PM/可视化/02-17_需求分析-知识图谱.excalidraw.md",
-    "04-RESOURCES/PM产品思维/PM/可视化/03_产品经理零基础入门（三）流程图制作精讲课程全套_p03_03.产品经理必备的流程图类型_20260216_163916-课程总览.excalidraw.md",
+    "04-RESOURCES/PM产品思维/PM/可视化/02-15_需求池管理-知识图谱.excalidraw.md",
+    "04-RESOURCES/PM产品思维/PM/可视化/02-14_竞品分析目的与方法-知识图谱.excalidraw.md",
+    "04-RESOURCES/PM产品思维/PM/原稿/02-21.md",
     "04-RESOURCES/PM产品思维/PM/原稿/02-20.md",
-    "02-20.需求分析入门.excalidraw.md",
     "04-RESOURCES/PM产品思维/PM/原稿/02-19.md",
+    "02-20.需求分析入门.excalidraw.md",
     "move-large-files.ps1",
     "cleanup-large-files.md",
     "99-ARCHIVE/large-files-manifest.txt",
     "04-RESOURCES/PM产品思维/PM/原稿/02-17.md",
     "04-RESOURCES/PM产品思维/PM/原稿/02-18.md",
-    "04-RESOURCES/PM产品思维/PM/可视化/02-15_需求池管理-知识图谱.excalidraw.md",
-    "04-RESOURCES/PM产品思维/PM/可视化/02-14_竞品分析目的与方法-知识图谱.excalidraw.md",
     "04-RESOURCES/PM产品思维/PM/可视化/02-14_竞品分析-知识图谱.excalidraw.md",
     "04-RESOURCES/PM产品思维/PM/可视化/02-13_kimi竞品定义与分类-知识图谱.excalidraw.md",
     "04-RESOURCES/PM产品思维/PM/可视化/02_产品经理零基础入门（三）流程图制作精讲课程全套_p02_02.产品经理的流程图及案例_20260216_163820-课程总览.excalidraw.md",
@@ -231,7 +232,6 @@
     "04-RESOURCES/PM产品思维/PM/原稿/02- 0 用户访谈.md",
     "04-RESOURCES/PM产品思维/PM/原稿/01-产品设计 & 产品方案.md",
     "04-RESOURCES/PM产品思维/PM/01-产品设计 & 产品方案.canvas",
-    "02-PROJECTS/vibecoding-教程/与ai共创.md",
     "obsidian-claude-skills/package-lock.json",
     "obsidian-claude-skills/node_modules/moment/src/locale/zh-tw.js",
     "obsidian-claude-skills/node_modules/moment/src/lib/units/year.js",
