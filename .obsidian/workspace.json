@@ -11,12 +11,14 @@
             "id": "4b2e12ccf26b41c3",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "04-RESOURCES/PM产品思维/PM/可视化/02-13_kimi竞品定义与分类-知识图谱.excalidraw.md"
+                "file": "04-RESOURCES/PM产品思维/PM/原稿/02-15.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "excalidraw-icon",
-              "title": "02-13_kimi竞品定义与分类-知识图谱.excalidraw"
+              "icon": "lucide-file",
+              "title": "02-15"
             }
           }
         ]
@@ -76,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 410.5,
-    "collapsed": true
+    "width": 410.5
   },
   "right": {
     "id": "d5791b39732f2bd0",
@@ -200,6 +201,7 @@
   "active": "4b2e12ccf26b41c3",
   "lastOpenFiles": [
     "04-RESOURCES/PM产品思维/PM/可视化/02-14_竞品分析目的与方法-知识图谱.excalidraw.md",
+    "04-RESOURCES/PM产品思维/PM/原稿/02-15.md",
     "04-RESOURCES/PM产品思维/PM/可视化/02-13_kimi竞品定义与分类-知识图谱.excalidraw.md",
     "04-RESOURCES/PM产品思维/PM/可视化/02-13_minimax竞品分析方法-知识图谱.excalidraw.md",
     "04-RESOURCES/PM产品思维/PM/可视化/未命名.md",
@@ -235,7 +237,6 @@
     "obsidian-claude-skills/node_modules/obsidian/CHANGELOG.md",
     "obsidian-claude-skills/node_modules/@types/codemirror/README.md",
     "obsidian-claude-skills/CHANGELOG.md",
-    "obsidian-claude-skills/README.md",
     "99-ARCHIVE/80-Inbox-分类/临时/Untitled.canvas",
     "99-ARCHIVE/70-Assets/System/Attachments/附件/Pasted image 20251228111648.png",
     "99-ARCHIVE/70-Assets/System/Attachments/附件/Pasted image 20251230155354.png",
