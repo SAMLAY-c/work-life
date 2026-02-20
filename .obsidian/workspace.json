@@ -13,10 +13,54 @@
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "04-RESOURCES/PM产品思维/PM/可视化/02-14_竞品分析目的与方法-知识图谱.excalidraw.md"
+                "file": "04-RESOURCES/PM产品思维/PM/可视化/02-15_需求池管理-知识图谱.excalidraw.md"
               },
               "icon": "excalidraw-icon",
-              "title": "02-14_竞品分析目的与方法-知识图谱.excalidraw"
+              "title": "02-15_需求池管理-知识图谱.excalidraw"
+            }
+          }
+        ]
+      },
+      {
+        "id": "5a258689ad300d6f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bf28077bcfbfdc57",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "04-RESOURCES/PM产品思维/PM/可视化/未命名.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "未命名"
+            }
+          },
+          {
+            "id": "bfb23e4f8ed8b5bd",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "04-RESOURCES/PM产品思维/PM/可视化/02-13_kimi竞品定义与分类-知识图谱.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "02-13_kimi竞品定义与分类-知识图谱.excalidraw"
+            }
+          },
+          {
+            "id": "ab5d592c333bf634",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "04-RESOURCES/PM产品思维/PM/可视化/02-13_kimi竞品定义与分类-知识图谱.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "02-13_kimi竞品定义与分类-知识图谱.excalidraw"
             }
           }
         ]
@@ -76,8 +120,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 410.5,
-    "collapsed": true
+    "width": 410.5
   },
   "right": {
     "id": "d5791b39732f2bd0",
@@ -197,13 +240,16 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "4b2e12ccf26b41c3",
+  "active": "bf28077bcfbfdc57",
   "lastOpenFiles": [
-    "04-RESOURCES/PM产品思维/PM/可视化/02-13_kimi竞品定义与分类-知识图谱.excalidraw.md",
-    "04-RESOURCES/PM产品思维/PM/可视化/未命名.md",
     "04-RESOURCES/PM产品思维/PM/可视化/02-15_需求池管理-知识图谱.excalidraw.md",
-    "04-RESOURCES/PM产品思维/PM/原稿/02-15.md",
     "04-RESOURCES/PM产品思维/PM/可视化/02-14_竞品分析目的与方法-知识图谱.excalidraw.md",
+    "04-RESOURCES/PM产品思维/PM/可视化/未命名.md",
+    "04-RESOURCES/PM产品思维/PM/可视化/02-13_kimi竞品定义与分类-知识图谱.excalidraw.md",
+    "00_Media/Pasted Image 20260220095901_218.png",
+    "00_Media/Pasted Image 20260220095757_148.png",
+    "00_Media",
+    "04-RESOURCES/PM产品思维/PM/原稿/02-15.md",
     "04-RESOURCES/PM产品思维/PM/可视化/02-13_minimax竞品分析方法-知识图谱.excalidraw.md",
     "04-RESOURCES/PM产品思维/PM/原稿/02-14.md",
     "04-RESOURCES/PM产品思维/PM/可视化/02-13_codex竞品分析分类方法-知识图谱.excalidraw.md",
@@ -222,7 +268,6 @@
     "obsidian-claude-skills/node_modules/moment/src/lib/units/week-calendar-utils.js",
     "obsidian-claude-skills/node_modules/moment/src/locale/vi.js",
     "obsidian-claude-skills/node_modules/moment/src/lib/create/utc.js",
-    "obsidian-claude-skills/node_modules/moment/src/locale/ur.js",
     "obsidian-claude-skills/node_modules/@codemirror/view/CHANGELOG.md",
     "obsidian-claude-skills/node_modules/esbuild/README.md",
     "obsidian-claude-skills/node_modules/style-mod/README.md",
@@ -235,7 +280,6 @@
     "obsidian-claude-skills/node_modules/@types/node/README.md",
     "obsidian-claude-skills/node_modules/@types/tern/README.md",
     "obsidian-claude-skills/node_modules/obsidian/CHANGELOG.md",
-    "obsidian-claude-skills/node_modules/@types/codemirror/README.md",
     "99-ARCHIVE/80-Inbox-分类/临时/Untitled.canvas",
     "99-ARCHIVE/70-Assets/System/Attachments/附件/Pasted image 20251228111648.png",
     "99-ARCHIVE/70-Assets/System/Attachments/附件/Pasted image 20251230155354.png",
@@ -245,8 +289,6 @@
     "99-ARCHIVE/70-Assets/System/Attachments/附件/Pasted Image 20251228110756_561.png",
     "99-ARCHIVE/70-Assets/System/Attachments/附件/Pasted Image 20251220112200_585.png",
     "99-ARCHIVE/70-Assets/System/Attachments/附件/Pasted Image 20251220111644_611.png",
-    "99-ARCHIVE/70-Assets/System/Attachments/16-附件/Pasted image 20251209092006.png",
-    "99-ARCHIVE/70-Assets/System/Attachments/16-附件/Pasted image 20251209091847.png",
     "99-ARCHIVE/40-Archive/历史工作/锦书在线/未命名.canvas",
     "99-ARCHIVE/30-Resources/AI-知识/Bilibili_Library/Bilibili_Knowledge_Map.canvas",
     "PM/01-产品设计 & 产品方案.canvas",
