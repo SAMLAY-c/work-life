@@ -11,12 +11,14 @@
             "id": "bf28077bcfbfdc57",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "04-RESOURCES/PM产品思维/PM/可视化/02-15_需求池管理-知识图谱.excalidraw.md"
+                "file": "04-RESOURCES/PM产品思维/PM/原稿/02-16 作业.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "excalidraw-icon",
-              "title": "02-15_需求池管理-知识图谱.excalidraw"
+              "icon": "lucide-file",
+              "title": "02-16 作业"
             }
           },
           {
@@ -100,8 +102,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 410.5,
-    "collapsed": true
+    "width": 410.5
   },
   "right": {
     "id": "d5791b39732f2bd0",
@@ -223,9 +224,11 @@
   },
   "active": "bf28077bcfbfdc57",
   "lastOpenFiles": [
+    "04-RESOURCES/PM产品思维/PM/可视化/02-15_需求池管理-知识图谱.excalidraw.md",
+    "04-RESOURCES/PM产品思维/PM/原稿/02-16 作业.md",
+    "00_Media/Pasted Image 20260220101223_762.png",
     "00_Media/Pasted Image 20260220100628_620.png",
     "04-RESOURCES/PM产品思维/PM/可视化/02-14_竞品分析目的与方法-知识图谱.excalidraw.md",
-    "04-RESOURCES/PM产品思维/PM/可视化/02-15_需求池管理-知识图谱.excalidraw.md",
     "04-RESOURCES/PM产品思维/PM/可视化/未命名.md",
     "04-RESOURCES/PM产品思维/PM/可视化/02-13_kimi竞品定义与分类-知识图谱.excalidraw.md",
     "00_Media/Pasted Image 20260220095901_218.png",
@@ -269,8 +272,6 @@
     "99-ARCHIVE/70-Assets/System/Attachments/附件/Pasted Image 20251228110756_441.png",
     "99-ARCHIVE/70-Assets/System/Attachments/附件/Pasted Image 20251228110756_569.png",
     "99-ARCHIVE/70-Assets/System/Attachments/附件/Pasted Image 20251228110756_561.png",
-    "99-ARCHIVE/70-Assets/System/Attachments/附件/Pasted Image 20251220112200_585.png",
-    "99-ARCHIVE/70-Assets/System/Attachments/附件/Pasted Image 20251220111644_611.png",
     "99-ARCHIVE/40-Archive/历史工作/锦书在线/未命名.canvas",
     "99-ARCHIVE/30-Resources/AI-知识/Bilibili_Library/Bilibili_Knowledge_Map.canvas",
     "PM/01-产品设计 & 产品方案.canvas",
