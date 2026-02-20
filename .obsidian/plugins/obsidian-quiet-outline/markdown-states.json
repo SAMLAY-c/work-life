@@ -87,15 +87,29 @@
     "expandedKeys": []
   },
   "04-RESOURCES/PM产品思维/PM/原稿/02-14.md": {
+    "scroll": 541.6166585286459,
+    "cursor": {
+      "from": {
+        "line": 545,
+        "ch": 16
+      },
+      "to": {
+        "line": 545,
+        "ch": 16
+      }
+    },
+    "expandedKeys": []
+  },
+  "04-RESOURCES/PM产品思维/PM/可视化/未命名.md": {
     "scroll": 0,
     "cursor": {
       "from": {
-        "line": 0,
+        "line": 7,
         "ch": 0
       },
       "to": {
-        "line": 22,
-        "ch": 22
+        "line": 7,
+        "ch": 0
       }
     },
     "expandedKeys": []
