@@ -427,11 +427,11 @@
     "cursor": {
       "from": {
         "line": 0,
-        "ch": 9
+        "ch": 0
       },
       "to": {
         "line": 0,
-        "ch": 9
+        "ch": 0
       }
     },
     "expandedKeys": []
@@ -608,12 +608,12 @@
     "scroll": 87.875,
     "cursor": {
       "from": {
-        "line": 89,
+        "line": 0,
         "ch": 0
       },
       "to": {
-        "line": 89,
-        "ch": 0
+        "line": 763,
+        "ch": 22
       }
     },
     "expandedKeys": []
@@ -636,7 +636,7 @@
     "scroll": 0.10791604689946341,
     "cursor": {
       "from": {
-        "line": 310,
+        "line": 5,
         "ch": 0
       },
       "to": {
@@ -647,7 +647,7 @@
     "expandedKeys": []
   },
   "04-RESOURCES/PM产品思维/PM/原稿/03-10.md": {
-    "scroll": 0,
+    "scroll": 1.0833333333333333,
     "cursor": {
       "from": {
         "line": 0,
@@ -703,15 +703,71 @@
     "expandedKeys": []
   },
   "04-RESOURCES/PM产品思维/PM/笔记/03-10 产品经理结构图制作：模板 + 方法论.md": {
-    "scroll": 124.89582935969035,
+    "scroll": 93.24285707019624,
     "cursor": {
       "from": {
-        "line": 116,
-        "ch": 7
+        "line": 173,
+        "ch": 0
       },
       "to": {
-        "line": 116,
-        "ch": 7
+        "line": 173,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "04-RESOURCES/PM产品思维/PM/笔记/05-prd分类-交互-.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 0,
+        "ch": 0
+      },
+      "to": {
+        "line": 0,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "04-RESOURCES/PM产品思维/PM/原稿/03-05 流程图.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 0,
+        "ch": 0
+      },
+      "to": {
+        "line": 472,
+        "ch": 22
+      }
+    },
+    "expandedKeys": []
+  },
+  "04-RESOURCES/PM产品思维/PM/笔记/03-05 流程图.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 15,
+        "ch": 0
+      },
+      "to": {
+        "line": 15,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "04-RESOURCES/PM产品思维/PM/笔记/03-07 泳道图.md": {
+    "scroll": 41.205206712087,
+    "cursor": {
+      "from": {
+        "line": 79,
+        "ch": 0
+      },
+      "to": {
+        "line": 79,
+        "ch": 0
       }
     },
     "expandedKeys": []
