@@ -104,12 +104,12 @@
     "scroll": 0,
     "cursor": {
       "from": {
-        "line": 7,
-        "ch": 0
+        "line": 6,
+        "ch": 69
       },
       "to": {
-        "line": 7,
-        "ch": 0
+        "line": 6,
+        "ch": 69
       }
     },
     "expandedKeys": []
