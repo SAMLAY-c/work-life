@@ -11,6 +11,24 @@
             "id": "310db82433c44a94",
             "type": "leaf",
             "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "04-RESOURCES/PM产品思维/PM/可视化/02-24_需求澄清-知识图谱.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "02-24_需求澄清-知识图谱.excalidraw"
+            }
+          }
+        ]
+      },
+      {
+        "id": "e255478b932c6f7d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "44c1c9817a783e52",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
                 "file": "04-RESOURCES/PM产品思维/PM/未命名.md",
@@ -199,13 +217,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "310db82433c44a94",
+  "active": "44c1c9817a783e52",
   "lastOpenFiles": [
+    "04-RESOURCES/PM产品思维/PM/可视化/02-24_需求澄清-知识图谱.excalidraw.md",
+    "04-RESOURCES/PM产品思维/PM/未命名.md",
+    "04-RESOURCES/PM产品思维/PM/原稿/02-26.md",
     "04-RESOURCES/PM产品思维/PM/可视化/02-25_需求甄别-知识图谱.excalidraw.md",
     "04-RESOURCES/PM产品思维/PM/原稿/02-25.md",
     "04-RESOURCES/PM产品思维/PM/可视化/02-20_需求分析入门-知识图谱.excalidraw.md",
-    "04-RESOURCES/PM产品思维/PM/未命名.md",
-    "04-RESOURCES/PM产品思维/PM/可视化/02-24_需求澄清-知识图谱.excalidraw.md",
     "04-RESOURCES/PM产品思维/PM/可视化/02-19_需求分析实战场景-知识图谱.excalidraw.md",
     "04-RESOURCES/PM产品思维/PM/原稿/02-24.md",
     "04-RESOURCES/PM产品思维/PM/原稿/02-21.md",
@@ -228,7 +247,6 @@
     "cleanup-large-files.md",
     "99-ARCHIVE/large-files-manifest.txt",
     "04-RESOURCES/PM产品思维/PM/原稿/02-17.md",
-    "04-RESOURCES/PM产品思维/PM/原稿/02-14.md",
     "00_Media/Pasted Image 20260220101223_762.png",
     "00_Media/Pasted Image 20260220100628_620.png",
     "00_Media/Pasted Image 20260220095901_218.png",
