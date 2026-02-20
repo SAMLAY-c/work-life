@@ -745,15 +745,15 @@
     "expandedKeys": []
   },
   "04-RESOURCES/PM产品思维/PM/笔记/03-05 流程图.md": {
-    "scroll": 0,
+    "scroll": 63.75416564941406,
     "cursor": {
       "from": {
-        "line": 15,
-        "ch": 0
+        "line": 73,
+        "ch": 49
       },
       "to": {
-        "line": 15,
-        "ch": 0
+        "line": 73,
+        "ch": 49
       }
     },
     "expandedKeys": []
@@ -913,7 +913,7 @@
     "expandedKeys": []
   },
   "04-RESOURCES/PM产品思维/PM/笔记/03-13 产品结构图.md": {
-    "scroll": 99.75207837422688,
+    "scroll": 0,
     "cursor": {
       "from": {
         "line": 114,
@@ -973,11 +973,67 @@
     "cursor": {
       "from": {
         "line": 14,
-        "ch": 185
+        "ch": 120
       },
       "to": {
         "line": 14,
-        "ch": 185
+        "ch": 120
+      }
+    },
+    "expandedKeys": []
+  },
+  "04-RESOURCES/PM产品思维/PM/笔记/05-15.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 0,
+        "ch": 0
+      },
+      "to": {
+        "line": 0,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "04-RESOURCES/PM产品思维/PM/笔记/05-15-PRD个人中心页面规则模板+方法论.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 111,
+        "ch": 114
+      },
+      "to": {
+        "line": 111,
+        "ch": 114
+      }
+    },
+    "expandedKeys": []
+  },
+  "04-RESOURCES/PM产品思维/PM/笔记/05-10-PRD登录页面规则模板+方法论.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 0,
+        "ch": 0
+      },
+      "to": {
+        "line": 0,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "conflict-files-obsidian-git.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 17,
+        "ch": 3
+      },
+      "to": {
+        "line": 17,
+        "ch": 3
       }
     },
     "expandedKeys": []
