@@ -399,7 +399,7 @@
     "cursor": {
       "from": {
         "line": 0,
-        "ch": 2
+        "ch": 0
       },
       "to": {
         "line": 0,
@@ -767,6 +767,188 @@
       },
       "to": {
         "line": 79,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "04-RESOURCES/PM产品思维/PM/笔记/03-10 功能结构图制作：模板 + 方法论.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 135,
+        "ch": 17
+      },
+      "to": {
+        "line": 135,
+        "ch": 17
+      }
+    },
+    "expandedKeys": []
+  },
+  "04-RESOURCES/PM产品思维/PM/笔记/📋 产品经理结构图制作：模板 + 方法论提取.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 7,
+        "ch": 8
+      },
+      "to": {
+        "line": 7,
+        "ch": 8
+      }
+    },
+    "expandedKeys": []
+  },
+  "04-RESOURCES/PM产品思维/PM/笔记/📋 产品经理结构图制作：流程图.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 7,
+        "ch": 8
+      },
+      "to": {
+        "line": 7,
+        "ch": 13
+      }
+    },
+    "expandedKeys": []
+  },
+  "04-RESOURCES/PM产品思维/PM/笔记/📋 产品经理结构图制作：功能结构图+.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 111,
+        "ch": 26
+      },
+      "to": {
+        "line": 111,
+        "ch": 31
+      }
+    },
+    "expandedKeys": []
+  },
+  "04-RESOURCES/PM产品思维/PM/笔记/📋 产品经理结构图制作：功能结构图+信息结构图+.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 111,
+        "ch": 40
+      },
+      "to": {
+        "line": 111,
+        "ch": 45
+      }
+    },
+    "expandedKeys": []
+  },
+  "04-RESOURCES/PM产品思维/PM/笔记/📋 产品经理结构图制作：功能结构图+信息结构图+产品结构图.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 108,
+        "ch": 0
+      },
+      "to": {
+        "line": 108,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "04-RESOURCES/PM产品思维/PM/笔记/03-📋 产品经理结构图制作：功能结构图+信息结构图+产品结构图.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 2,
+        "ch": 0
+      },
+      "to": {
+        "line": 2,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "04-RESOURCES/PM产品思维/PM/笔记/03-11 产品经理结构图制作：功能结构图+信息结构图+产品结构图.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 0,
+        "ch": 0
+      },
+      "to": {
+        "line": 0,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "04-RESOURCES/PM产品思维/PM/笔记/03-11 功能结构图+信息结构图+产品结构图.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 5,
+        "ch": 13
+      },
+      "to": {
+        "line": 5,
+        "ch": 13
+      }
+    },
+    "expandedKeys": []
+  },
+  "04-RESOURCES/PM产品思维/PM/笔记/03-12 产品结构图.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 4,
+        "ch": 43
+      },
+      "to": {
+        "line": 4,
+        "ch": 43
+      }
+    },
+    "expandedKeys": []
+  },
+  "04-RESOURCES/PM产品思维/PM/笔记/03-13 产品结构图.md": {
+    "scroll": 99.75207837422688,
+    "cursor": {
+      "from": {
+        "line": 114,
+        "ch": 56
+      },
+      "to": {
+        "line": 114,
+        "ch": 56
+      }
+    },
+    "expandedKeys": []
+  },
+  "04-RESOURCES/PM产品思维/PM/原稿/03-12.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 0,
+        "ch": 0
+      },
+      "to": {
+        "line": 0,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "04-RESOURCES/PM产品思维/PM/原稿/03-13.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 165,
+        "ch": 0
+      },
+      "to": {
+        "line": 165,
         "ch": 0
       }
     },
