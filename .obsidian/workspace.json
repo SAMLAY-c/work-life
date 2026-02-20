@@ -11,12 +11,14 @@
             "id": "44c1c9817a783e52",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "04-RESOURCES/PM产品思维/PM/可视化/04_产品经理零基础入门（三）流程图制作精讲课程全套_p04_04.老司机都在用的流程图平台_20260216_163947-课程总览.excalidraw.md"
+                "file": "04-RESOURCES/PM产品思维/PM/笔记/prd.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "excalidraw-icon",
-              "title": "04_产品经理零基础入门（三）流程图制作精讲课程全套_p04_04.老司机都在用的流程图平台_20260216_163947-课程总览.excalidraw"
+              "icon": "lucide-file",
+              "title": "prd"
             }
           }
         ]
@@ -76,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 263.5
   },
   "right": {
     "id": "d5791b39732f2bd0",
@@ -198,33 +200,34 @@
   },
   "active": "44c1c9817a783e52",
   "lastOpenFiles": [
+    "00_Media/Pasted image 20260220183355.png",
+    "00_Media/Pasted image 20260220183322.png",
+    "04-RESOURCES/PM产品思维/PM/原稿/未命名.md",
+    "04-RESOURCES/PM产品思维/PM/笔记/prd.md",
+    "04-RESOURCES/PM产品思维/PM/可视化/04_产品经理零基础入门（三）流程图制作精讲课程全套_p04_04.老司机都在用的流程图平台_20260216_163947-课程总览.excalidraw.md",
+    "04-RESOURCES/PM产品思维/PM/可视化/06_产品经理零基础入门（三）流程图制作精讲课程全套_p06_06.流程图绘制演示_20260216_164104-课程总览.excalidraw.md",
+    "04-RESOURCES/PM产品思维/PM/可视化/03_产品经理零基础入门（三）流程图制作精讲课程全套_p03_03.产品经理必备的流程图类型_20260216_163916-课程总览.excalidraw.md",
+    "04-RESOURCES/PM产品思维/PM/可视化/02-26-知识图谱.excalidraw.md",
+    "04-RESOURCES/PM产品思维/PM/可视化/02-24_需求澄清-知识图谱.excalidraw.md",
+    "04-RESOURCES/PM产品思维/PM/可视化/02-20_需求分析入门-知识图谱.excalidraw.md",
+    "04-RESOURCES/PM产品思维/PM/可视化/02-19_需求分析实战场景-知识图谱.excalidraw.md",
+    "04-RESOURCES/PM产品思维/PM/可视化/02-18_需求分析时机-知识图谱.excalidraw.md",
     "04-RESOURCES/PM产品思维/PM/可视化/02-17_需求分析-知识图谱.excalidraw.md",
+    "04-RESOURCES/PM产品思维/PM/可视化/02-15_需求池管理-知识图谱.excalidraw.md",
     "04-RESOURCES/PM产品思维/PM/可视化/02-14_竞品分析目的与方法-知识图谱.excalidraw.md",
     "04-RESOURCES/PM产品思维/PM/可视化/02-13_kimi竞品定义与分类-知识图谱.excalidraw.md",
     "04-RESOURCES/PM产品思维/PM/可视化/02_产品经理零基础入门（三）流程图制作精讲课程全套_p02_02.产品经理的流程图及案例_20260216_163820-课程总览.excalidraw.md",
+    "04-RESOURCES/PM产品思维/PM/可视化/01_产品经理零基础入门（三）流程图制作精讲课程全套_p01_01.流程图学习目标_20260216_163741-课程总览.excalidraw.md",
+    "04-RESOURCES/PM产品思维/PM/岗位认知/1.md",
     "04-RESOURCES/PM产品思维/PM/可视化/02-14_竞品分析-知识图谱.excalidraw.md",
-    "04-RESOURCES/PM产品思维/PM/可视化/02-15_需求池管理-知识图谱.excalidraw.md",
     "04-RESOURCES/PM产品思维/PM/未命名.md",
-    "04-RESOURCES/PM产品思维/PM/可视化/02-24_需求澄清-知识图谱.excalidraw.md",
-    "04-RESOURCES/PM产品思维/PM/可视化/02-26-知识图谱.excalidraw.md",
     "04-RESOURCES/PM产品思维/PM/原稿/02-26.md",
     "04-RESOURCES/PM产品思维/PM/可视化/02-25_需求甄别-知识图谱.excalidraw.md",
     "04-RESOURCES/PM产品思维/PM/原稿/02-25.md",
-    "04-RESOURCES/PM产品思维/PM/可视化/02-20_需求分析入门-知识图谱.excalidraw.md",
-    "04-RESOURCES/PM产品思维/PM/可视化/02-19_需求分析实战场景-知识图谱.excalidraw.md",
     "04-RESOURCES/PM产品思维/PM/原稿/02-24.md",
     "04-RESOURCES/PM产品思维/PM/原稿/02-21.md",
     "04-RESOURCES/PM产品思维/PM/原稿/02-20.md",
-    "04-RESOURCES/PM产品思维/PM/可视化/02-18_需求分析时机-知识图谱.excalidraw.md",
-    "04-RESOURCES/PM产品思维/PM/原稿/02-19.md",
-    "04-RESOURCES/PM产品思维/PM/原稿/02-18.md",
-    "04-RESOURCES/PM产品思维/PM/可视化/03_产品经理零基础入门（三）流程图制作精讲课程全套_p03_03.产品经理必备的流程图类型_20260216_163916-课程总览.excalidraw.md",
-    "04-RESOURCES/PM产品思维/PM/可视化/06_产品经理零基础入门（三）流程图制作精讲课程全套_p06_06.流程图绘制演示_20260216_164104-课程总览.excalidraw.md",
-    "04-RESOURCES/PM产品思维/PM/可视化/04_产品经理零基础入门（三）流程图制作精讲课程全套_p04_04.老司机都在用的流程图平台_20260216_163947-课程总览.excalidraw.md",
-    "04-RESOURCES/PM产品思维/PM/可视化/01_产品经理零基础入门（三）流程图制作精讲课程全套_p01_01.流程图学习目标_20260216_163741-课程总览.excalidraw.md",
-    "02-20.需求分析入门.excalidraw.md",
     "move-large-files.ps1",
-    "cleanup-large-files.md",
     "99-ARCHIVE/large-files-manifest.txt",
     "00_Media/Pasted Image 20260220101223_762.png",
     "00_Media/Pasted Image 20260220100628_620.png",
@@ -245,7 +248,6 @@
     "99-ARCHIVE/70-Assets/System/Attachments/附件/Pasted image 20251228111618.png",
     "99-ARCHIVE/70-Assets/System/Attachments/附件/Pasted Image 20251228110756_441.png",
     "99-ARCHIVE/70-Assets/System/Attachments/附件/Pasted Image 20251228110756_569.png",
-    "99-ARCHIVE/70-Assets/System/Attachments/附件/Pasted Image 20251228110756_561.png",
     "99-ARCHIVE/40-Archive/历史工作/锦书在线/未命名.canvas",
     "99-ARCHIVE/30-Resources/AI-知识/Bilibili_Library/Bilibili_Knowledge_Map.canvas",
     "PM/01-产品设计 & 产品方案.canvas",
