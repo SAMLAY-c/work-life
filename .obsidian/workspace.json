@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "04-RESOURCES/PM产品思维/PM/原稿/05-15.md",
+                "file": "04-RESOURCES/PM产品思维/PM/笔记/03-05 流程图.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "05-15"
+              "title": "03-05 流程图"
             }
           }
         ]
@@ -200,6 +200,18 @@
   },
   "active": "ba3019053b86c7a6",
   "lastOpenFiles": [
+    "04-RESOURCES/PM产品思维/PM/笔记/未命名.md",
+    "04-RESOURCES/PM产品思维/PM/笔记/05-PRD个人中心页面规则模板+方法论.md",
+    "02-PROJECTS/副业-故事生成系统/故事生成系统 - 完整工作流程.pdf",
+    "04-RESOURCES/PM产品思维/PM/笔记/03-07 泳道图.md",
+    "04-RESOURCES/PM产品思维/PM/笔记/03-10 功能结构图制作：模板 + 方法论.md",
+    "04-RESOURCES/PM产品思维/PM/笔记/03-13 产品结构图.md",
+    "04-RESOURCES/PM产品思维/PM/笔记/05-10-PRD登录页面规则模板+方法论.md",
+    "04-RESOURCES/PM产品思维/PM/笔记/05-15-PRD个人中心页面规则模板+方法论.md",
+    "04-RESOURCES/PM产品思维/PM/笔记/05-prd分类-交互-.md",
+    "04-RESOURCES/PM产品思维/PM/可视化/05-15-知识图谱-v2.excalidraw.md",
+    "04-RESOURCES/PM产品思维/PM/笔记/05-15.md",
+    "04-RESOURCES/PM产品思维/PM/原稿/05-15.md",
     "04-RESOURCES/PM产品思维/PM/原稿/05-16.md",
     "10-Projects/飞书/code/node_modules/has-tostringtag/test/shams/get-own-property-symbols.js",
     "10-Projects/飞书/code/node_modules/has-tostringtag/test/shams/core-js.js",
@@ -211,7 +223,6 @@
     "10-Projects/飞书/code/node_modules/has-tostringtag/shams.js",
     "10-Projects/飞书/code/node_modules/has-tostringtag/shams.d.ts",
     "10-Projects/飞书/code/node_modules/has-tostringtag/README.md",
-    "10-Projects/飞书/code/node_modules/has-tostringtag/index.d.ts",
     "10-Projects/飞书/code/node_modules/has-tostringtag/CHANGELOG.md",
     "10-Projects/飞书/code/node_modules/has-symbols/README.md",
     "10-Projects/飞书/code/node_modules/has-symbols/CHANGELOG.md",
@@ -225,17 +236,6 @@
     "10-Projects/飞书/code/node_modules/function-bind/CHANGELOG.md",
     "10-Projects/飞书/code/node_modules/fresh/README.md",
     "10-Projects/飞书/code/node_modules/fresh/HISTORY.md",
-    "10-Projects/飞书/code/node_modules/forwarded/README.md",
-    "10-Projects/飞书/code/node_modules/forwarded/HISTORY.md",
-    "10-Projects/飞书/code/node_modules/form-data/node_modules/mime-types/README.md",
-    "10-Projects/飞书/code/node_modules/form-data/node_modules/mime-db/README.md",
-    "10-Projects/飞书/code/node_modules/form-data/node_modules/mime-types/HISTORY.md",
-    "10-Projects/飞书/code/node_modules/form-data/node_modules/mime-db/HISTORY.md",
-    "10-Projects/飞书/code/node_modules/form-data/README.md",
-    "10-Projects/飞书/code/node_modules/form-data/CHANGELOG.md",
-    "10-Projects/飞书/code/node_modules/follow-redirects/README.md",
-    "10-Projects/飞书/code/node_modules/finalhandler/README.md",
-    "10-Projects/飞书/code/node_modules/finalhandler/HISTORY.md",
     "00_Media/Pasted image 20260220194352.png",
     "00_Media/Pasted image 20260220194337.png",
     "00_Media/Pasted image 20260220193555.png",
