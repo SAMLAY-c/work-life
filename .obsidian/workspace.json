@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "557544e53b101514",
+        "id": "96344d4326c1b0f5",
         "type": "tabs",
         "children": [
           {
-            "id": "50801e599babc41c",
+            "id": "4b2e12ccf26b41c3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02-PROJECTS/vibecoding-教程/与ai共创.md",
+                "file": "04-RESOURCES/PM产品思维/PM/原稿/02-13.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "与ai共创"
+              "title": "02-13"
             }
           }
         ]
@@ -197,8 +197,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "50801e599babc41c",
+  "active": "4b2e12ccf26b41c3",
   "lastOpenFiles": [
+    "04-RESOURCES/PM产品思维/PM/原稿/02- 0 用户访谈.md",
+    "04-RESOURCES/PM产品思维/PM/原稿/02-13.md",
+    "04-RESOURCES/PM产品思维/PM/原稿/01-产品设计 & 产品方案.md",
+    "04-RESOURCES/PM产品思维/PM/01-产品设计 & 产品方案.canvas",
+    "02-PROJECTS/vibecoding-教程/与ai共创.md",
     "obsidian-claude-skills/package-lock.json",
     "obsidian-claude-skills/node_modules/moment/src/locale/zh-tw.js",
     "obsidian-claude-skills/node_modules/moment/src/lib/units/year.js",
@@ -209,7 +214,6 @@
     "obsidian-claude-skills/node_modules/moment/src/locale/vi.js",
     "obsidian-claude-skills/node_modules/moment/src/lib/create/utc.js",
     "obsidian-claude-skills/node_modules/moment/src/locale/ur.js",
-    "obsidian-claude-skills/node_modules/moment/src/lib/units/units.js",
     "obsidian-claude-skills/node_modules/@codemirror/view/CHANGELOG.md",
     "obsidian-claude-skills/node_modules/esbuild/README.md",
     "obsidian-claude-skills/node_modules/style-mod/README.md",
@@ -226,16 +230,12 @@
     "obsidian-claude-skills/CHANGELOG.md",
     "obsidian-claude-skills/README.md",
     "02-PROJECTS/vibecoding-教程/01-入门篇/第1章-编程思维启蒙/文字教程/1.md",
-    "02-PROJECTS/vibecoding-教程/与ai共创.md",
     "02-PROJECTS/vibecoding-教程/00-项目总览.md",
-    "04-RESOURCES/PM产品思维/PM/原稿/02- 0 用户访谈.md",
     "02-PROJECTS/vibecoding-教程/01-入门篇/README.md",
     "01-INBOX/1-.md",
     "04-RESOURCES/PM产品思维/PM/可视化/06_产品经理零基础入门（三）流程图制作精讲课程全套_p06_06.流程图绘制演示_20260216_164104-课程总览.excalidraw.md",
     "04-RESOURCES/PM产品思维/PM/可视化/04_产品经理零基础入门（三）流程图制作精讲课程全套_p04_04.老司机都在用的流程图平台_20260216_163947-课程总览.excalidraw.md",
     "04-RESOURCES/PM产品思维/PM/可视化/03_产品经理零基础入门（三）流程图制作精讲课程全套_p03_03.产品经理必备的流程图类型_20260216_163916-课程总览.excalidraw.md",
-    "03-AREAS/编程学习/JavaScript基础/README.md",
-    "04-RESOURCES/PM产品思维/PM/01-产品设计 & 产品方案.canvas",
     "99-ARCHIVE/80-Inbox-分类/临时/Untitled.canvas",
     "99-ARCHIVE/70-Assets/System/Attachments/附件/Pasted image 20251228111648.png",
     "99-ARCHIVE/70-Assets/System/Attachments/附件/Pasted image 20251230155354.png",
