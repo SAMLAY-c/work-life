@@ -404,6 +404,66 @@ tags: [excalidraw]
 
 ---
 
+## 常见问题排查（重要）
+
+### 问题：切换到 Excalidraw View 后显示空白
+
+**现象**：文件能打开，但切换到 Excalidraw View 后画布空白，没有任何元素。
+
+**根本原因**：
+1. **`index` 字段干扰**：JSON 元素中的 `index` 字段（如 `"index": "a1"`）可能导致 Obsidian Excalidraw 插件解析失败
+2. **`boundElements` 引用无效**：如果 `boundElements` 引用了不存在的元素 ID，会导致整个绘图失败
+3. **ID 不匹配**：Text Elements 区域的 `^标记` 必须与 JSON 元素的 `id` 字段完全匹配（区分大小写）
+4. **多余的 text 元素**：矩形节点的文本不应单独作为 text 元素，而应直接放在矩形的 `text` 属性中
+
+**解决方案**：
+
+```json
+// ❌ 错误示例 - 包含 index 和无效的 boundElements
+{
+  "id": "node-001",
+  "type": "rectangle",
+  "index": "a1",
+  "boundElements": [{"type": "text", "id": "non-existent-id"}]
+}
+
+// ✅ 正确示例 - 移除 index，boundElements 为空
+{
+  "id": "fordOriginal",
+  "type": "rectangle",
+  "x": 80, "y": 270,
+  "width": 180, "height": 60,
+  "text": "『更快的马』",
+  "rawText": "『更快的马』",
+  "boundElements": []
+}
+```
+
+**Text Elements 格式要求**：
+
+```markdown
+## Text Elements
+需求分析 ^center
+原始需求 ^original
+『更快的马』 ^fordOriginal
+...
+```
+
+**关键规则**：
+1. **移除 `index` 字段**：JSON 元素中不要包含 `index` 字段
+2. **`boundElements` 置空**：设置为 `[]` 或仅包含有效的分组 ID
+3. **ID 命名规范**：使用驼峰命名法（如 `fordOriginal`、`phoneSolution`），确保 Text Elements 中的 `^标记` 与 JSON 中的 `id` 完全匹配
+4. **文本放置**：矩形/椭圆节点的文本直接放在 `text` 和 `rawText` 属性中，不要创建单独的 text 元素
+5. **文本对齐**：设置 `textAlign: "center"` 和 `verticalAlign: "middle"`
+
+**调试方法**：
+1. 在 Obsidian 中按 `Ctrl+Shift+I` 打开开发者控制台
+2. 查看 Console 是否有红色错误信息
+3. 使用命令面板：`Decompress current Excalidraw file` 尝试解压修复
+4. 对比能正常显示的文件格式，逐项排查差异
+
+---
+
 ## 质量检查标准
 
 | 检查项 | 标准 |
@@ -415,5 +475,5 @@ tags: [excalidraw]
 | 视觉层次 | 至少使用 3 种描边色区分层级 |
 | 分组清晰 | 相关概念已用背景框归组并加标题 |
 | 工业质感 | roughness ≥ 1.5，strokeWidth ≥ 2，fontFamily 5 |
-| JSON 有效性 | 每个元素 ID 唯一，坐标无重叠 |
+| JSON 有效性 | 每个元素 ID 唯一，坐标无重叠；无 index 字段；boundElements 为空或有效 |
 | 文本规范 | fontFamily 5，" 已替换，() 已替换 |
