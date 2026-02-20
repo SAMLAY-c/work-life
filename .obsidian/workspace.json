@@ -11,12 +11,14 @@
             "id": "22bd70ed7c3bee3a",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "04-RESOURCES/PM产品思维/PM/可视化/02-19_需求分析实战场景-知识图谱.excalidraw.md"
+                "file": "04-RESOURCES/PM产品思维/PM/原稿/02-20.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "excalidraw-icon",
-              "title": "02-19_需求分析实战场景-知识图谱.excalidraw"
+              "icon": "lucide-file",
+              "title": "02-20"
             }
           }
         ]
@@ -76,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 410.5,
-    "collapsed": true
+    "width": 410.5
   },
   "right": {
     "id": "d5791b39732f2bd0",
@@ -199,10 +200,11 @@
   },
   "active": "22bd70ed7c3bee3a",
   "lastOpenFiles": [
-    "04-RESOURCES/PM产品思维/PM/可视化/02-18_需求分析时机-知识图谱.excalidraw.md",
-    "04-RESOURCES/PM产品思维/PM/可视化/02-19_需求分析实战场景-知识图谱.excalidraw.md",
-    "04-RESOURCES/PM产品思维/PM/原稿/02-19.md",
+    "04-RESOURCES/PM产品思维/PM/原稿/02-21.md",
     "04-RESOURCES/PM产品思维/PM/原稿/02-20.md",
+    "04-RESOURCES/PM产品思维/PM/可视化/02-19_需求分析实战场景-知识图谱.excalidraw.md",
+    "04-RESOURCES/PM产品思维/PM/可视化/02-18_需求分析时机-知识图谱.excalidraw.md",
+    "04-RESOURCES/PM产品思维/PM/原稿/02-19.md",
     "04-RESOURCES/PM产品思维/PM/未命名.md",
     "04-RESOURCES/PM产品思维/PM/原稿/02-18.md",
     "04-RESOURCES/PM产品思维/PM/可视化/03_产品经理零基础入门（三）流程图制作精讲课程全套_p03_03.产品经理必备的流程图类型_20260216_163916-课程总览.excalidraw.md",
@@ -216,7 +218,6 @@
     "04-RESOURCES/PM产品思维/PM/可视化/02-13_kimi竞品定义与分类-知识图谱.excalidraw.md",
     "04-RESOURCES/PM产品思维/PM/可视化/02-14_竞品分析-知识图谱.excalidraw.md",
     "04-RESOURCES/PM产品思维/PM/可视化/02-15_需求池管理-知识图谱.excalidraw.md",
-    "04-RESOURCES/PM产品思维/PM/原稿/02-21.md",
     "02-20.需求分析入门.excalidraw.md",
     "move-large-files.ps1",
     "cleanup-large-files.md",
