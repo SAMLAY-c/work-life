@@ -647,15 +647,71 @@
     "expandedKeys": []
   },
   "04-RESOURCES/PM产品思维/PM/原稿/03-10.md": {
-    "scroll": 83.58333333333333,
+    "scroll": 0,
     "cursor": {
       "from": {
-        "line": 105,
-        "ch": 11
+        "line": 0,
+        "ch": 0
       },
       "to": {
-        "line": 105,
-        "ch": 11
+        "line": 305,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "04-RESOURCES/PM产品思维/PM/可视化/05-15-知识图谱.excalidraw.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 4,
+        "ch": 0
+      },
+      "to": {
+        "line": 4,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "04-RESOURCES/PM产品思维/PM/笔记/03-.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 1,
+        "ch": 0
+      },
+      "to": {
+        "line": 1,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "04-RESOURCES/PM产品思维/PM/笔记/03-产品经理结构图制作：模板 + 方法论.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 5,
+        "ch": 0
+      },
+      "to": {
+        "line": 5,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "04-RESOURCES/PM产品思维/PM/笔记/03-10 产品经理结构图制作：模板 + 方法论.md": {
+    "scroll": 124.89582935969035,
+    "cursor": {
+      "from": {
+        "line": 116,
+        "ch": 7
+      },
+      "to": {
+        "line": 116,
+        "ch": 7
       }
     },
     "expandedKeys": []
