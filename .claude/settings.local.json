@@ -5,7 +5,10 @@
       "Bash(git reset:*)",
       "Bash(mkdir:*)",
       "WebSearch",
-      "Bash(npm install)"
+      "Bash(npm install)",
+      "Bash(git add:*)",
+      "Bash(git commit:*)",
+      "Bash(git rm:*)"
     ]
   }
 }
