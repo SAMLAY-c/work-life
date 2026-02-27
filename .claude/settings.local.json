@@ -13,7 +13,9 @@
       "Bash(git lfs:*)",
       "Bash(git push:*)",
       "Bash(git stash pop:*)",
-      "Bash(git stash drop:*)"
+      "Bash(git stash drop:*)",
+      "Bash(git -C /e/work-life log --oneline -10)",
+      "Bash(find:*)"
     ]
   }
 }
