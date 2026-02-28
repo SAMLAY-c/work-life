@@ -1037,5 +1037,47 @@
       }
     },
     "expandedKeys": []
+  },
+  "12-Week-Year/00-System/Dashboard.md": {
+    "scroll": 242.55973932956445,
+    "cursor": {
+      "from": {
+        "line": 271,
+        "ch": 8
+      },
+      "to": {
+        "line": 271,
+        "ch": 8
+      }
+    },
+    "expandedKeys": []
+  },
+  "12-Week-Year/00-System/Config.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 5,
+        "ch": 0
+      },
+      "to": {
+        "line": 5,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "12-Week-Year/00-System/Templates/12w-Period-Template.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 0,
+        "ch": 0
+      },
+      "to": {
+        "line": 0,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
   }
 }

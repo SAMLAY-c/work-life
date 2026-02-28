@@ -8,26 +8,31 @@ tags: [12w, config]
 
 ## 📋 模板使用方式
 
-### 方法1：手动选择模板（推荐）
+### 快速使用（推荐）
 
-1. 在 Obsidian 中按 `Ctrl/Cmd + N` 创建新笔记
-2. 按 `Ctrl/Cmd + P` 打开命令面板
-3. 输入 "Templater: Insert template"
+1. 在 Obsidian 中按 `Ctrl/Cmd + P` 打开命令面板
+2. 输入 "Templater: Insert template"
+3. 导航到 `12-Week-Year/` 文件夹
 4. 选择对应的模板文件：
-   - `12-Week-Year/00-System/Templates/12w-Period-Template.md` - 创建新周期
-   - `12-Week-Year/00-System/Templates/12w-Week-Template.md` - 创建周记录
-   - `12-Week-Year/00-System/Templates/12w-Project-Migration.md` - 迁移项目
+   - `12w-Period-Template.md` - 创建新周期
+   - `12w-Week-Template.md` - 创建周记录
+   - `12w-Project-Migration.md` - 迁移项目
 
-### 方法2：修改 Templater 配置（可选）
+### 模板文件位置
 
-如果您想将12周工作法作为主要模板系统，可以修改 Templater 配置：
+12周工作法的模板已集成到根目录的模板文件夹：
+```
+template/12-Week-Year/
+├── 12w-Period-Template.md      ← 周期创建模板
+├── 12w-Week-Template.md        ← 周记录模板
+└── 12w-Project-Migration.md    ← 项目迁移模板
+```
 
-1. 打开 Obsidian 设置
-2. 找到 "Templater" 插件设置
-3. 将 "Template folder location" 设置为：`12-Week-Year/00-System/Templates`
-4. **注意**：这会影响您原有的模板系统
+### 配置说明
 
-**建议**：保持原有配置，使用方法1手动选择模板。
+Templater 插件的模板文件夹已设置为 `template`，因此12周工作法的模板会自动出现在模板列表中。
+
+**注意**：旧的模板位置 `12-Week-Year/00-System/Templates/` 仍保留作为备份。
 
 ---
 
@@ -69,29 +74,32 @@ tags: [12w, config]
 ## 📁 文件结构说明
 
 ```
-12-Week-Year/
-├── 00-System/
-│   ├── Dashboard.md           ← 主仪表板（从这里开始）
-│   ├── Config.md              ← 本配置文档
-│   ├── Templates/             ← 模板文件夹
-│   │   ├── 12w-Period-Template.md
-│   │   ├── 12w-Week-Template.md
-│   │   └── 12w-Project-Migration.md
-│   └── Scripts/               ← DataviewJS脚本（可选）
+work-life/
+├── template/                  ← 根目录模板文件夹（Templater配置）
+│   └── 12-Week-Year/          ← 12周工作法模板
+│       ├── 12w-Period-Template.md
+│       ├── 12w-Week-Template.md
+│       └── 12w-Project-Migration.md
 │
-├── 01-Periods/                ← 周期笔记和周记录
-│   ├── 2026-P01.md            ← 第一个周期
-│   ├── 2026-P01-W01.md        ← 第1周周记录
-│   └── Archive/               ← 已完成的周期
-│
-├── 02-Projects/               ← 12周框架内的项目
-│   ├── vibecoding-教程/
-│   ├── 副业-故事生成系统/
-│   └── 飞书API集成/
-│
-├── 03-Tactics/                ← 可复用战术库（待开发）
-├── 04-Habits/                 ← 习惯基底核（待开发）
-└── 99-Archive/                ← 12周系统归档
+└── 12-Week-Year/              ← 12周工作法主目录
+    ├── 00-System/
+    │   ├── Dashboard.md       ← 主仪表板（从这里开始）
+    │   ├── Config.md          ← 本配置文档
+    │   ├── README.md          ← 实施报告
+    │   ├── Templates/         ← 旧模板位置（已备份）
+    │   └── Scripts/           ← DataviewJS脚本（可选）
+    │
+    ├── 01-Periods/            ← 周期笔记和周记录
+    │   ├── 2026-P01.md        ← 第一个周期
+    │   ├── 2026-P01-W01.md    ← 第1周周记录
+    │   └── Archive/           ← 已完成的周期
+    │
+    ├── 02-Projects/           ← 12周框架内的项目
+    │   └── vibecoding-教程.md
+    │
+    ├── 03-Tactics/            ← 可复用战术库（待开发）
+    ├── 04-Habits/             ← 习惯基底核（待开发）
+    └── 99-Archive/            ← 12周系统归档
 ```
 
 ---

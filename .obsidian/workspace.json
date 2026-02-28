@@ -11,10 +11,14 @@
             "id": "9afa5a39c69842b3",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "12-Week-Year/00-System/Templates/12w-Period-Template.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "新标签页"
+              "title": "12w-Period-Template"
             }
           }
         ]
@@ -196,15 +200,20 @@
   },
   "active": "9afa5a39c69842b3",
   "lastOpenFiles": [
+    "12-Week-Year/00-System/Templates/12w-Project-Migration.md",
+    "12-Week-Year/00-System/Templates/12w-Period-Template.md",
+    "12-Week-Year/00-System/Dashboard.md",
+    "template/12-Week-Year/12w-Week-Template.md",
+    "template/12-Week-Year/12w-Project-Migration.md",
+    "template/12-Week-Year/12w-Period-Template.md",
+    "template/12-Week-Year",
+    "template",
+    "12-Week-Year/00-System/Config.md",
     "12-Week-Year/00-System/README.md",
     "12-Week-Year/01-Periods/2026-P01-W01.md",
     "12-Week-Year/02-Projects/vibecoding-教程.md",
     "12-Week-Year/01-Periods/2026-P01.md",
-    "12-Week-Year/00-System/Config.md",
-    "12-Week-Year/00-System/Dashboard.md",
-    "12-Week-Year/00-System/Templates/12w-Project-Migration.md",
     "12-Week-Year/00-System/Templates/12w-Week-Template.md",
-    "12-Week-Year/00-System/Templates/12w-Period-Template.md",
     "12-Week-Year/99-Archive",
     "12-Week-Year/04-Habits",
     "12-Week-Year/03-Tactics",
@@ -213,8 +222,6 @@
     "12-Week-Year/00-System/Templates",
     "12-Week-Year/00-System/Scripts",
     "12-Week-Year/01-Periods",
-    "12-Week-Year/00-System",
-    "12-Week-Year",
     "04-RESOURCES/PM产品思维/PM/笔记/03-05 流程图.md",
     "conflict-files-obsidian-git.md",
     "04-RESOURCES/PM产品思维/PM/笔记/未命名.md",
@@ -229,9 +236,6 @@
     "04-RESOURCES/PM产品思维/PM/笔记/05-15.md",
     "04-RESOURCES/PM产品思维/PM/原稿/05-15.md",
     "04-RESOURCES/PM产品思维/PM/原稿/05-16.md",
-    "10-Projects/飞书/code/node_modules/has-tostringtag/README.md",
-    "10-Projects/飞书/code/node_modules/has-tostringtag/CHANGELOG.md",
-    "10-Projects/飞书/code/node_modules/has-symbols/README.md",
     "00_Media/Pasted image 20260220194352.png",
     "00_Media/Pasted image 20260220194337.png",
     "00_Media/Pasted image 20260220193555.png",
