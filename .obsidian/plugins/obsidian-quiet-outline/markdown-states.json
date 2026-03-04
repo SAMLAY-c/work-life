@@ -1084,12 +1084,12 @@
     "scroll": 0,
     "cursor": {
       "from": {
-        "line": 0,
-        "ch": 0
+        "line": 1,
+        "ch": 6
       },
       "to": {
-        "line": 308,
-        "ch": 0
+        "line": 1,
+        "ch": 24
       }
     },
     "expandedKeys": []
