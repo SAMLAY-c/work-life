@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "12-Week-Year/00-System/Templates/12w-Period-Template.md",
+                "file": "template/excalidraw-diagram/skill.md",
                 "mode": "source",
-                "source": false
+                "source": true
               },
               "icon": "lucide-file",
-              "title": "12w-Period-Template"
+              "title": "skill"
             }
           }
         ]
@@ -200,8 +200,13 @@
   },
   "active": "9afa5a39c69842b3",
   "lastOpenFiles": [
-    "12-Week-Year/00-System/Templates/12w-Project-Migration.md",
+    "obsidian-claude-skills/CHANGELOG.md",
+    "template/excalidraw-diagram/skill.md",
+    "template/excalidraw-diagram/references/excalidraw-schema.md",
+    "template/excalidraw-diagram/references",
+    "template/excalidraw-diagram",
     "12-Week-Year/00-System/Templates/12w-Period-Template.md",
+    "12-Week-Year/00-System/Templates/12w-Project-Migration.md",
     "12-Week-Year/00-System/Dashboard.md",
     "template/12-Week-Year/12w-Week-Template.md",
     "template/12-Week-Year/12w-Project-Migration.md",
@@ -220,8 +225,6 @@
     "12-Week-Year/02-Projects",
     "12-Week-Year/01-Periods/Archive",
     "12-Week-Year/00-System/Templates",
-    "12-Week-Year/00-System/Scripts",
-    "12-Week-Year/01-Periods",
     "04-RESOURCES/PM产品思维/PM/笔记/03-05 流程图.md",
     "conflict-files-obsidian-git.md",
     "04-RESOURCES/PM产品思维/PM/笔记/未命名.md",
@@ -233,9 +236,6 @@
     "04-RESOURCES/PM产品思维/PM/笔记/05-15-PRD个人中心页面规则模板+方法论.md",
     "04-RESOURCES/PM产品思维/PM/笔记/05-prd分类-交互-.md",
     "04-RESOURCES/PM产品思维/PM/可视化/05-15-知识图谱-v2.excalidraw.md",
-    "04-RESOURCES/PM产品思维/PM/笔记/05-15.md",
-    "04-RESOURCES/PM产品思维/PM/原稿/05-15.md",
-    "04-RESOURCES/PM产品思维/PM/原稿/05-16.md",
     "00_Media/Pasted image 20260220194352.png",
     "00_Media/Pasted image 20260220194337.png",
     "00_Media/Pasted image 20260220193555.png",
