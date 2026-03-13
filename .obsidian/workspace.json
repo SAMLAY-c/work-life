@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "04-RESOURCES/PM产品思维/PM/笔记/ai运维流程图.md",
+                "file": "04-RESOURCES/飞书/画板1-Markdown Mermaid 流程图至飞书画板自动化生成与推送 SOP.md",
                 "mode": "source",
-                "source": true
+                "source": false
               },
               "icon": "lucide-file",
-              "title": "ai运维流程图"
+              "title": "画板1-Markdown Mermaid 流程图至飞书画板自动化生成与推送 SOP"
             }
           }
         ]
@@ -200,8 +200,10 @@
   },
   "active": "9afa5a39c69842b3",
   "lastOpenFiles": [
-    "template/excalidraw-diagram/skill.md",
     "04-RESOURCES/PM产品思维/PM/笔记/ai运维流程图.md",
+    "04-RESOURCES/飞书/画板1-Markdown Mermaid 流程图至飞书画板自动化生成与推送 SOP.md",
+    "04-RESOURCES/飞书",
+    "template/excalidraw-diagram/skill.md",
     "obsidian-claude-skills/CHANGELOG.md",
     "template/excalidraw-diagram/references/excalidraw-schema.md",
     "template/excalidraw-diagram/references",
@@ -225,7 +227,6 @@
     "12-Week-Year/03-Tactics",
     "12-Week-Year/02-Projects",
     "12-Week-Year/01-Periods/Archive",
-    "12-Week-Year/00-System/Templates",
     "04-RESOURCES/PM产品思维/PM/笔记/03-05 流程图.md",
     "conflict-files-obsidian-git.md",
     "04-RESOURCES/PM产品思维/PM/笔记/未命名.md",
@@ -235,7 +236,6 @@
     "04-RESOURCES/PM产品思维/PM/笔记/03-13 产品结构图.md",
     "04-RESOURCES/PM产品思维/PM/笔记/05-10-PRD登录页面规则模板+方法论.md",
     "04-RESOURCES/PM产品思维/PM/笔记/05-15-PRD个人中心页面规则模板+方法论.md",
-    "04-RESOURCES/PM产品思维/PM/笔记/05-prd分类-交互-.md",
     "00_Media/Pasted image 20260220194352.png",
     "00_Media/Pasted image 20260220194337.png",
     "00_Media/Pasted image 20260220193555.png",
